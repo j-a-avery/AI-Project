@@ -1,0 +1,670 @@
+,Color,Dimensions,"External 3.5"" Bays","External 5.25"" Bays","External 5.25"" Slim Bays","External 5.25"" Slim Slot Load Bays",Front Panel USB 3.0 Ports,Includes Power Supply,"Internal 2.5"" Bays","Internal 3.5"" Bays","Internal 5.25"" Bays",Manufacturer,Maximum Video Card Length,Model,Motherboard Compatibility,Part Number,Type
+0,Black,,,,,,True,False,2,2,,Deepcool,"370 mm / 14.567""",,"ATX, EATX, Micro ATX, Mini ITX",MATREXX 55,ATX Mid Tower
+1,Black,,,,,,True,False,3,7,,be quiet!,"286 mm / 11.26"" With Drive Cages, 430 mm / 16.929"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",Dark Base 700 / BGW23,ATX Mid Tower
+2,Silver,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C Gunmetal - TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-GY-TGL,ATX Mid Tower
+3,Black,,,,1,,True,False,2,1,,Silverstone,"330 mm / 12.992""",RVZ02B,Mini ITX,SST-RVZ02B / RVZ02B,HTPC
+4,White,,,2,,,True,False,3,3,,Deepcool,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",DUKASE WHV2,ATX Mid Tower
+5,White / Black,,,,,,True,False,2,2,,Deepcool,"370 mm / 14.567""",,"ATX, EATX, Micro ATX, Mini ITX",MATREXX 55 ADD-RGB WH,ATX Mid Tower
+6,Black,,,2,,,True,False,4,7,,Silverstone,"344 mm / 13.543""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",RV04B-W / SST-RV04B-W,ATX Full Tower
+7,Black,500 mm x 215 mm x 480 mm,,,,,True,False,2,2,,Inwin,"350 mm / 13.78""",303C (Black),"ATX, Micro ATX, Mini ITX",303C BLACK,ATX Mid Tower
+8,White / Black,455 mm x 200 mm x 477 mm,,,,,True,False,2,3,,Silverstone,"348 mm / 13.701""",Redline RL06WS-PRO,"ATX, Micro ATX, Mini ITX",RL06WS-PRO / SST-RL06WS-PRO,ATX Mid Tower
+9,Black,,,,,,True,650 W,2,,,Inwin,"320 mm / 12.598""",A1 PLUS BLACK,Mini ITX,IW-A1PLUS-BLACK,Mini ITX Tower
+10,Black,453 mm x 179 mm x 407 mm,1,4,,,False,500 W,,6,,Cooler Master,"230 mm / 9.055""",Elite 350,"ATX, Micro ATX, Mini ITX",RC-350-KKR500-GP,ATX Mid Tower
+11,White,,,,,,True,False,2,3,,NZXT,"334 mm / 13.15"" With Drive Cages, 364 mm / 14.331"" Without Drive Cages",S340 (White),"ATX, Micro ATX, Mini ITX",CA-S340W-W1,ATX Mid Tower
+12,Black / White,,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400i,"Micro ATX, Mini ITX",CA-H400W-WB,MicroATX Mini Tower
+13,Black / Red,,,,,,True,False,5,3,,Azza,"370 mm / 14.567""",Obsidian 270,"ATX, Micro ATX, Mini ITX",CSAZ-270,ATX Mid Tower
+14,Black,,,,,,True,False,3,2,,Gigabyte,"400 mm / 15.748""",AC300W,"ATX, Micro ATX, Mini ITX",GB-AC300W,ATX Mid Tower
+15,Black,370 mm x 188 mm x 365 mm,,,,,True,False,2,1,,Inwin,"265 mm / 10.433"" With Drive Cages, 330 mm / 12.992"" Without Drive Cages",,"Micro ATX, Mini ITX",301C Black,MicroATX Mini Tower
+16,Black,,,2,,,True,False,2,4,,Zalman,"420 mm / 16.535""",,"ATX, Micro ATX, Mini ITX",ZM-Z9 NEO BLACK / ZM-Z9 NEO BK,ATX Mid Tower
+17,Black,356 mm x 273 mm x 210 mm,,,,,True,600 W,2,,,Inwin,"300 mm / 11.811""",A1 (Black),Mini ITX,IW-A1-BLA-P,Mini ITX Tower
+18,White,452 mm x 210 mm x 489 mm,,,,,True,False,3,2,,BitFenix,"340 mm / 13.386""",Enso Mesh (White),"ATX, Micro ATX, Mini ITX",BFC-ESM-150-WWWGK-RP,ATX Mid Tower
+19,Gray,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400 TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PTG_AG,ATX Mid Tower
+20,Black,467 mm x 222 mm x 510 mm,,,,,True,False,3,3,,Silverstone,"388 mm / 15.276""",Kublai,"ATX, Micro ATX, Mini ITX",KL07 / SST-KL07B / KL07B,ATX Mid Tower
+21,Black / Orange,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Window Orange,"ATX, EATX, Micro ATX, Mini ITX",BGW25,ATX Mid Tower
+22,Black,104 mm x 439 mm x 350 mm,,1,,,True,False,1,2,,Silverstone,,,"Micro ATX, Mini DTX, Mini ITX",ML04B / SST-ML04B,HTPC
+23,Black,,,,,,True,False,4,2,,Corsair,"370 mm / 14.567""",Carbide SPEC-06 RGB,"ATX, Micro ATX, Mini ITX",CC-9011146-WW,ATX Mid Tower
+24,White / Black,,,,,,True,False,2,2,,Inwin,"305 mm / 12.008"" With Drive Cages, 421 mm / 16.575"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",101C White,ATX Mid Tower
+25,Black / White,450 mm x 210 mm x 465 mm,,1,,,True,False,2,2,,Silverstone,"374 mm / 14.724""",Redline RL05 (Black/White),"ATX, Micro ATX, Mini ITX",SST-RL05BW-W / RL05BW-W,ATX Mid Tower
+26,Black,,,,,,True,False,4,2,,FSP Group,"423 mm / 16.654""",,"ATX, EATX, Micro ATX, Mini ITX",CMT520,ATX Mid Tower
+27,Black / Green,462 mm x 220 mm x 461 mm,,,,,True,False,2,3,,DIYPC,"410 mm / 16.142""",VisionII (Black/Green),"ATX, Micro ATX, Mini ITX",VisionII-BG,ATX Mid Tower
+28,White,,1,,,,True,False,,3,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Core P5 Tempered Glass Snow Edition,"ATX, Micro ATX, Mini ITX",CA-1E7-00M6WN-01,ATX Mid Tower
+29,Pink,495 mm x 196 mm x 444 mm,,4,,,True,False,1,4,,Apevia,,,"ATX, Micro ATX, Mini ITX",X-DREAMER4-PK,ATX Mid Tower
+30,Black,494 mm x 211 mm x 475 mm,,,,,True,False,2,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB500 TUF Edition,"ATX, Micro ATX, Mini ITX",MCB-B500D-KGNN-TUF,ATX Mid Tower
+31,Black,500 mm x 235 mm x 480 mm,,1,,,True,False,3,8,,Phanteks,"300 mm / 11.811"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Enthoo Pro M Tempered Glass (Black),"ATX, EATX, Micro ATX, Mini ITX",PH-ES515PTG_BK,ATX Mid Tower
+32,Black / Red,640 mm x 483 mm x 330 mm,,1,,,True,False,7,6,,Inwin,"385 mm / 15.157""",X-Frame 2.0 (Black/Red),"ATX, EATX, Micro ATX, Mini ITX",IW-XFRAME2-RED,ATX Test Bench
+33,White,,,,,,True,False,,2,,Corsair,"300 mm / 11.811""",Crystal 280X RGB,"Micro ATX, Mini ITX",CC-9011137-WW,MicroATX Mid Tower
+34,Black,175 mm x 439 mm x 435 mm,,4,,,True,False,2,5,,Silverstone,"345 mm / 13.583""",GD07B (Black),"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",SST-GD07B / GD07B,HTPC
+35,Black / Red,,,5,,,True,False,12,6,,Phanteks,"257 mm / 10.118"" With Drive Cages, 515 mm / 20.276"" Without Drive Cages",Enthoo Primo,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES813P_SRD,ATX Full Tower
+36,Black,415 mm x 190 mm x 460 mm,,1,,,True,False,3,2,,Aerocool,"346 mm / 13.622"" With Drive Cages, 372 mm / 14.646"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",Aero-300 Black FAW,ATX Mid Tower
+37,Black,330 mm x 220 mm x 129 mm,1,1,,,False,250 W,,1,,Rosewill,"270 mm / 10.63""",,"Mini ITX, Thin Mini ITX",RS-MI-01 BK,Mini ITX Tower
+38,Black,415 mm x 177 mm x 387 mm,2,2,,,False,500 W,,2,,Apevia,,X-QBOII Black,"Micro ATX, Mini ITX",X-QBOII-NW-BK/500,MicroATX Mini Tower
+39,Black,,,,,,True,False,4,2,,Lian-Li,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",PC-O11D Razer,ATX Full Tower
+40,Gray / Black,,,,,,True,False,3,4,,Phanteks,"294 mm / 11.575"" With Drive Cages, 435 mm / 17.126"" Without Drive Cages",ECLIPSE P600S,"ATX, Micro ATX, Mini ITX",PH-EC600PSTG_AG01,ATX Mid Tower
+41,Black / Green,493 mm x 215 mm x 516 mm,,3,,,True,False,,6,,Enermax,"414 mm / 16.299""",Ostrog ADV (Black/Green),"ATX, Micro ATX, Mini ITX",ECA3380AS-GN,ATX Mid Tower
+42,Black / Red,,,2,,,True,False,3,2,,RIOTORO,"320 mm / 12.598""",,"ATX, Micro ATX, Mini ITX",CR488,ATX Mid Tower
+43,Black / Silver,664 mm x 344 mm x 704 mm,,3,,,True,False,,13,,Cooler Master,"190 mm / 7.48"" With Drive Cages, 385 mm / 15.157"" Without Drive Cages",COSMOS II 25th Anniversary Edition,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB, XL ATX",RC-1200-KKN2,ATX Full Tower
+44,Black / Red,544 mm x 242 mm x 574 mm,,2,,,True,False,1,4,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase MC500Mt,"ATX, Micro ATX, Mini ITX",MCM-M500T-RH5N-S00,ATX Mid Tower
+45,Black,175 mm x 439 mm x 435 mm,,2,,,True,False,2,8,,Silverstone,"345 mm / 13.583""",GD08B (Black),"ATX, EATX, Micro ATX, Mini ITX",SST-GD08B / GD08B,HTPC
+46,Black,475 mm x 254 mm x 585 mm,,,,,True,False,4,4,,RIOTORO,"400 mm / 15.748""",CR1280 PRISM RGB,"ATX, EATX, Micro ATX, Mini ITX",CR1280,ATX Full Tower
+47,Black,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",SPEC-OMEGA RGB,"ATX, Micro ATX, Mini ITX",CC-9011140-WW,ATX Mid Tower
+48,Black,238 mm x 205 mm x 378 mm,,1,,,True,False,1,3,,Cooler Master,"343 mm / 13.504""",Elite 130,Mini ITX,RC-130-KKN1,Mini ITX Tower
+49,Black,492 mm x 220 mm x 470 mm,,2,,,True,False,5,3,,be quiet!,"280 mm / 11.024"" With Drive Cages, 425 mm / 16.732"" Without Drive Cages",Pure Base 600 (Black),"ATX, Micro ATX, Mini ITX",BG021,ATX Mid Tower
+50,White / Black,,,,,,False,False,4,3,,Corsair,"330 mm / 12.992""",Crystal Series 680X RGB,"ATX, EATX, Micro ATX, Mini ITX",CC-9011169-WW,ATX Mid Tower
+51,Black,560 mm x 220 mm x 571 mm,,,,,True,False,5,4,,Silverstone,"419 mm / 16.496""",Primera RGB (Matte Black),"ATX, Micro ATX, Mini ITX",SST-PM01C-RGB / PM01C-RGB,ATX Mid Tower
+52,Black / Red,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500i (Black/Red),"ATX, Micro ATX, Mini ITX",CA-H500W-BR,ATX Mid Tower
+53,White,480 mm x 226 mm x 445 mm,,,,,True,False,2,2,,Inwin,"305 mm / 12.008"" With Drive Cages, 421 mm / 16.575"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",101 White,ATX Mid Tower
+54,White,421 mm x 210 mm x 417 mm,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400 (White),"Micro ATX, Mini ITX",CA-H400B-W1,MicroATX Mini Tower
+55,Black,249 mm x 403 mm x 358 mm,,1,,,True,False,5,4,,BitFenix,"250 mm / 9.843"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Prodigy M Midnight Black,"Micro ATX, Mini ITX",BFC-PRM-300-KKWSK-RP,MicroATX Mini Tower
+56,Black,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500 (Black),"ATX, Micro ATX, Mini ITX",CA-H500B-B1,ATX Mid Tower
+57,Black / Green,440 mm x 198 mm x 451 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-Harmony (Black/Green),"ATX, Micro ATX, Mini ITX",X-HARMONY-GN,ATX Mid Tower
+58,Gray,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400S TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PSTG_AG,ATX Mid Tower
+59,Black,,,3,,,True,False,4,6,,Corsair,"340 mm / 13.386"" With Drive Cages, 450 mm / 17.717"" Without Drive Cages",750D Airflow Edition,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CC-9011078-WW,ATX Full Tower
+60,Black / Red,,,2,,,True,False,,4,,Deepcool,"310 mm / 12.205""",,"ATX, Micro ATX, Mini ITX",TESSERACT SW RED,ATX Mid Tower
+61,Black,538 mm x 261 mm x 525 mm,,,,,True,False,8,3,,Thermaltake,"410 mm / 16.142""",View 37 ARGB Edition,"ATX, EATX, Micro ATX, Mini ITX",CA-1J7-00M1WN-04,ATX Mid Tower
+62,Black / Red,,,2,,,True,False,2,3,,SAMA,"418 mm / 16.457""",,"Micro ATX, Mini ITX",Maxcool-BK-15LEDLight,MicroATX Mid Tower
+63,Black,286 mm x 570 mm x 597 mm,,3,,,True,False,2,8,,Antec,"430 mm / 16.929""",,"ATX, Micro ATX, Mini ITX",P9 Window,ATX Full Tower
+64,Black / Red,406 mm x 228 mm x 500 mm,,,,,True,False,2,3,,Inwin,"340 mm / 13.386""",,Mini ITX,D-FRAME MINI BLACK,Mini ITX Tower
+65,Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Meshify S2 Black – Dark TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-S2-BKO-TGD,ATX Mid Tower
+66,Red / Black,,,2,,,True,False,3,2,,DIYPC,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",DIY-TG8-BR,ATX Mid Tower
+67,Black,686 mm x 270 mm x 643 mm,,,,,True,False,2,2,,EVGA,,DG-84,"ATX, EATX, Micro ATX, Mini ITX",100-E2-1000-K0,ATX Full Tower
+68,Black,493 mm x 217 mm x 468 mm,,,,,True,False,4,2,,Cooler Master,"410 mm / 16.142""",MasterBox TD500,"ATX, Micro ATX, Mini ITX",MCB-D500D-KANN-S00,ATX Mid Tower
+69,Black / Purple,,,,,,True,False,3,2,,DIYPC,"315 mm / 12.402""",,"Micro ATX, Mini ITX",DIY-F2-P,MicroATX Mini Tower
+70,Black,232 mm x 549 mm x 439 mm,,2,,,True,False,1,5,,Rosewill,"355 mm / 13.976""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",RISE Glow,ATX Full Tower
+71,Black,,,2,,,True,False,,3,,Cougar,"310 mm / 12.205""",Solution 2,"ATX, Micro ATX",Solution2,ATX Mid Tower
+72,Black / Silver,580 mm x 294 mm x 592 mm,,,,,True,False,1,7,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 410 mm / 16.142"" Without Drive Cages",Level 20 GT,"ATX, EATX, Micro ATX, Mini ITX",CA-1K9-00F1WN-00,ATX Full Tower
+73,Black / Red,,,2,,,True,False,2,3,,Corsair,"426 mm / 16.772""",SPEC-02,"ATX, Micro ATX, Mini ITX",CC-9011051-WW,ATX Mid Tower
+74,White / Blue,,,,,,True,1065 W,,4,,Inwin,"350 mm / 13.78"" With Drive Cages, 415 mm / 16.339"" Without Drive Cages",,"ATX, EATX, Micro ATX, Mini ITX",D-Frame 2.0 WH/BL,ATX Full Tower
+75,Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 USB-C Blackout - TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-BKO-TGL,ATX Mid Tower
+76,Black,,3,,,,True,False,,3,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 570 mm / 22.441"" Without Drive Cages",Core P7 Tempered Glass Edition,"ATX, EATX, Micro ATX, Mini ITX",CA-1I2-00F1WN-00,ATX Mid Tower
+77,Black,544 mm x 235 mm x 548 mm,,2,,,True,False,2,4,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase MC600P,"ATX, Micro ATX, Mini ITX",MCM-M600P-KG5N-S00,ATX Mid Tower
+78,Black,,,,,,True,False,,7,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 410 mm / 16.142"" Without Drive Cages",View 71 TG,"ATX, EATX, Micro ATX, Mini ITX",CA-1I7-00F1WN-00,ATX Full Tower
+79,Black / Blue,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QPACK3-BL,MicroATX Mini Tower
+80,Black,,,,1,,True,False,3,6,,Lian-Li,"290 mm / 11.417""",,"Micro ATX, Mini ITX",PC-O6SX,HTPC
+81,Black,,,,,,True,False,2,2,,Cougar,"330 mm / 12.992""",,"ATX, Micro ATX, Mini ITX",MX340,ATX Mid Tower
+82,Black,169 mm x 359 mm x 406 mm,,2,,,True,False,1,4,,Silverstone,"358 mm / 14.094""",,"Micro ATX, Mini ITX",PS09B / SST-PS09B,MicroATX Mid Tower
+83,White,,,,1,,True,False,1,1,,Silverstone,"254 mm / 10""",,"Mini DTX, Mini ITX, Thin Mini ITX",SG05W-LITE / SST-SG05W-LITE,Mini ITX Desktop
+84,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Define C,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-C-BK,ATX Mid Tower
+85,Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C Blackout,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-BKO,ATX Mid Tower
+86,Black,214 mm x 488 mm x 499 mm,,4,,,True,False,6,9,,Silverstone,"431 mm / 16.969""",KL04B (Black),"ATX, Micro ATX, Mini ITX, SSI CEB",SST-KL04B / KL04B,ATX Mid Tower
+87,Black / Red,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400S TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PSTG_BR,ATX Mid Tower
+88,Black / White,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C - TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-BK-TGL,ATX Mid Tower
+89,Black,,1,1,,,True,False,4,2,,Cooler Master,"355 mm / 13.976""",Silencio 352,"Micro ATX, Mini ITX",SIL-352M-KKN1,MicroATX Mini Tower
+90,Black / Red,,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400i,"Micro ATX, Mini ITX",CA-H400W-BR,MicroATX Mini Tower
+91,Black,494 mm x 211 mm x 475 mm,,,,,True,False,2,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB500,"ATX, Micro ATX, Mini ITX",MCB-B500D-KGNN-S00,ATX Mid Tower
+92,Black,,,,,,True,False,2,2,,DIYPC,"395 mm / 15.551""",,"ATX, Micro ATX, Mini ITX",DIY-Line-RGB,ATX Mid Tower
+93,White / Black,,,,,,True,False,2,2,,NZXT,"363 mm / 14.291""",Manta (White/Black),Mini ITX,CA-MANTW-W1,Mini ITX Desktop
+94,Black,,1,,,,True,False,,3,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Core P5,"ATX, Micro ATX, Mini ITX",CA-1E7-00M1WN-00,ATX Mid Tower
+95,Black,464 mm x 205 mm x 383 mm,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G Mini (Black),"Micro ATX, Mini ITX",FD-CA-FOCUS-MINI-BK-W,MicroATX Mini Tower
+96,Black / White,550 mm x 235 mm x 535 mm,,3,,,True,False,2,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Pro TG RGB Special Edition,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES614PTG_SWT,ATX Full Tower
+97,White / Purple,432 mm x 203 mm x 474 mm,,,,,True,False,2,3,,NZXT,"334 mm / 13.15"" With Drive Cages, 364 mm / 14.331"" Without Drive Cages",S340 (Matte White/Purple),"ATX, Micro ATX, Mini ITX",CA-S340W-W3,ATX Mid Tower
+98,White,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200 (White),Mini ITX,CA-H200B-W1,Mini ITX Tower
+99,White / Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Meshify C White TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-C-WT-TGC,ATX Mid Tower
+100,White / Blue,,,,,,True,False,2,6,,NZXT,"305 mm / 12.008"" With Drive Cages, 406 mm / 15.984"" Without Drive Cages",Noctis 450,"ATX, Micro ATX, Mini ITX",CA-N450W-W1,ATX Mid Tower
+101,Black,491 mm x 210 mm x 455 mm,,,,,True,False,1,2,,Cooler Master,"400 mm / 15.748""",MasterBox K500,"ATX, Micro ATX, Mini ITX",MCB-K500D-KGNN-S00,ATX Mid Tower
+102,White / Black,463 mm x 217 mm x 513 mm,1,1,,,True,False,1,3,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",Versa N21 Snow,"ATX, Micro ATX, Mini ITX",CA-1D9-00M6WN-00,ATX Mid Tower
+103,Black,,,2,,,True,False,,2,,Fractal Design,"170 mm / 6.693"" With Drive Cages, 350 mm / 13.78"" Without Drive Cages",Core 1100,"Micro ATX, Mini ITX",FD-CA-CORE-1100-BL,MicroATX Mini Tower
+104,Black,427 mm x 195 mm x 473 mm,,1,,,True,False,2,2,,Cougar,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",MX330 / 385NC10.0002,ATX Mid Tower
+105,Black,471 mm x 208 mm x 476 mm,,,,,True,False,2,2,,Thermaltake,"410 mm / 16.142""",Core G21 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1I4-00M1WN-00,ATX Mid Tower
+106,Black,389 mm x 344 mm x 307 mm,,,,1,True,False,2,10,,Fractal Design,"290 mm / 11.417"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Node 804,"Micro ATX, Mini ITX",FD-CA-NODE-804-BL-W / FD-CA-NODE-804-BL,MicroATX Mid Tower
+107,Black,,,,,,True,False,2,1,,Metallic Gear,"345 mm / 13.583""",NEO G MINI,Mini ITX,MG-NE210G_BK01,Mini ITX Tower
+108,White / Black,561 mm x 243 mm x 594 mm,,3,,,True,False,,8,,Inwin,"342 mm / 13.465"" With Drive Cages, 365 mm / 14.37"" Without Drive Cages",GRone White (White),"ATX, EATX, Micro ATX",GRone White / BX141WHI,ATX Full Tower
+109,Black,,,,,,True,False,4,2,,DIYPC,"395 mm / 15.551""",,"ATX, Micro ATX, Mini ITX",DIY-SD1-RGB,ATX Mid Tower
+110,Black,,,3,,,True,False,3,4,,Thermaltake,"330 mm / 12.992"" With Drive Cages, 480 mm / 18.898"" Without Drive Cages",Core X2,"Micro ATX, Mini ITX",CA-1D7-00C1WN-00,MicroATX Mini Tower
+111,White / Black,,,2,,,True,False,4,2,,Corsair,"320 mm / 12.598""",Air 540,"ATX, EATX, Micro ATX, Mini ITX",CC-9011048-WW,ATX Mid Tower
+112,Black,,,,,,True,False,2,2,,VIVO,"330 mm / 12.992""",,"Micro ATX, Mini ITX",CASE-V06,MicroATX Mid Tower
+113,White,534 mm x 234 mm x 549 mm,,3,,,True,False,1,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Pro,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES614P_WT,ATX Full Tower
+114,Black,525 mm x 225 mm x 538 mm,,,,,True,False,2,4,,Azza,"420 mm / 16.535""",Storm 6000B RGB (Black),"ATX, Micro ATX, Mini ITX",CSAZ-6000RGB/B,ATX Full Tower
+115,Black,,,,1,,True,False,1,1,,Silverstone,"254 mm / 10""",,Mini ITX,SG06BB-LITE / SST-SG06BB-LITE,Mini ITX Desktop
+116,Black,467 mm x 198 mm x 414 mm,,2,,,True,False,,4,,Corsair,"414 mm / 16.299""",SPEC-01 RED,"ATX, Micro ATX, Mini ITX",SPEC-01 RED LED / CC-9011050-WW,ATX Mid Tower
+117,Black,,,,,,True,False,2,2,,Thermaltake,"255 mm / 10.039"" With Drive Cages, 285 mm / 11.22"" Without Drive Cages",Suppressor F1,Mini ITX,CA-1E6-00S1WN-00,Mini ITX Desktop
+118,Gray,,,,,,True,False,2,2,,Phanteks,"529 mm / 20.827""",ENTHOO EVOLV SHIFT X,Mini ITX,PH-ES217XE_AG,Mini ITX Tower
+119,Black,,,2,,,True,False,1,6,,Rosewill,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",Stryker M,ATX Mid Tower
+120,Black / Red,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500 (Black/Red),"ATX, Micro ATX, Mini ITX",CA-H500B-BR,ATX Mid Tower
+121,Black / White,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Define S2 Black – TG,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S2-BK-TGL,ATX Mid Tower
+122,Black,470 mm x 200 mm x 405 mm,,,,,True,False,4,2,,Antec,"390 mm / 15.354""",,"Micro ATX, Mini ITX",P6,ATX Mini Tower
+123,Black,,,,,,True,False,4,2,,Antec,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",DA601,ATX Mid Tower
+124,Black,494 mm x 210 mm x 497 mm,,2,,,True,False,2,3,,Corsair,"430 mm / 16.929""",450D,"ATX, EATX, Micro ATX, Mini ITX",CC-9011049-WW,ATX Mid Tower
+125,White,,,5,,,True,False,12,6,,Phanteks,"257 mm / 10.118"" With Drive Cages, 515 mm / 20.276"" Without Drive Cages",Enthoo Primo White,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES813P_WT,ATX Full Tower
+126,Black,,,,,,True,False,2,2,,Cooler Master,"412 mm / 16.22""",MasterCase H500P Mesh,"ATX, Micro ATX, Mini ITX",MCM-H500P-MGNN-S10,ATX Mid Tower
+127,Black,299 mm x 220 mm x 129 mm,1,1,,,False,250 W,,1,,Apex,,,"Mini ITX, Thin Mini ITX",MI-008,Mini ITX Tower
+128,White,,,2,,,True,False,3,2,,DIYPC,"415 mm / 16.339""",,"ATX, Micro ATX",D480-W-RGB,ATX Mid Tower
+129,Black,413 mm x 217 mm x 453 mm,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Meshify C Dark TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-C-BKO-TG,ATX Mid Tower
+130,White,,,3,,,True,False,,8,,Azza,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",CSAZ-5000W,ATX Full Tower
+131,Black / Silver,580 mm x 294 mm x 592 mm,,,,,True,False,1,7,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 410 mm / 16.142"" Without Drive Cages",Level 20 GT RGB Plus,"ATX, EATX, Micro ATX, Mini ITX",CA-1K9-00F1WN-01,ATX Full Tower
+132,Black,332 mm x 96 mm x 370 mm,1,1,,,True,300 W,1,1,,Inwin,,,"Micro ATX, Mini ITX",CE685.FH300TB3,MicroATX Slim
+133,Black,,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Obsidian 500D RGB SE,"ATX, EATX, Micro ATX, Mini ITX",CC-9011139-WW,ATX Mid Tower
+134,Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Define S2 Blackout – TG,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S2-BKO-TGL,ATX Mid Tower
+135,Black / Gold,,,,,,True,1065 W,,4,,Inwin,"350 mm / 13.78"" With Drive Cages, 415 mm / 16.339"" Without Drive Cages",,"ATX, EATX, Micro ATX, Mini ITX",D-Frame 2.0 BK/GO,ATX Full Tower
+136,Black / Blue,,,2,,,True,False,3,3,,Raidmax,"305 mm / 12.008""",,"ATX, Micro ATX, Mini ITX",ATX-404WU,ATX Mid Tower
+137,Black / Red,,,,,,True,False,2,2,,Cougar,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",Turret,ATX Mid Tower
+138,White / Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 White,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6-WT,ATX Mid Tower
+139,Black,,,,,,True,False,2,,,Fractal Design,"310 mm / 12.205""",Node 202,Mini ITX,FD-CA-NODE-202-BK,HTPC
+140,Black / Blue,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200i (Black/Blue),Mini ITX,CA-H200W-BL,Mini ITX Tower
+141,Black,212 mm x 85 mm x 225.9 mm,,,,,True,90 W,2,,,Antec,,,"Mini ITX, Thin Mini ITX",ISK110 VESA-U3,Mini ITX Desktop
+142,Black,352 mm x 175 mm x 360 mm,,1,,,True,False,1,1,,Rosewill,"300 mm / 11.811""",,"Micro ATX, Mini ITX",FBM-X1,MicroATX Mini Tower
+143,Black,,,3,,,True,False,,7,,Thermaltake,"400 mm / 15.748"" With Drive Cages, 590 mm / 23.228"" Without Drive Cages",Core X9,"ATX, EATX, Micro ATX, Mini ITX",CA-1D8-00F1WN-00,ATX Desktop
+144,White,455 mm x 211 mm x 460 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide Series 275R (White w/Tempered Glass),"ATX, Micro ATX, Mini ITX",CC-9011133-WW,ATX Mid Tower
+145,Black,,,,,,True,False,9,4,,Inwin,"410 mm / 16.142""",,"ATX, EATX, Micro ATX, Mini ITX",915 Black,ATX Full Tower
+146,Silver,,,,,1,True,False,2,1,,Silverstone,"330 mm / 12.992""",FTZ01S,"Mini DTX, Mini ITX",SST-FTZ01S / FTZ01S,Mini ITX Desktop
+147,White / Black,455 mm x 200 mm x 477 mm,,,,,True,False,2,3,,Silverstone,"348 mm / 13.701""",Redline RL06WS-GP,"ATX, Micro ATX, Mini ITX",RL06WS-GP / SST-RL06WS-GP,ATX Mid Tower
+148,Black,,,,,,True,False,2,2,,Cooler Master,"410 mm / 16.142""",MasterCase H500,"ATX, Micro ATX, Mini ITX",MCM-H500-IGNN-S00,ATX Mid Tower
+149,Black / Red,494 mm x 230 mm x 516 mm,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 (Black/Red),"ATX, Micro ATX, Mini ITX",CA-H700B-BR,ATX Mid Tower
+150,White,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400S TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PSTG_WT,ATX Mid Tower
+151,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Meshify C,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-C-BKO,ATX Mid Tower
+152,Black / Orange,,,,,,True,False,3,2,,DIYPC,"315 mm / 12.402""",,"Micro ATX, Mini ITX",DIY-F2-O,MicroATX Mini Tower
+153,White / Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 White TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6-WT-TG,ATX Mid Tower
+154,Black / Red,440 mm x 198 mm x 451 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-Harmony (Black/Red),"ATX, Micro ATX, Mini ITX",X-HARMONY-RD,ATX Mid Tower
+155,Black,,,,,,True,False,6,4,,Inwin,"320 mm / 12.598""",,"ATX, EATX, Micro ATX, Mini ITX",909 BLACK,ATX Full Tower
+156,Black,380 mm x 332 mm x 422 mm,,,,,True,False,3,1,,Thermaltake,"380 mm / 14.961""",Core P1 TG,Mini ITX,CA-1H9-00T1WN-00,Mini ITX Tower
+157,Black,,,,,,True,False,6,3,,Lian-Li,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",PC-O11AIR RGB,ATX Full Tower
+158,Black / Blue,,,2,,,True,False,1,3,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 400 mm / 15.748"" Without Drive Cages",Core X1,Mini ITX,CA-1D6-00S1WN-00,Mini ITX Tower
+159,White,395 mm x 230 mm x 375 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Enthoo EVOLV ITX TG (White),Mini ITX,PH-ES215PTG_WT,Mini ITX Desktop
+160,Black,,,,,,False,False,1,1,,ABS,,,"Micro ATX, Mini ITX",R206-ITX,MicroATX Mini Tower
+161,Black,,,,1,,True,False,2,,,Silverstone,"330 mm / 12.992""",ML08B,Mini ITX,SST-ML08B / ML08B,HTPC
+162,,400 mm x 200 mm x 450 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Eclipse P300 Tempered Glass (White),"ATX, Micro ATX, Mini ITX",PH-EC300PTG_WT,ATX Mid Tower
+163,Black,467 mm x 205 mm x 492 mm,,3,,,True,False,,6,,Antec,"406 mm / 15.984""",,"ATX, Micro ATX, Mini ITX, Thin Mini ITX",Nine Hundred,ATX Mid Tower
+164,Black,283 mm x 234 mm x 486 mm,,,,1,True,False,1,3,,Silverstone,"349 mm / 13.74""",,"Micro ATX, Mini ITX, Thin Mini ITX",FT03B / SST-FT03B,MicroATX Mini Tower
+165,Black,,,,,,True,False,2,2,,Inwin,"320 mm / 12.598""",,"ATX, Micro ATX, Mini ITX",805 BLACK,ATX Mid Tower
+166,Black / White,455 mm x 200 mm x 450 mm,,,,,True,False,2,2,,Phanteks,"400 mm / 15.748""",Eclipse P350X (Black/White),"ATX, Micro ATX, Mini ITX",PH-EC350PTG_DBW,ATX Mid Tower
+167,Black,444 mm x 184 mm x 406 mm,2,3,,,False,False,,5,,Apex,,,"ATX, Micro ATX, Mini ITX",Vortex 3620,ATX Mid Tower
+168,Black,,,1,,,True,False,2,2,,Thermaltake,"415 mm / 16.339""",Versa N24,"ATX, Micro ATX, Mini ITX",CA-1G1-00M1WN-00,ATX Mid Tower
+169,White / Black,,,2,,,True,False,3,2,,DIYPC,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",DIY-TG8-BW,ATX Mid Tower
+170,Black,456 mm x 208 mm x 381 mm,,,,,True,False,1,2,,Cooler Master,"380 mm / 14.961""",MasterBox Lite 3.1,"Micro ATX, Mini ITX",MCW-L3B3-KANN-01,MicroATX Mid Tower
+171,White,525 mm x 225 mm x 538 mm,,,,,True,False,2,4,,Azza,"420 mm / 16.535""",Storm 6000B RGB (White),"ATX, Micro ATX, Mini ITX",CSAZ-6000RGB/W,ATX Full Tower
+172,Black,355 mm x 167 mm x 400 mm,,2,,,True,False,1,4,,Silverstone,"358 mm / 14.094""",PS08B (Black),"Micro ATX, Mini ITX, Thin Mini ITX",PS08B / SST-PS08B,MicroATX Mid Tower
+173,Black / Blue,494 mm x 230 mm x 516 mm,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 (Black/Blue),"ATX, Micro ATX, Mini ITX",CA-H700B-BL,ATX Mid Tower
+174,Black,,,1,,,True,False,9,3,,Silverstone,"369 mm / 14.528""",Sugo SG11B,"Micro ATX, Mini DTX, Mini ITX",SST-SG11B / SG11B,MicroATX Mini Tower
+175,Black,276 mm x 259 mm x 314 mm,,,,,True,False,2,2,,Thermaltake,"255 mm / 10.039"" With Drive Cages, 285 mm / 11.22"" Without Drive Cages",Core V1,Mini ITX,CA-1B8-00S1WN-00,Mini ITX Desktop
+176,Black,477 mm x 211 mm x 483 mm,,,,,True,False,2,2,,EVGA,"390 mm / 15.354""",DG-76 Matte Black,"ATX, Micro ATX, Mini ITX",160-B0-2230-KR,ATX Mid Tower
+177,White,,,2,,,True,False,2,2,,DIYPC,"380 mm / 14.961""",,"ATX, Micro ATX, Mini ITX",J180-W,ATX Mid Tower
+178,Black / White,601 mm x 287 mm x 637 mm,,2,,,True,False,3,6,,Corsair,"355 mm / 13.976""",780T,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CC-9011059-WW,ATX Full Tower
+179,Black / Red,,,,,,True,False,6,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB511,"ATX, Micro ATX, Mini ITX",MCB-B511D-KANN-S00,ATX Mid Tower
+180,Black,,,,1,,True,False,1,,,Inwin,,,Mini ITX,BQ656T.AD150TB3,Mini ITX Tower
+181,Black,436 mm x 208 mm x 487 mm,,3,,,True,False,2,5,,Antec,"266 mm / 10.472""",,"ATX, Micro ATX, Mini ITX, Thin Mini ITX",One,ATX Mid Tower
+182,Black,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Window Black,"ATX, EATX, Micro ATX, Mini ITX",BGW26,ATX Mid Tower
+183,Black / Gray,,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G,"ATX, Micro ATX, Mini ITX",FD-CA-FOCUS-GY-W,ATX Mid Tower
+184,Black / Red,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",Carbide SPEC-04 TG,"ATX, Micro ATX, Mini ITX",CC-9011117-WW,ATX Mid Tower
+185,Silver,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Define S2 Gunmetal – TG,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S2-GY-TGL,ATX Mid Tower
+186,White,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QPACK3-WHT,MicroATX Mini Tower
+187,White / Red,,,,,,True,False,4,3,,Corsair,"380 mm / 14.961""",SPEC-ALPHA (White/Red),"ATX, Micro ATX, Mini ITX",CC-9011083-WW,ATX Mid Tower
+188,Blue / Yellow,494 mm x 230 mm x 516 mm,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700i Ninja,"ATX, Micro ATX, Mini ITX",CA-H700W-NJ,ATX Mid Tower
+189,Silver,457 mm x 277 mm x 516 mm,,,,,True,False,4,4,,Lian-Li,"430 mm / 16.929""",,"ATX, EATX, Micro ATX, Mini ITX",PC-O11 WGX / PC-O11ROG,ATX Mid Tower
+190,Black / Red,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200 (Black/Red),Mini ITX,CA-H200B-BR,Mini ITX Tower
+191,Black,104 mm x 439 mm x 340 mm,,1,,,True,False,1,2,,Silverstone,,,"Micro ATX, Mini DTX, Mini ITX, Thin Mini ITX",ML03B / SST-ML03B,HTPC
+192,Black / Red,438 mm x 203 mm x 470 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-MIRAGE (Black/Red),"ATX, Micro ATX, Mini ITX",X-MIRAGE-RD,ATX Mid Tower
+193,Black / Red,429 mm x 208 mm x 436 mm,,2,,,True,False,3,3,,DIYPC,"240 mm / 9.449""",,"ATX, Micro ATX",Solo-T1-R,ATX Mid Tower
+194,Black / Blue,,1,3,,,True,False,,3,,VIVO,"345 mm / 13.583""",,"ATX, Micro ATX, Mini ITX",CASE-V01,ATX Mid Tower
+195,Black,429 mm x 208 mm x 480 mm,,3,,,True,False,3,,,Thermaltake,"315 mm / 12.402""",Versa H22 Window,"ATX, Micro ATX, Mini ITX",CA-1B3-00M1WN-00,ATX Mid Tower
+196,Black / Blue,,,,,,True,False,3,2,,DIYPC,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",IllusionI-BL,ATX Mid Tower
+197,Black,,,,,,True,450 W,2,,,Fractal Design,"310 mm / 12.205""",Node 202,Mini ITX,FD-MCA-NODE-202-AA-US / FD-MCA-NODE-202-AA-AU / FD-MCA-NODE-202-AA-EU / FD-MCA-NODE-202-AA-JP / FD-MCA-NODE-202-AA-UK / FD-MCA-NODE-202-AA-ZA,HTPC
+198,Black,,,2,,,True,False,8,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base 900 (Black),"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BG011,ATX Full Tower
+199,Black,,,2,,,True,False,2,3,,Azza,"380 mm / 14.961""",Titan 240,"ATX, Micro ATX, Mini ITX",CSAZ-240,ATX Mid Tower
+200,Silver,,,,,,True,False,2,2,,Metallic Gear,"360 mm / 14.173""",NEO MICRO,"Micro ATX, Mini ITX",MG-NE410_SR01,MicroATX Mid Tower
+201,Black / Red,493 mm x 215 mm x 516 mm,,3,,,True,False,,6,,Enermax,"414 mm / 16.299""",Ostrog ADV (Black/Red),"ATX, Micro ATX, Mini ITX",ECA3380AS-R,ATX Mid Tower
+202,Black,495 mm x 231 mm x 480 mm,,4,,,False,False,,6,,Cooler Master,"270 mm / 10.63"" With Drive Cages, 390 mm / 15.354"" Without Drive Cages",HAF 912,"ATX, Micro ATX, Mini ITX",RC-912-KKN1,ATX Mid Tower
+203,Black / Silver,732 mm x 280 mm x 688 mm,,,,,True,False,3,8,,Thermaltake,"260 mm / 10.236"" With Drive Cages, 310 mm / 12.205"" Without Drive Cages",Level 20,"ATX, EATX, Micro ATX, Mini ITX",CA-1J9-00F9WN-00,ATX Full Tower
+204,Black,,,2,,,True,False,2,3,,Rosewill,"360 mm / 14.173""",,"ATX, Micro ATX, Mini ITX",Challenger S,ATX Mid Tower
+205,Black,463 mm x 217 mm x 513 mm,1,1,,,True,False,1,3,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",Versa N21,"ATX, Micro ATX, Mini ITX",CA-1D9-00M1WN-00,ATX Mid Tower
+206,Black,304 mm x 68 mm x 258 mm,,1,,,False,150 W,,,,Linkworld,,920-01C2121U (Black),"Mini ITX, Thin Mini ITX",920-01C2121U,HTPC
+207,Black,,8,,,,True,False,4,,,Silverstone,"279 mm / 10.984""",,"Mini DTX, Mini ITX",DS380B / SST-DS380B,Mini ITX Tower
+208,White,,,2,,,True,False,2,3,,DIYPC,"375 mm / 14.764""",,"ATX, Micro ATX, Mini ITX",P48-W,ATX Mid Tower
+209,Black,175 mm x 352 mm x 350 mm,1,2,,,False,False,,2,,Rosewill,"305 mm / 12.008""",,"Micro ATX, Mini ITX",RANGER-M,MicroATX Mini Tower
+210,Black,476 mm x 184 mm x 406 mm,1,3,,,True,500 W,,5,,Rosewill,,,"ATX, Micro ATX, Mini ITX",R536-BK,ATX Mid Tower
+211,Black,,,2,,,True,False,2,6,,Thermaltake,"278 mm / 10.945"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Core X31 Tempered Glass,"ATX, Micro ATX, Mini ITX",CA-1E9-00M1WN-03,ATX Mid Tower
+212,Black,483 mm x 199 mm x 433 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",SPEC-05,"ATX, Micro ATX, Mini ITX",CC-9011138-WW,ATX Mid Tower
+213,Black,414 mm x 331 mm x 457 mm,,2,,,True,False,4,,,Corsair,"320 mm / 12.598""",Air 540,"ATX, EATX, Micro ATX, Mini ITX",CC-9011030-WW,ATX Full Tower
+214,White,,,,,,True,False,,7,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 410 mm / 16.142"" Without Drive Cages",View 71 TG Snow,"ATX, EATX, Micro ATX, Mini ITX",CA-1I7-00F6WN-00,ATX Full Tower
+215,Black,,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Obsidian Series 500D,"ATX, EATX, Micro ATX, Mini ITX",CC-9011116-WW,ATX Mid Tower
+216,White,,,,,,True,False,1,2,,BitFenix,"340 mm / 13.386""",ENSO,"ATX, Micro ATX, Mini ITX",BFC-ENS-150-WWWGK-RP,ATX Mid Tower
+217,White,438 mm x 203 mm x 470 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-MIRAGE (White),"ATX, Micro ATX, Mini ITX",X-MIRAGE-WH,ATX Mid Tower
+218,Black,,,2,,,True,False,,4,,Corsair,"275 mm / 10.827"" With Drive Cages, 414 mm / 16.299"" Without Drive Cages",100R Silent,"ATX, Micro ATX, Mini ITX",CC-9011077-WW,ATX Mid Tower
+219,White,,,,,,True,False,2,2,,DIYPC,"375 mm / 14.764""",,"ATX, Micro ATX, Mini ITX",DIY-Model X-W-RGB,ATX Mid Tower
+220,White,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500 (White),"ATX, Micro ATX, Mini ITX",CA-H500B-W1,ATX Mid Tower
+221,Black,,,,1,,True,False,3,5,,Lian-Li,"175 mm / 6.89"" With Drive Cages, 310 mm / 12.205"" Without Drive Cages",,Mini ITX,PC-O5SX,HTPC
+222,Black / Green,514 mm x 444 mm x 196 mm,1,4,,,True,False,1,4,,Apevia,"406 mm / 15.984""",,"ATX, Micro ATX, Mini ITX",X-HERMES-GN,ATX Mid Tower
+223,White,560 mm x 220 mm x 571 mm,,,,,True,False,5,4,,Silverstone,"419 mm / 16.496""",Primera RGB (White),"ATX, Micro ATX, Mini ITX",SST-PM01W-RGB / PM01W-RGB,ATX Mid Tower
+224,Black,,,1,,,True,False,,2,,Corsair,"383 mm / 15.079""",Carbide Series 88R,"Micro ATX, Mini ITX",CC-9011086-WW,MicroATX Mid Tower
+225,Black,379.984 mm x 189.992 mm x 350.012 mm,,,,,True,False,3,1,,Rosewill,"300 mm / 11.811""",,"Micro ATX, Mini ITX",FBM-X2,MicroATX Mini Tower
+226,Black / Red,514 mm x 444 mm x 196 mm,1,4,,,True,False,1,4,,Apevia,"406 mm / 15.984""",,"ATX, Micro ATX, Mini ITX",X-HERMES-RD,ATX Mid Tower
+227,Gray,520 mm x 240 mm x 520 mm,,,,,True,False,6,4,,Phanteks,"435 mm / 17.126""",ENTHOO EVOLV X GLASS (Gray),"ATX, EATX, Micro ATX, Mini ITX",PH-ES518XTG_DAG / PH-ES515XTG_DAG / PH-ES518XTG_DAG01,ATX Mid Tower
+228,Black / Blue,,,3,,,True,False,4,4,,Apevia,,,"ATX, Micro ATX, Mini ITX",X-SNIPER2-BL,ATX Mid Tower
+229,Black,,,4,,,True,False,,11,,Nanoxia,"338 mm / 13.307"" With Drive Cages, 468 mm / 18.425"" Without Drive Cages",Deep Silence 5,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",NA-DS5-BLACK / NXDS5Bb / NXDS5B,ATX Full Tower
+230,Black,380 mm x 205 mm x 390 mm,,,,,True,False,2,2,,Thermaltake,"350 mm / 13.78""",Versa H17,"Micro ATX, Mini ITX",CA-1J1-00S1NN-00,MicroATX Mini Tower
+231,Black,494 mm x 230 mm x 516 mm,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 (Black),"ATX, Micro ATX, Mini ITX",CA-H700B-B1,ATX Mid Tower
+232,Black,544 mm x 242 mm x 574 mm,,2,,,True,False,2,2,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase Maker 5t,"ATX, Micro ATX, Mini ITX",MCZ-C5M2T-RW5N,ATX Mid Tower
+233,Black,511 mm x 250 mm x 497 mm,,,,,True,False,,3,,Thermaltake,"278 mm / 10.945"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",View 31 TG,"ATX, Micro ATX, Mini ITX",CA-1H8-00M1WN-00,ATX Mid Tower
+234,Black,,,,,,True,False,2,1,,Phanteks,"350 mm / 13.78""",ENTHOO EVOLV SHIFT,Mini ITX,PH-ES217E_BK,Mini ITX Tower
+235,Black,469 mm x 189 mm x 433 mm,2,3,,,False,False,,5,,Rosewill,,,"ATX, Micro ATX, Mini ITX",CHALLENGER,ATX Mid Tower
+236,Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 Blackout TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6-BKO-TG,ATX Mid Tower
+237,Black,460 mm x 211 mm x 454 mm,,,,,True,False,4,2,,Corsair,"370 mm / 14.567""",Carbide Series 275Q,"ATX, Micro ATX, Mini ITX",CC-9011164-WW,ATX Mid Tower
+238,Black,540 mm x 371 mm x 463 mm,,3,,,True,False,3,4,,Thermaltake,"330 mm / 12.992"" With Drive Cages, 480 mm / 18.898"" Without Drive Cages",Core X5 Tempered Glass Edition,"ATX, EATX, Micro ATX, Mini ITX",CA-1E8-00M1WN-02,ATX Desktop
+239,Black,440 mm x 210 mm x 450 mm,,,,,True,False,2,2,,Corsair,"330 mm / 12.992""",SPEC-DELTA RGB,"ATX, Micro ATX, Mini ITX",CC-9011166-WW,ATX Mid Tower
+240,White,,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Crystal 460X RGB White,"ATX, Micro ATX, Mini ITX",CC-9011129-WW,ATX Mid Tower
+241,Black / Orange,,,3,,,True,False,,4,,Corsair,"360 mm / 14.173""",Graphite Series 230T Black,"ATX, Micro ATX, Mini ITX",CC-9011042-WW,ATX Mid Tower
+242,Black / Silver,,,2,,,True,False,4,2,,Corsair,"320 mm / 12.598""",Air 540 Silver,"ATX, EATX, Micro ATX, Mini ITX",CC-9011034-WLED,ATX Mid Tower
+243,Black,450 mm x 220 mm x 472 mm,,,,,True,False,4,2,,Lian-Li,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",LANCOOL ONE,ATX Mid Tower
+244,Black / Red,,,,,,True,False,2,2,,Rosewill,"310 mm / 12.205"" With Drive Cages, 0 mm / 0"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",CULLINAN PX Red,ATX Mid Tower
+245,Black,,,3,,,True,False,,10,,Thermaltake,"470 mm / 18.504"" With Drive Cages, 635 mm / 25"" Without Drive Cages",Core W100,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CA-1F2-00F1WN-00,ATX Full Tower
+246,Black,515 mm x 250 mm x 497 mm,,2,,,True,False,,3,,Thermaltake,"278 mm / 10.945"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Suppressor F31 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1E3-00M1WN-03,ATX Mid Tower
+247,Black,104 mm x 382 mm x 350 mm,,,,1,True,False,3,1,,Silverstone,"330 mm / 12.992""",,"Mini DTX, Mini ITX",ML07B / SST-ML07B,HTPC
+248,Black,189 mm x 425 mm x 501 mm,1,2,,,True,False,3,7,,Cooler Master,"320 mm / 12.598""",N400,"ATX, Micro ATX, Mini ITX",NSE-400-KKN2,ATX Mid Tower
+249,Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Meshify S2 Black,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-S2-BKO,ATX Mid Tower
+250,Black,,,2,,,True,False,2,2,,Thermaltake,"400 mm / 15.748""",V100,"ATX, Micro ATX, Mini ITX",CA-3K7-45M1NU-02,ATX Mid Tower
+251,Black,,,,,,True,False,6,3,,Lian-Li,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",PC-O11AIR,ATX Full Tower
+252,Black / Red,,,3,,,True,False,,4,,Corsair,"360 mm / 14.173""",Graphite Series 230T Black,"ATX, Micro ATX, Mini ITX",CC-9011036-WW,ATX Mid Tower
+253,Black,564 mm x 246 mm x 568 mm,,3,,,True,False,4,6,,Corsair,"450 mm / 17.717""",,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",760T Black / CC-9011044-WW,ATX Full Tower
+254,Black,546 mm x 234 mm x 558 mm,,3,,,True,False,4,6,,Corsair,"340 mm / 13.386"" With Drive Cages, 450 mm / 17.717"" Without Drive Cages",,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",750D / CC-9011035-WW,ATX Full Tower
+255,Black,520 mm x 240 mm x 520 mm,,,,,True,False,6,4,,Phanteks,"435 mm / 17.126""",ENTHOO EVOLV X GLASS (Black),"ATX, EATX, Micro ATX, Mini ITX",PH-ES518XTG_DBK / PH-ES515XTG_DBK / PH-ES518XTG_DBK01,ATX Mid Tower
+256,Black,150 mm x 439 mm x 325 mm,,1,,,True,False,1,2,,Silverstone,"279 mm / 10.984""",GD05B-USB3.0 (Black),"Micro ATX, Mini DTX, Mini ITX, Thin Mini ITX",SST-GD05B-USB3.0 / GD05B-USB3.0,HTPC
+257,Black,,,,,,True,False,,2,,Corsair,"300 mm / 11.811""",Crystal 280X RGB,"Micro ATX, Mini ITX",CC-9011135-WW,MicroATX Mid Tower
+258,Black,544 mm x 248 mm x 546 mm,,,,,True,False,6,2,,Cooler Master,"412 mm / 16.22""",MasterCase H500M,"ATX, EATX, Micro ATX, Mini ITX",MCM-H500M-IHNN-S00,ATX Mid Tower
+259,Black,,,,,,True,False,,7,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 410 mm / 16.142"" Without Drive Cages",View 71 TG RGB,"ATX, EATX, Micro ATX, Mini ITX",CA-1I7-00F1WN-01,ATX Full Tower
+260,Black,435 mm x 225 mm x 482 mm,,,,,True,False,5,4,,Rosewill,"360 mm / 14.173""",,"ATX, Micro ATX, Mini ITX",CULLINAN MX,ATX Mid Tower
+261,Black,,,1,,,True,False,,2,,Rosewill,"300 mm / 11.811""",,"Micro ATX, Mini ITX",SRM-01,MicroATX Mini Tower
+262,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Define Mini C,"Micro ATX, Mini ITX",FD-CA-DEF-MINI-C-BK,MicroATX Mid Tower
+263,Black,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QBER-NW-BK,MicroATX Desktop
+264,Black,320 mm x 204 mm x 330 mm,,,,,True,False,4,4,,RIOTORO,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",CR500,ATX Mid Tower
+265,Black,,,,,,True,False,,2,,Corsair,"300 mm / 11.811""",Crystal 280X,"Micro ATX, Mini ITX",CC-9011134-WW,MicroATX Mid Tower
+266,Black,464 mm x 220 mm x 440 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Crystal 460X,"ATX, Micro ATX, Mini ITX",CC-9011099-WW,ATX Mid Tower
+267,White / Blue,640 mm x 483 mm x 330 mm,,1,,,True,False,7,6,,Inwin,"385 mm / 15.157""",X-Frame 2.0 (White/Blue),"ATX, EATX, Micro ATX, Mini ITX",IW-XFRAME2-BLU,ATX Test Bench
+268,Black,457 mm x 203 mm x 457 mm,,2,,,True,False,3,3,,Raidmax,"300 mm / 11.811"" With Drive Cages, 390 mm / 15.354"" Without Drive Cages",Vortex,"ATX, Micro ATX, Mini ITX",ATX-403WB,ATX Mid Tower
+269,White,,,,,,True,False,1,2,,BitFenix,"300 mm / 11.811""",Portal (White),Mini ITX,BFC-POT-150-WKXKK-RP,Mini ITX Tower
+270,Black,,,,,,True,False,1,2,,BitFenix,"300 mm / 11.811""",Portal (Black/Windowed),Mini ITX,BFC-POT-150-KKWKK-RP,Mini ITX Tower
+271,White,494 mm x 230 mm x 516 mm,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 (White),"ATX, Micro ATX, Mini ITX",CA-H700B-W1,ATX Mid Tower
+272,White / Silver,,,,,,True,False,2,2,,Inwin,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",303 MSI Dragon,ATX Mid Tower
+273,Pink,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QPACK3-PK,MicroATX Mini Tower
+274,Silver,520 mm x 240 mm x 520 mm,,,,,True,False,6,4,,Phanteks,"435 mm / 17.126""",ENTHOO EVOLV X GLASS (Silver),"ATX, EATX, Micro ATX, Mini ITX",PH-ES518XTG_DGS / PH-ES515XTG_DGS / PH-ES518XTG_DGS01,ATX Mid Tower
+275,Silver / Black,,,1,,,True,False,4,4,,Cooler Master,"320 mm / 12.598"" With Drive Cages, 490 mm / 19.291"" Without Drive Cages",COSMOS C700M,"ATX, Micro ATX, Mini ITX",MCC-C700M-MG5N-S00,ATX Full Tower
+276,White / Black,455 mm x 200 mm x 477 mm,,,,,True,False,2,3,,Silverstone,"348 mm / 13.701""",Redline RL06WS-W,"ATX, Micro ATX, Mini ITX",RL06WS-W / SST-RL06WS-W,ATX Mid Tower
+277,Black,,,,,,True,False,2,2,,EVGA,"390 mm / 15.354""",DG-77,"ATX, Micro ATX, Mini ITX",170-B0-3540-KR,ATX Mid Tower
+278,Black / Gray,492 mm x 201 mm x 433 mm,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",Carbide SPEC-04 (Black/Gray),"ATX, Micro ATX, Mini ITX",CC-9011109-WW,ATX Mid Tower
+279,Black,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QPACK3-CL,MicroATX Mini Tower
+280,Black,,,,,,True,False,2,2,,SAMA,"370 mm / 14.567""",,"ATX, Micro ATX, Mini ITX",Proxima-RGB,ATX Mid Tower
+281,White,,,3,,,True,False,4,6,,Corsair,"450 mm / 17.717""",760T White V2,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CC-9011074-WW,ATX Full Tower
+282,White / Black,579 mm x 248 mm x 604 mm,,9,,,True,False,,8,,Cooler Master,"322 mm / 12.677""",Storm Stryker (White),"ATX, Micro ATX, Mini ITX, XL ATX",SGC-5000W-KWN1 / SGC-5000W-KWN1-AMZ,ATX Full Tower
+283,Black,429 mm x 208 mm x 480 mm,,3,,,True,False,3,3,,Thermaltake,"315 mm / 12.402""",Versa H21,"ATX, Micro ATX, Mini ITX",CA-1B2-00M1NN-00,ATX Mid Tower
+284,White / Black,,,,,,True,False,1,1,,Silverstone,"267 mm / 10.512""",Sugo SG13WB,"Mini DTX, Mini ITX",SST-SG13WB / SG13WB,Mini ITX Tower
+285,Black,411 mm x 198 mm x 378 mm,,1,,,True,False,3,2,,Cougar,"350 mm / 13.78""",,"Micro ATX, Mini ITX",MG110,MicroATX Mini Tower
+286,Black / Blue,440 mm x 198 mm x 451 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-Harmony (Black/Blue),"ATX, Micro ATX, Mini ITX",X-HARMONY-BL,ATX Mid Tower
+287,Black,,,,,,True,False,4,2,,Deepcool,"300 mm / 11.811""",,"ATX, Micro ATX, Mini ITX",EARLKASE RGB,ATX Mid Tower
+288,Black,500 mm x 223 mm x 475 mm,,,,,True,False,2,2,,Cooler Master,"410 mm / 16.142""",MasterBox Pro 5 RGB,"ATX, EATX, Micro ATX, Mini ITX",MCY-B5P2-KWGN-01,ATX Mid Tower
+289,Black,,,,,,True,False,6,5,,Corsair,"400 mm / 15.748""",Obsidian Series 1000D,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",CC-9011148-WW,ATX Full Tower
+290,Gray,,,,,,True,False,4,8,,EVGA,,DG-86,"ATX, EATX, Micro ATX, Mini ITX",100-E1-1014-K0,ATX Full Tower
+291,Black / Green,,,1,,,True,False,1,2,,Apevia,"290 mm / 11.417""",,"Micro ATX, Mini ITX",X-EnerQ-GN,MicroATX Mid Tower
+292,Black,419 mm x 174 mm x 354 mm,,2,,,True,False,,2,,Fractal Design,"210 mm / 8.268"" With Drive Cages, 350 mm / 13.78"" Without Drive Cages",Core 1000 USB 3.0,"Micro ATX, Mini DTX, Mini ITX",FD-CA-CORE-1000-USB3-BL,MicroATX Mid Tower
+293,White,276 mm x 221 mm x 176 mm,,,1,,True,300 W,1,1,,Silverstone,"254 mm / 10""",Sugo Series SG05W,"Mini DTX, Mini ITX, Thin Mini ITX",SG05W-USB3.0 / SST-SG05W-USB3.0,Mini ITX Desktop
+294,Black / Blue,430 mm x 194 mm x 436 mm,,2,,,True,False,,4,,Deepcool,"310 mm / 12.205""",,"ATX, Micro ATX, Mini ITX",TESSERACT SW,ATX Mid Tower
+295,Black,455 mm x 200 mm x 450 mm,,,,,True,False,2,2,,Phanteks,"400 mm / 15.748""",Eclipse P350X (Black),"ATX, Micro ATX, Mini ITX",PH-EC350PTG_DBK,ATX Mid Tower
+296,Red / Blue,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 PUBG LIMITED EDITION,"ATX, Micro ATX, Mini ITX",CA-H700B-PG,ATX Mid Tower
+297,Black / Red,395 mm x 230 mm x 375 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Enthoo EVOLV ITX TG (Black/Red),Mini ITX,PH-ES215PTG_SRD,Mini ITX Desktop
+298,White / Black,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200i (White/Black),Mini ITX,CA-H200W-WB,Mini ITX Tower
+299,Black,,10,3,,,True,False,,4,,Thermaltake,"470 mm / 18.504"" With Drive Cages, 635 mm / 25"" Without Drive Cages",Core W200,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CA-1F5-00F1WN-00,ATX Full Tower
+300,Black,,2,4,,,True,False,,13,,Nanoxia,"370 mm / 14.567"" With Drive Cages, 400 mm / 15.748"" Without Drive Cages",,"ATX, EATX, HPTX, Micro ATX, Mini ITX, XL ATX",NXDS6B,ATX Full Tower
+301,Black / Red,,,,,,True,False,4,2,,Corsair,"370 mm / 14.567""",Carbide SPEC-06,"ATX, Micro ATX, Mini ITX",CC-9011144-WW,ATX Mid Tower
+302,Black,520 mm x 208 mm x 565 mm,,,,,True,False,4,2,,Cougar,"400 mm / 15.748"" With Drive Cages, 425 mm / 16.732"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",Panzer,ATX Mid Tower
+303,Black,,,,,,True,False,2,2,,Aerocool,"388 mm / 15.276"" With Drive Cages, 414 mm / 16.299"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",P7-C0,ATX Mid Tower
+304,Black / Red,492 mm x 201 mm x 433 mm,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",Carbide SPEC-04 (Black/Red),"ATX, Micro ATX, Mini ITX",CC-9011107-WW,ATX Mid Tower
+305,Black / Red,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700i,"ATX, Micro ATX, Mini ITX",CA-H700W-BR,ATX Mid Tower
+306,Black,,,,,,True,False,6,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB511 RGB,"ATX, Micro ATX, Mini ITX",MCB-B511D-KGNN-RGB,ATX Mid Tower
+307,Black,,,,,,True,False,2,3,,Fractal Design,"425 mm / 16.732"" With Drive Cages, 450 mm / 17.717"" Without Drive Cages",Define S,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S-BK,ATX Mid Tower
+308,Black,,,1,,,True,False,3,3,,Fractal Design,"310 mm / 12.205""",Core 500,Mini ITX,FD-CA-CORE-500-BK,Mini ITX Desktop
+309,Black / Red,,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G,"ATX, Micro ATX, Mini ITX",FD-CA-FOCUS-RD-W,ATX Mid Tower
+310,Black / Red,465 mm x 201 mm x 437 mm,,1,,,True,False,3,3,,BitFenix,"300 mm / 11.811""",Nova TG (Black/Red),"ATX, Micro ATX, Mini ITX",BFX-NTG-100-KKWSK-RP,ATX Mid Tower
+311,Black,,,,,,True,False,2,2,,Zalman,"330 mm / 12.992""",,"ATX, Micro ATX, Mini ITX",S3,ATX Mid Tower
+312,Black / Blue,430 mm x 194 mm x 436 mm,,2,,,True,False,,4,,Deepcool,"310 mm / 12.205""",,"ATX, Micro ATX, Mini ITX",TESSERACT BF,ATX Mid Tower
+313,Black,,,2,,,True,False,2,2,,DIYPC,"380 mm / 14.961""",,"ATX, Micro ATX, Mini ITX",J180-BL,ATX Mid Tower
+314,Black,221 mm x 176 mm x 276 mm,,,1,,True,300 W,1,1,,Silverstone,"254 mm / 10""",SG05B-USB3.0 (Black),"Mini DTX, Mini ITX, Thin Mini ITX",SST-SG05B-USB3.0 / SG05B-USB3.0,Mini ITX Desktop
+315,Black,,,,,,True,False,4,,,Silverstone,"330 mm / 12.992""",,Mini ITX,RVZ03B / SST-RVZ03B,Mini ITX Desktop
+316,Black / White,373 mm x 249 mm x 210 mm,,,,,True,False,,6,,Fractal Design,"310 mm / 12.205""",Node 304,"Mini ITX, Thin Mini ITX",FD-CA-NODE-304-BL,Mini ITX Tower
+317,Black,406 mm x 182 mm x 361 mm,1,2,,,False,300 W,,4,,Apex,,,"Flex ATX, Micro ATX, Mini ITX",TX-373,MicroATX Mid Tower
+318,Black,,,,,,True,False,2,2,,Inwin,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",303 Black,ATX Mid Tower
+319,Red / Black,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700 Nuka-Cola Limited Edition,"ATX, Micro ATX, Mini ITX",CA-H700B-NC,ATX Mid Tower
+320,White,550 mm x 245 mm x 447 mm,,,,,True,False,2,2,,Aerocool,"375 mm / 14.764"" With Drive Cages, 400 mm / 15.748"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",P7-C1 White,ATX Mid Tower
+321,Black,,,,,,True,False,4,,,Silverstone,"330 mm / 12.992""",RVZ01B-E,"Mini DTX, Mini ITX",SST-RVZ01B-E / RVZ01B-E,HTPC
+322,Black / Red,,,,,,True,False,2,2,,Antec,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",P7 Window Red,ATX Mid Tower
+323,White,,,,,,True,False,2,2,,Raidmax,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",Sigma-TWS,ATX Mid Tower
+324,White / Black,579 mm x 250 mm x 606 mm,,1,,,True,False,4,2,,Cooler Master,"322 mm / 12.677""",Stryker SE,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",SGC-5000W-KWN2,ATX Full Tower
+325,Black / Red,,,,,,True,False,1,1,,Antec,"450 mm / 17.717""",,"ATX, Micro ATX, Mini ITX",TORQUE,ATX Mid Tower
+326,Black,533 mm x 241 mm x 463 mm,,3,,,True,False,4,3,,Raidmax,,,"ATX, Micro ATX, Mini ITX",ATX-502WBG,ATX Mid Tower
+327,Black,480 mm x 226 mm x 445 mm,,,,,True,False,2,2,,Inwin,"305 mm / 12.008"" With Drive Cages, 421 mm / 16.575"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",101 Black,ATX Mid Tower
+328,Black,,,,,,True,False,6,5,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 801 | Black,"ATX, EATX, Micro ATX, Mini ITX",BG029,ATX Mid Tower
+329,Black,,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",Crystal 570X RGB,"ATX, Micro ATX, Mini ITX",CC-9011098-WW,ATX Mid Tower
+330,Black / White,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 Black TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6-BK-TG,ATX Mid Tower
+331,Black / Silver,,,,,,True,False,4,3,,Corsair,"380 mm / 14.961""",SPEC-ALPHA (Black),"ATX, Micro ATX, Mini ITX",CC-9011084-WW,ATX Mid Tower
+332,Black,385 mm x 210 mm x 373 mm,1,2,,,True,False,1,4,,Silverstone,"336 mm / 13.228""",,"Micro ATX, Mini ITX, Thin Mini ITX",TJ08B-E / SST-TJ08B-E,MicroATX Mini Tower
+333,White / Black,,,1,,,True,False,1,2,,Apevia,"290 mm / 11.417""",,"Micro ATX, Mini ITX",X-EnerQ-WHT,MicroATX Mid Tower
+334,Black / Red,,,,,,True,False,4,3,,Corsair,"380 mm / 14.961""",SPEC-ALPHA (Black/Red),"ATX, Micro ATX, Mini ITX",CC-9011085-WW,ATX Mid Tower
+335,Black,,,1,,,True,False,3,3,,Rosewill,,,"Micro ATX, Mini ITX",SCM-01,MicroATX Mini Tower
+336,Black / White,,,5,,,True,False,12,6,,Phanteks,"257 mm / 10.118"" With Drive Cages, 515 mm / 20.276"" Without Drive Cages",Enthoo Primo,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES813P_SWT,ATX Full Tower
+337,Black,412 mm x 203 mm x 344 mm,,,,,True,False,2,2,,Fractal Design,"315 mm / 12.402""",Define Nano S,Mini ITX,FD-CA-DEF-NANO-S-BK-W,Mini ITX Desktop
+338,Black,,,,,,True,False,3,4,,Phanteks,"294 mm / 11.575"" With Drive Cages, 435 mm / 17.126"" Without Drive Cages",ECLIPSE P600S,"ATX, Micro ATX, Mini ITX",PH-EC600PSTG_BK01,ATX Mid Tower
+339,Black,,,,,,True,False,2,2,,Phanteks,"529 mm / 20.827""",ENTHOO EVOLV SHIFT X,Mini ITX,PH-ES217XE_BK,Mini ITX Tower
+340,Black,,,,,1,True,False,3,1,,Silverstone,"330 mm / 12.992""",,"Mini DTX, Mini ITX",RVZ01B / SST-RVZ01B,Mini ITX Desktop
+341,Black / Blue,264 mm x 99 mm x 309 mm,,1,,,True,300 W,,2,,Inwin,,,Mini ITX,BP655.FH300TB3,Mini ITX Tower
+342,Black,150 mm x 439 mm x 340 mm,,1,,,True,False,,4,,Silverstone,"279 mm / 10.984""",,"Micro ATX, Mini ITX, Thin Mini ITX",GD06B / SST-GD06B,HTPC
+343,Black / Red,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200i (Black/Red),Mini ITX,CA-H200W-BR,Mini ITX Tower
+344,Silver / Black,,,2,,,True,False,2,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base Pro 900 | Silver rev. 2,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BGW16,ATX Full Tower
+345,Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Meshify S2 Black – TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-S2-BKO-TGL,ATX Mid Tower
+346,Black,466 mm x 218 mm x 475 mm,,,,,True,False,2,2,,Raidmax,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",Zeta B04,ATX Mid Tower
+347,Black,,,,,,True,False,1,4,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",Versa N27,"ATX, Micro ATX, Mini ITX",CA-1H6-00M1WN-02,ATX Mid Tower
+348,Black,424 mm x 320 mm x 336 mm,,,,,True,False,3,3,,Thermaltake,"350 mm / 13.78""",Core V21,"Micro ATX, Mini ITX",CA-1D5-00S1WN-00,MicroATX Mini Tower
+349,Black / Silver,,,2,,,True,False,8,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base 900 (Black/Silver),"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BG012,ATX Full Tower
+350,Black,323 mm x 99 mm x 400 mm,1,1,,,False,275 W,,1,,Apex,,,"Flex ATX, Micro ATX, Mini ITX",DM-387,HTPC
+351,Black / Green,438 mm x 203 mm x 470 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-MIRAGE (Black/Green),"ATX, Micro ATX, Mini ITX",X-MIRAGE-GN,ATX Mid Tower
+352,Black,534 mm x 234 mm x 549 mm,,3,,,True,False,1,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Pro,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES614PC_BK,ATX Full Tower
+353,Black,500 mm x 200 mm x 440 mm,,2,,,True,False,,3,,Rosewill,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",TYRFING,ATX Mid Tower
+354,White,425 mm x 215 mm x 464 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide 400C White,"ATX, EATX, Micro ATX, Mini ITX",CC-9011095-CN / CC-9011095-WW,ATX Mid Tower
+355,White,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Define S2 White – TG,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S2-WT-TGC,ATX Mid Tower
+356,Black,411 mm x 210 mm x 411 mm,,1,,,True,False,4,4,,Cooler Master,"346 mm / 13.622""",MasterBox NR400 (w/ODD),"Micro ATX, Mini ITX",MCB-NR400-KG5N-S00,MicroATX Mid Tower
+357,Black,,,2,,,True,False,3,3,,Deepcool,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",DUKASE V2,ATX Mid Tower
+358,Black / Blue,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200 (Black/Blue),Mini ITX,CA-H200B-BL,Mini ITX Tower
+359,Black,,,2,,,True,False,4,2,,Cougar,"390 mm / 15.354""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB",Panzer Max,ATX Full Tower
+360,Black,550 mm x 235 mm x 560 mm,,3,,,True,False,2,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Luxe Tempered Glass (Black),"ATX, EATX, Micro ATX, SSI EEB",PH-ES614LTG_BK,ATX Full Tower
+361,Black / White,500 mm x 235 mm x 480 mm,,1,,,True,False,3,8,,Phanteks,"300 mm / 11.811"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Enthoo Pro M Tempered Glass (Black/White),"ATX, EATX, Micro ATX, Mini ITX",PH-ES515PTG_SWT,ATX Mid Tower
+362,White / Black,,,,,,True,False,4,2,,Thermaltake,"410 mm / 16.142""",View 27 Snow Edition,"ATX, Micro ATX, Mini ITX",CA-1G7-00M6WN-WT,ATX Mid Tower
+363,Gray,,,,,,True,False,2,1,,Phanteks,"350 mm / 13.78""",ENTHOO EVOLV SHIFT,Mini ITX,PH-ES217E_AG,Mini ITX Tower
+364,Black,,,,1,,True,False,1,1,,Silverstone,"254 mm / 10""",,"Mini DTX, Mini ITX, Thin Mini ITX",SG05BB-LITE / SST-SG05BB-LITE,Mini ITX Desktop
+365,Black,,,,,,True,False,3,3,,Rosewill,"420 mm / 16.535""",,"ATX, EATX, Micro ATX",CULLINAN,ATX Mid Tower
+366,Gray,559 mm x 231 mm x 558 mm,,4,,,True,False,,8,,Fractal Design,"330 mm / 12.992"" With Drive Cages, 480 mm / 18.898"" Without Drive Cages",Define XL R2 (Titanium Grey),"ATX, EATX, Micro ATX, Mini ITX, Thin Mini ITX, XL ATX",FD-CA-DEF-XL-R2-TI,ATX Full Tower
+367,White,,,,,,True,650 W,2,,,Inwin,"320 mm / 12.598""",A1 PLUS WHITE,Mini ITX,IW-A1PLUS-WHITE,Mini ITX Tower
+368,White / Blue,,,3,,,True,False,4,4,,Apevia,,,"ATX, Micro ATX",X-PIONEER-WHT,ATX Mid Tower
+369,Black,,,,,,True,False,2,2,,Antec,"360 mm / 14.173""",Dark Phantom DP301M,"Micro ATX, Mini ITX",DP301M,MicroATX Mid Tower
+370,Black / Blue,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500i (Black/Blue),"ATX, Micro ATX, Mini ITX",CA-H500W-BL,ATX Mid Tower
+371,Black,,,3,,,True,False,1,9,,Cooler Master,"423 mm / 16.654""",Silencio 652S,"ATX, Micro ATX, Mini ITX",SIL-652-KKN2,ATX Mid Tower
+372,White,,,,,,True,False,1,4,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",Versa N27,"ATX, Micro ATX, Mini ITX",CA-1H6-00M6WN-02,ATX Mid Tower
+373,Black,615 mm x 270 mm x 750 mm,,1,,,True,False,4,6,,Phanteks,,Enthoo Elite (Black),"ATX, EATX, Micro ATX, Mini ITX",PH-ES916E_BK,ATX Full Tower
+374,White,544 mm x 242 mm x 542 mm,,,,,True,False,2,2,,Cooler Master,"412 mm / 16.22""",MasterCase H500P Mesh White,"ATX, Micro ATX, Mini ITX",MCM-H500P-WGNN-S00,ATX Mid Tower
+375,Black,426 mm x 340 mm x 510 mm,,,,,True,False,4,3,,Corsair,"330 mm / 12.992""",Air 740,"ATX, Micro ATX, Mini ITX",CC-9011096-WW,ATX Full Tower
+376,Black / Blue,,,1,,,True,False,3,2,,Cooler Master,"363 mm / 14.291""",MasterBox E300L,"Micro ATX, Mini ITX",MCB-E300L-KN5N-B01,MicroATX Mini Tower
+377,Black,550 mm x 245 mm x 447 mm,,,,,True,False,2,2,,Aerocool,"375 mm / 14.764"" With Drive Cages, 400 mm / 15.748"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",P7-C1 Black,ATX Mid Tower
+378,Black / Blue,460 mm x 200 mm x 432 mm,,,,,True,False,3,3,,FSP Group,"360 mm / 14.173""",,"ATX, Micro ATX, Mini ITX",CMT210(BLK),ATX Mid Tower
+379,White,370 mm x 188 mm x 365 mm,,,,,True,False,2,1,,Inwin,"265 mm / 10.433"" With Drive Cages, 330 mm / 12.992"" Without Drive Cages",,"Micro ATX, Mini ITX",301C White,MicroATX Mini Tower
+380,Pink,438 mm x 203 mm x 470 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-MIRAGE (Pink),"ATX, Micro ATX, Mini ITX",X-MIRAGE-PK,ATX Mid Tower
+381,Black / Blue,,,1,,,True,False,1,4,,Apevia,"340 mm / 13.386""",,"Micro ATX, Mini ITX",X-QTIS-BK,MicroATX Mid Tower
+382,Black,478 mm x 209 mm x 473 mm,,,,,True,False,5,4,,Cooler Master,"410 mm / 16.142""",MasterBox NR600 (w/o ODD),"ATX, Micro ATX, Mini ITX",MCB-NR600-KGNN-S00,ATX Mid Tower
+383,White / Black,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",SPEC-OMEGA RGB,"ATX, Micro ATX, Mini ITX",CC-9011141-WW,ATX Mid Tower
+384,Black,281 mm x 208 mm x 261 mm,,,,,True,False,1,3,,Cooler Master,"210 mm / 8.268""",Elite 110,Mini ITX,RC-110-KKN2,Mini ITX Tower
+385,Black,520 mm x 231 mm x 451 mm,,2,,,True,False,2,8,,Fractal Design,"310 mm / 12.205"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R5 (Black),"ATX, Micro ATX, Mini ITX",FD-CA-DEF-R5-BK,ATX Mid Tower
+386,Black,,,,,,True,False,2,2,,Zalman,"330 mm / 12.992""",,"ATX, Micro ATX, Mini ITX",S2,ATX Mid Tower
+387,Black / Blue,514 mm x 444 mm x 196 mm,1,4,,,True,False,1,4,,Apevia,"406 mm / 15.984""",,"ATX, Micro ATX, Mini ITX",X-HERMES-BL,ATX Mid Tower
+388,Black / Green,,,5,,,True,False,12,6,,Phanteks,"257 mm / 10.118"" With Drive Cages, 515 mm / 20.276"" Without Drive Cages",Enthoo Primo,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES813P_SGR,ATX Full Tower
+389,Black,529 mm x 207 mm x 441 mm,,2,,,True,False,,8,,Fractal Design,"290 mm / 11.417""",Define R3 Black Pearl,"ATX, Micro ATX, Mini ITX, Thin Mini ITX",FD-CA-DEF-R3-USB3-BL,ATX Mid Tower
+390,Black,,,,,,True,False,1,1,,Silverstone,"267 mm / 10.512""",Sugo SG13B-Q,"Mini DTX, Mini ITX",SST-SG13B-Q / SG13B-Q,Mini ITX Tower
+391,Black,,,,,,True,False,3,2,,Rosewill,"370 mm / 14.567""",PRISM T500,"ATX, Micro ATX, Mini ITX",R0901003-0118,ATX Mid Tower
+392,Black,307 mm x 304 mm x 152 mm,,,,1,True,500 W,2,2,,EVGA,"267 mm / 10.512""",Hadron,Mini ITX,110-MA-1001-K1 / 110-MA-1001-K2 / 110-MA-1001-K3 / 110-MA-1001-K4,Mini ITX Tower
+393,Black,,,2,,,True,False,2,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base Pro 900 | Black rev. 2,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BGW15,ATX Full Tower
+394,Black,,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400i,"Micro ATX, Mini ITX",CA-H400W-BB,MicroATX Mini Tower
+395,Black,440 mm x 220 mm x 464 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Crystal 460X RGB,"ATX, Micro ATX, Mini ITX",CC-9011101-WW,ATX Mid Tower
+396,Black,374.904 mm x 172.974 mm x 366.014 mm,,1,,,True,False,2,2,,Rosewill,,,"Micro ATX, Mini ITX",FBM-06,MicroATX Mini Tower
+397,Black,,,1,,,True,False,4,2,,Thermaltake,"310 mm / 12.205""",Versa J22 Tempered Glass RGB Edition,"ATX, Micro ATX, Mini ITX",CA-1L5-00M1WN-01,ATX Mid Tower
+398,White / Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Meshify S2 White – TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-S2-WT-TGC,ATX Mid Tower
+399,White,500 mm x 215 mm x 480 mm,,,,,True,False,2,2,,Inwin,"350 mm / 13.78""",303C (White),"ATX, Micro ATX, Mini ITX",303C WHITE,ATX Mid Tower
+400,Black / Red,,,,,,True,False,4,2,,Cougar,"390 mm / 15.354""",,"ATX, EATX, Micro ATX, Mini ITX",Panzer Evo,ATX Full Tower
+401,Black / Orange,685 mm x 255 mm x 580 mm,,,,,True,False,1,3,,Cougar,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",Conquer / 385LMR0.0001,ATX Mid Tower
+402,Black,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200i (Black),Mini ITX,CA-H200W-BB,Mini ITX Tower
+403,Black,464 mm x 205 mm x 444 mm,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G (Black),"ATX, Micro ATX, Mini ITX",FD-CA-FOCUS-BK-W,ATX Mid Tower
+404,White,,,,,,True,False,2,2,,Thermaltake,"255 mm / 10.039"" With Drive Cages, 285 mm / 11.22"" Without Drive Cages",Core V1 Snow Edition,Mini ITX,CA-1B8-00S6WN-01,Mini ITX Desktop
+405,Black,,,,,,True,False,3,4,,Phanteks,"294 mm / 11.575"" With Drive Cages, 435 mm / 17.126"" Without Drive Cages",ECLIPSE P600S,"ATX, Micro ATX, Mini ITX",PH-EC600PSC_BK01,ATX Mid Tower
+406,Black,,,1,,,True,False,1,2,,RIOTORO,"300 mm / 11.811""",,"ATX, Micro ATX, Mini ITX",CR1080,ATX Mid Tower
+407,Black,307 mm x 199 mm x 104 mm,,1,,,False,250 W,1,1,,Apevia,,,"Mini ITX, Thin Mini ITX",X-FIT-200,Mini ITX Tower
+408,Black,,,,,,True,False,4,2,,Enermax,"420 mm / 16.535""",EQUILENCE,"ATX, Micro ATX, Mini ITX",ECA3511A-BB,ATX Mid Tower
+409,Black,,,,,,True,False,3,3,,DIYPC,"440 mm / 17.323""",Vanguard RGB,"ATX, Micro ATX, Mini ITX",Vanguard-RGB,ATX Mid Tower
+410,Black,556 mm x 232 mm x 580 mm,,6,,,True,False,,6,,Rosewill,"330 mm / 12.992""",,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",THOR V2,ATX Full Tower
+411,Silver / Black,,,,,,True,False,4,4,,Cooler Master,"318 mm / 12.52""",MasterCase SL600M,"ATX, Micro ATX, Mini ITX",MCM-SL600M-SGNN-S00,ATX Mid Tower
+412,Black,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700i,"ATX, Micro ATX, Mini ITX",CA-H700W-BB,ATX Mid Tower
+413,Black,,,,,,True,150 W,2,,,Inwin,"1 mm / 0.039""",Chopin (Black),Mini ITX,BQ696 BLK / BQ696 CHPIN BLK 150W / BQ696 black,HTPC
+414,Black,,,,,,True,False,2,2,,NZXT,"363 mm / 14.291""",Manta,Mini ITX,CA-MANTW-M1,Mini ITX Desktop
+415,Black,,1,1,,,True,False,1,3,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",Versa N25,"ATX, Micro ATX, Mini ITX",CA-1G2-00M1WN-00,ATX Mid Tower
+416,Red / Black,531 mm x 214 mm x 515 mm,,3,,,True,False,,6,,NZXT,"230 mm / 9.055"" With Drive Cages, 305 mm / 12.008"" Without Drive Cages",Phantom 410 (Red),"ATX, Micro ATX, Mini ITX, Thin Mini ITX",CA-PH410-R1 / CSNZP410R,ATX Mid Tower
+417,Black,,,,,,True,False,3,2,,DIYPC,"383 mm / 15.079""",,"ATX, Micro ATX, Mini ITX",Trio-GT-RGB,ATX Mid Tower
+418,Black,,,,,,True,False,3,2,,DIYPC,"400 mm / 15.748""",,"ATX, Micro ATX",DIY-BG01,ATX Mid Tower
+419,Black,,1,2,,,True,400 W,,5,,Rosewill,,,"Micro ATX, Mini ITX",R521-M,MicroATX Mini Tower
+420,Black,216 mm x 502 mm x 642 mm,,5,,,True,False,1,5,,Silverstone,"304 mm / 11.969"" With Drive Cages, 309 mm / 12.165"" Without Drive Cages",RV02B-EW-USB3.0 (Black),"ATX, Micro ATX, Mini ITX, SSI CEB",SST-RV02B-EW-USB3.0 / RV02B-EW-USB3.0,ATX Full Tower
+421,Black,279 mm x 615 mm x 659 mm,,5,,,True,False,6,6,,Silverstone,"337 mm / 13.268""",Raven,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",RV01B-W-USB3.0 / SST-RV01B-W-USB3.0,ATX Full Tower
+422,Black,455 mm x 204 mm x 471 mm,,,,,True,False,3,2,,Thermaltake,"260 mm / 10.236"" With Drive Cages, 366 mm / 14.409"" Without Drive Cages",Level 20 MT ARGB,"ATX, Micro ATX, Mini ITX",CA-1M7-00M1WN-00,ATX Mid Tower
+423,,400 mm x 200 mm x 450 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Eclipse P300 Tempered Glass (Black/Red),"ATX, Micro ATX, Mini ITX",PH-EC300PTG_BR,ATX Mid Tower
+424,White / Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C - TG,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-WT-TGC,ATX Mid Tower
+425,Black,,,2,,,True,False,2,3,,Silverstone,"411 mm / 16.181""",PS11B-W,"ATX, Micro ATX",SST-PS11B-W / PS11B-W,ATX Mid Tower
+426,Black / Orange,,,2,,,True,False,8,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base 900 (Black/Orange),"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BG010,ATX Full Tower
+427,Black / Green,335 mm x 172 mm x 355 mm,1,1,,,True,False,,1,,DIYPC,"315 mm / 12.402""",,Micro ATX,MA01-G,MicroATX Mini Tower
+428,Black / Yellow,492 mm x 201 mm x 433 mm,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",Carbide SPEC-04 (Black/Yellow),"ATX, Micro ATX, Mini ITX",CC-9011108-WW,ATX Mid Tower
+429,Black / Blue,,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400i,"Micro ATX, Mini ITX",CA-H400W-BL,MicroATX Mini Tower
+430,Black / Clear,,,,1,,True,False,2,1,,Silverstone,"330 mm / 12.992""",RVZ02B-W,Mini ITX,SST-RVZ02B-W / RVZ02B-W,HTPC
+431,Black / Red,370 mm x 208 mm x 365 mm,,,,,True,False,2,1,,Inwin,"330 mm / 12.992""",,"Micro ATX, Mini ITX",301 Black,MicroATX Mini Tower
+432,Black / Blue,,,3,,,True,False,3,3,,DIYPC,"330 mm / 12.992""",,"ATX, Micro ATX",Skyline-06-WB,ATX Full Tower
+433,Black / Blue,438 mm x 203 mm x 470 mm,,1,,,True,False,2,2,,Apevia,"345 mm / 13.583"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",X-MIRAGE (Black/Blue),"ATX, Micro ATX, Mini ITX",X-MIRAGE-BL,ATX Mid Tower
+434,Black,,,2,,,True,False,,4,,Corsair,"275 mm / 10.827"" With Drive Cages, 414 mm / 16.299"" Without Drive Cages",100R,"ATX, Micro ATX, Mini ITX",CC-9011075-WW,ATX Mid Tower
+435,Black,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400 TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PTG_BK,ATX Mid Tower
+436,Black,,,,1,,True,False,4,,,Silverstone,"175 mm / 6.89""",,Mini ITX,ML09B / SST-ML09B,HTPC
+437,Black,,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",270R,"ATX, Micro ATX, Mini ITX",CC-9011105-WW,ATX Mid Tower
+438,White,,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",Crystal 570X RGB White,"ATX, Micro ATX, Mini ITX",CC-9011110-WW,ATX Mid Tower
+439,Black,,,,,,True,False,2,2,,Deepcool,"370 mm / 14.567""",MATREXX 55 ADD-RGB,"ATX, EATX, Micro ATX, Mini ITX",MATREXX 55 A-RGB 3F / DP-ATX-MATREXX55-AR-3F,ATX Mid Tower
+440,Black / Red,,,3,,,True,False,4,6,,Corsair,"450 mm / 17.717""",760T Black V2,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CC-9011073-WW,ATX Full Tower
+441,Black,445 mm x 272 mm x 446 mm,,,,,True,False,4,2,,Lian-Li,"420 mm / 16.535""",PC-O11 Dynamic (Black),"ATX, EATX, Micro ATX, Mini ITX",PC-O11DX,ATX Full Tower
+442,Black / Silver,492 mm x 220 mm x 470 mm,,2,,,True,False,5,3,,be quiet!,"280 mm / 11.024"" With Drive Cages, 425 mm / 16.732"" Without Drive Cages",Pure Base 600 (Black/Silver),"ATX, Micro ATX, Mini ITX",BG022,ATX Mid Tower
+443,Black / Orange,492 mm x 220 mm x 470 mm,,2,,,True,False,5,3,,be quiet!,"280 mm / 11.024"" With Drive Cages, 425 mm / 16.732"" Without Drive Cages",Pure Base 600 w/Window (Black/Orange),"ATX, Micro ATX, Mini ITX",BGW20,ATX Mid Tower
+444,Black,450 mm x 230 mm x 546 mm,,,,,True,False,4,4,,Lian-Li,"400 mm / 15.748""",,"ATX, Micro ATX, Mini ITX",ALPHA 550X,ATX Mid Tower
+445,Black,457 mm x 277 mm x 506 mm,,,,,True,False,4,4,,Lian-Li,"430 mm / 16.929""",PC-O11 WX,"ATX, EATX, Micro ATX, Mini ITX",PC-O11WX,ATX Full Tower
+446,Black,,,,,,True,False,2,3,,Fractal Design,"425 mm / 16.732"" With Drive Cages, 450 mm / 17.717"" Without Drive Cages",Define S w/Window,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S-BK-W,ATX Mid Tower
+447,Black,513 mm x 228 mm x 469 mm,,3,,,True,False,2,6,,Antec,"318 mm / 12.52""",,"ATX, Micro ATX, Mini ITX, Thin Mini ITX",Three Hundred Two,ATX Mid Tower
+448,Black,452 mm x 210 mm x 489 mm,,,,,True,False,3,2,,BitFenix,"340 mm / 13.386""",Enso Mesh (Black),"ATX, Micro ATX, Mini ITX",BFC-ESM-150-KKWGK-RP,ATX Mid Tower
+449,Black,,,,,,True,False,2,6,,Antec,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",P110 Silent,ATX Mid Tower
+450,Black,,,,,,False,False,1,,,Silverstone,,,Thin Mini ITX,SST-PT13B / PT13B,HTPC
+451,Black,,,,,,True,False,2,2,,DIYPC,"375 mm / 14.764""",,"ATX, Micro ATX, Mini ITX",Crystal-P3-RGB,ATX Mid Tower
+452,Black,,,,,,True,False,2,2,,Metallic Gear,"360 mm / 14.173""",NEO,"ATX, Micro ATX, Mini ITX",MG-NE510_BK01,ATX Mid Tower
+453,Black / Red,,,1,,,True,False,2,3,,DIYPC,"340 mm / 13.386""",,"Micro ATX, Mini ITX",Cuboid-R,MicroATX Mini Tower
+454,Black,,,1,,,True,False,3,2,,Zalman,"250 mm / 9.843"" With Drive Cages, 300 mm / 11.811"" Without Drive Cages",,"Micro ATX, Mini ITX",T2 Plus / ZM-T2 PLUS,MicroATX Mini Tower
+455,White / Black,,,,,,True,False,3,6,,Corsair,"370 mm / 14.567""",Carbide Series 678C,"ATX, EATX, Micro ATX, Mini ITX",CC-9011170-WW,ATX Mid Tower
+456,White,,,,,,True,False,4,2,,Corsair,"370 mm / 14.567""",Carbide SPEC-06,"ATX, Micro ATX, Mini ITX",CC-9011145-WW,ATX Mid Tower
+457,Black,455 mm x 211 mm x 460 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide Series 275R (Black),"ATX, Micro ATX, Mini ITX",CC-9011130-WW,ATX Mid Tower
+458,Black,,,,,,True,False,2,1,,Metallic Gear,"345 mm / 13.583""",NEO MINI,Mini ITX,MG-NE210_BK01,Mini ITX Tower
+459,Black,,,,,,True,False,2,3,,Silverstone,"370 mm / 14.567""",LD01B,"Micro ATX, Mini ITX",SST-LD01B / LD01B,MicroATX Mini Tower
+460,,477 mm x 211 mm x 483 mm,,,,,True,False,2,2,,EVGA,"390 mm / 15.354""",DG-76 Alpine White,"ATX, Micro ATX, Mini ITX",166-W1-2232-KR,ATX Mid Tower
+461,Black,,,,,,True,False,2,3,1,Azza,"380 mm / 14.961""",Photios250,"ATX, Micro ATX, Mini ITX",CSAZ-250,ATX Mid Tower
+462,Black,,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide 400C,"ATX, EATX, Micro ATX, Mini ITX",CC-9011081-WW,ATX Mid Tower
+463,White / Purple,429 mm x 184 mm x 469 mm,,2,,,True,False,3,3,,BitFenix,"300 mm / 11.811""",Neos White/Purple,"ATX, Micro ATX, Mini ITX",BFC-NEO-100-WWWKP-RP,ATX Mid Tower
+464,Black,,,,,,True,False,2,3,,Rosewill,"440 mm / 17.323""",PRISM S500,"ATX, Micro ATX, Mini ITX",R0901001-0118,ATX Mid Tower
+465,Black,285 mm x 222 mm x 181 mm,,,,,True,False,1,1,,Silverstone,"267 mm / 10.512""",Sugo SG13B,"Mini DTX, Mini ITX",SST-SG13B / SG13B,Mini ITX Tower
+466,White / Black,556 mm x 232 mm x 580 mm,,6,,,True,False,,6,,Rosewill,"330 mm / 12.992""",,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",THOR V2-W,ATX Full Tower
+467,Black,,,1,,,True,False,4,2,,Enermax,"280 mm / 11.024"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",SABERAY RGB,"ATX, Micro ATX, Mini ITX",ECA3500BA-RGB,ATX Mid Tower
+468,Black / Blue,421 mm x 210 mm x 417 mm,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400 (Black/Blue),"Micro ATX, Mini ITX",CA-H400B-BL,MicroATX Mini Tower
+469,Black / Silver,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Window Silver,"ATX, EATX, Micro ATX, Mini ITX",BGW27,ATX Mid Tower
+470,Black,,,,,,True,False,4,2,,Azza,"400 mm / 15.748""",Chroma 410A,"ATX, Micro ATX, Mini ITX",CSAZ-410A,ATX Mid Tower
+471,Black / Red,579 mm x 250 mm x 606 mm,,1,,,True,False,4,2,,Cooler Master,"322 mm / 12.677""",Trooper SE,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",SGC-5000-KWN2,ATX Full Tower
+472,Black,,,,1,,True,False,2,,,Silverstone,"330 mm / 12.992""",ML08B-H,Mini ITX,SST-ML08B-H / ML08B-H,HTPC
+473,Black,205 mm x 99 mm x 350 mm,,,,1,True,False,4,,,Silverstone,,,Mini ITX,ML06B / SST-ML06B,HTPC
+474,White,,2,,,,True,False,,2,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 450 mm / 17.717"" Without Drive Cages",Core P3 Snow Edition,"ATX, Micro ATX, Mini ITX",CA-1G4-00M6WN-05 / CA-1G4-00M6WN-00,ATX Mid Tower
+475,Black / White,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400 TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PTG_BW,ATX Mid Tower
+476,Black / Red,,,,,,True,False,2,3,,DIYPC,"415 mm / 16.339""",,"ATX, Micro ATX, Mini ITX",IllusionII-BR,ATX Mid Tower
+477,Black / White,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400S TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PSTG_BW,ATX Mid Tower
+478,Black,361 mm x 177 mm x 436 mm,1,2,,,True,300 W,,5,,Apex,,,"Flex ATX, Micro ATX, Mini ITX",TX-606-U3,MicroATX Mid Tower
+479,Black,427 mm x 195 mm x 473 mm,,1,,,True,False,2,2,,Cougar,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",MX330-X,ATX Mid Tower
+480,Black,559 mm x 231 mm x 558 mm,,4,,,True,False,,8,,Fractal Design,"330 mm / 12.992"" With Drive Cages, 480 mm / 18.898"" Without Drive Cages",Define XL R2 (Black Pearl),"ATX, EATX, Micro ATX, Mini ITX, Thin Mini ITX, XL ATX",FD-CA-DEF-XL-R2-BL,ATX Full Tower
+481,White,249 mm x 329 mm x 373 mm,,,,,True,False,5,5,,BitFenix,"320 mm / 12.598""",Phenom M Arctic White,"Micro ATX, Mini ITX",BFC-PHM-300-WWXKK-RP,MicroATX Mini Tower
+482,White,464 mm x 205 mm x 444 mm,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G (White),"ATX, Micro ATX, Mini ITX",FD-CA-FOCUS-WT-W,ATX Mid Tower
+483,Black,550 mm x 235 mm x 535 mm,,3,,,True,False,2,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Pro TG RGB,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES614PTG_BK,ATX Full Tower
+484,White / Black,,,,,,True,False,3,7,,be quiet!,"286 mm / 11.26"" With Drive Cages, 430 mm / 16.929"" Without Drive Cages",Dark Base 700 White Edition,"ATX, Micro ATX, Mini ITX",BGW33,ATX Mid Tower
+485,Black,201 mm x 378 mm x 445 mm,,1,,,True,False,4,3,,Cooler Master,"355 mm / 13.976""",N200,"Micro ATX, Mini ITX",NSE-200-KKN1,MicroATX Mini Tower
+486,Black,,,,,,True,False,4,2,,Cooler Master,"410 mm / 16.142""",MasterBox MB530P,"ATX, Micro ATX, Mini ITX",MCB-B530P-KHNN-S01,ATX Mid Tower
+487,Black,,,10,,,True,False,,6,,Lian-Li,"330 mm / 12.992""",,"ATX, EATX, Micro ATX, Mini ITX",PC-D600WB,ATX Full Tower
+488,Black,471 mm x 208 mm x 492 mm,,,,,True,False,2,2,,Thermaltake,"410 mm / 16.142""",View 21 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1I3-00M1WN-00,ATX Mid Tower
+489,Black / Orange,,,,,,True,False,6,5,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 801 | Window Orange,"ATX, EATX, Micro ATX, Mini ITX",BGW28,ATX Mid Tower
+490,Black,,,,,,True,False,1,2,,Cooler Master,"400 mm / 15.748""",MasterBox K500 Phantom Gaming Edition RGB,"ATX, Micro ATX, Mini ITX",MCB-K500D-KGNN-ASR,ATX Mid Tower
+491,Black,,,,,1,True,False,2,1,,Silverstone,"330 mm / 12.992""",,"Mini DTX, Mini ITX",FTZ01B,Mini ITX Desktop
+492,White,500 mm x 220 mm x 475 mm,,,,,True,False,1,2,,Cooler Master,"410 mm / 16.142""",MasterBox 5 (White),"ATX, Micro ATX, Mini ITX",MCX-B5S2-WWNN-01,ATX Mid Tower
+493,Silver / Black,,,,,,True,False,1,6,,Thermaltake,"295 mm / 11.614"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",A500 Aluminum Tempered Glass,"ATX, Micro ATX, Mini ITX",CA-1L3-00M9WN-00,ATX Mid Tower
+494,Black,429 mm x 208 mm x 480 mm,,3,,,True,False,3,,,Thermaltake,"315 mm / 12.402""",Versa H22,"ATX, Micro ATX, Mini ITX",CA-1B3-00M1NN-00,ATX Mid Tower
+495,Gray,550 mm x 235 mm x 560 mm,,3,,,True,False,2,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Luxe Tempered Glass (Gray),"ATX, EATX, Micro ATX, SSI EEB",PH-ES614LTG_AG,ATX Full Tower
+496,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Define Mini C TG,"Micro ATX, Mini ITX",FD-CA-DEF-MINI-C-BK-TG,MicroATX Mid Tower
+497,Black,413 mm x 198 mm x 459 mm,,,,,True,False,2,2,,Aerocool,"346 mm / 13.622"" With Drive Cages, 371 mm / 14.606"" Without Drive Cages",Cylon,"ATX, Micro ATX, Mini ITX",ACCM-PV10012.11,ATX Mid Tower
+498,Black,450 mm x 220 mm x 472 mm,,,,,True,False,4,2,,Lian-Li,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",LANCOOL ONE DIGITAL,ATX Mid Tower
+499,White,,,,,,True,False,3,2,,DIYPC,"315 mm / 12.402""",,"Micro ATX, Mini ITX",DIY-F2-W,MicroATX Mini Tower
+500,Black,409 mm x 217 mm x 412 mm,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Meshify C Mini Dark TG,"Micro ATX, Mini ITX",FD-CA-MESH-C-MINI-BKO-TGD / FD-CA-MESH-C-MINI-TGD,MicroATX Mini Tower
+501,White / Black,,,,,,True,False,3,4,,Phanteks,"294 mm / 11.575"" With Drive Cages, 435 mm / 17.126"" Without Drive Cages",ECLIPSE P600S,"ATX, Micro ATX, Mini ITX",PH-EC600PSTG_WT01,ATX Mid Tower
+502,Black,,,,,,True,False,3,6,,Corsair,"370 mm / 14.567""",Carbide Series 678C,"ATX, EATX, Micro ATX, Mini ITX",CC-9011167-WW,ATX Mid Tower
+503,White,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500i (White),"ATX, Micro ATX, Mini ITX",CA-H500W-W1,ATX Mid Tower
+504,Black / Silver,327 mm x 220 mm x 96 mm,,,1,,False,150 W,2,,,Antec,,,"Mini ITX, Thin Mini ITX",ISK 310-150,Mini ITX Desktop
+505,White,,,,,,True,False,,2,,Corsair,"300 mm / 11.811""",Crystal 280X,"Micro ATX, Mini ITX",CC-9011136-WW,MicroATX Mid Tower
+506,Black,,1,3,,,True,False,,5,,Antec,"317 mm / 12.48""",,"ATX, Micro ATX, Mini ITX",VSK4000E U3,ATX Mid Tower
+507,Black / Gray,,,,,,True,False,3,4,,Asus,"420 mm / 16.535""",TUF Gaming GT501,"ATX, Micro ATX, Mini ITX",GT501 / 90DC0012-B49000,ATX Mid Tower
+508,Black,,,,,,True,False,2,3,,Thermaltake,"330 mm / 12.992""",Versa J25 Tempered Glass RGB Edition,"ATX, Micro ATX, Mini ITX",CA-1L8-00M1WN-01,ATX Mid Tower
+509,Black,386 mm x 230 mm x 381 mm,,,,,True,False,2,1,,Cooler Master,"270 mm / 10.63""",MasterBox Q500L,"ATX, Micro ATX, Mini ITX",MCB-Q500L-KANN-S00,ATX Mid Tower
+510,Black,,,,,,True,False,4,,,Silverstone,"330 mm / 12.992""",FTZ01B-E,"Mini DTX, Mini ITX",SST-FTZ01B-E,Mini ITX Desktop
+511,White,,,,,,True,False,4,2,,Corsair,"370 mm / 14.567""",Carbide SPEC-06 RGB,"ATX, Micro ATX, Mini ITX",CC-9011147-WW,ATX Mid Tower
+512,Black,,,,,,True,False,,12,,Thermaltake,"470 mm / 18.504"" With Drive Cages, 600 mm / 23.622"" Without Drive Cages",View 91 Tempered Glass RGB Edition,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CA-1I9-00F1WN-00,ATX Full Tower
+513,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Meshify C TG,"ATX, Micro ATX, Mini ITX",FD-CA-MESH-C-BKO-TGL,ATX Mid Tower
+514,Black / Silver,,1,,,,True,False,,3,,Thermaltake,"280 mm / 11.024"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Core P5 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1E7-00M1WN-03,ATX Mid Tower
+515,Black,,,,,,True,False,4,4,,Cougar,"350 mm / 13.78""",GEMINI X,"ATX, Micro ATX, Mini ITX, SSI CEB",Gemini X,ATX Full Tower
+516,Black / Orange,,,,,,True,False,6,5,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 801 | Orange,"ATX, EATX, Micro ATX, Mini ITX",BG028,ATX Mid Tower
+517,Black,469 mm x 200 mm x 455 mm,,,,,True,False,1,2,,Cooler Master,"400 mm / 15.748""",MasterBox Lite 5,"ATX, Micro ATX, Mini ITX",MCW-L5S3-KANN-01,ATX Mid Tower
+518,Black,,,,,,True,False,2,5,,Phanteks,"300 mm / 11.811"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Enthoo Evolv ATX Glass,"ATX, Micro ATX, Mini ITX",PH-ES515ETG_BK,ATX Mid Tower
+519,Black,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400S TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PSTG_BK,ATX Mid Tower
+520,Black / Red,455 mm x 200 mm x 477 mm,,,,,True,False,2,3,,Silverstone,"348 mm / 13.701""",Redline RL06BR-PRO,"ATX, Micro ATX, Mini ITX",RL06BR-PRO / SST-RL06BR-PRO,ATX Mid Tower
+521,Black,427 mm x 195 mm x 473 mm,,1,,,True,False,2,2,,Cougar,"350 mm / 13.78""",,"ATX, Micro ATX, Mini ITX",MX330-G,ATX Mid Tower
+522,Black,,,2,,,True,False,3,2,,DIYPC,"415 mm / 16.339""",,"ATX, EATX, Micro ATX",Silence-BK-Window,ATX Mid Tower
+523,White,465 mm x 201 mm x 437 mm,,1,,,True,False,3,3,,BitFenix,"300 mm / 11.811""",Nova TG (White),"ATX, Micro ATX, Mini ITX",BFX-NTG-100-WWWKK-RP,ATX Mid Tower
+524,Black / Red,,,,,,True,False,6,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB510L,"ATX, Micro ATX, Mini ITX",MCB-B510L-KANN-S00,ATX Mid Tower
+525,Black,,,,,,True,False,2,3,,Thermaltake,"320 mm / 12.598""",Core P90 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1J8-00M1WN-00,ATX Mid Tower
+526,White,483 mm x 423 mm x 752 mm,,1,,,True,False,2,6,,Thermaltake,"400 mm / 15.748""",The Tower 900 Snow Edition,"ATX, EATX, Micro ATX, Mini ITX",CA-1H1-00F6WN-00,ATX Full Tower
+527,Black,249 mm x 329 mm x 373 mm,,,,,True,False,5,5,,BitFenix,"320 mm / 12.598""",Phenom M Midnight Black,"Micro ATX, Mini ITX",BFC-PHM-300-KKXKK-RP,MicroATX Mini Tower
+528,Black / Orange,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Orange,"ATX, EATX, Micro ATX, Mini ITX",BG025,ATX Mid Tower
+529,White,445 mm x 272 mm x 446 mm,,,,,True,False,4,2,,Lian-Li,"420 mm / 16.535""",PC-O11 Dynamic (White),"ATX, EATX, Micro ATX, Mini ITX",PC-O11DW / PC011DW,ATX Full Tower
+530,Silver,,,,,,True,False,2,1,,Metallic Gear,"345 mm / 13.583""",NEO MINI,Mini ITX,MG-NE210_SR01,Mini ITX Tower
+531,Black,387 mm x 230 mm x 378 mm,,,,,True,False,2,1,,Cooler Master,"360 mm / 14.173""",MasterBox Q300L,"Micro ATX, Mini ITX",MCB-Q300L-KANN-S00,MicroATX Mini Tower
+532,Black / Green,640 mm x 483 mm x 330 mm,,1,,,True,False,7,6,,Inwin,"385 mm / 15.157""",X-Frame 2.0 (Black/Green),"ATX, EATX, Micro ATX, Mini ITX",IW-XFRAME2-GRE,ATX Test Bench
+533,Black / Red,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400 TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PTG_BR,ATX Mid Tower
+534,Black,,,,,,True,False,4,2,,Antec,"360 mm / 14.173""",Dark Phantom DP501,"ATX, Micro ATX, Mini ITX",DP501,ATX Mid Tower
+535,Black,,,,,,True,False,4,2,,Rosewill,"350 mm / 13.78""",SPECTRA C100,"ATX, Micro ATX, Mini ITX",R0901008-0118,ATX Mid Tower
+536,Black / Blue,,,2,,,True,False,1,2,,Fractal Design,"380 mm / 14.961""",Focus G,"ATX, Micro ATX, Mini ITX",FD-CA-FOCUS-BU-W,ATX Mid Tower
+537,Black,,,,,,True,False,2,3,,Fractal Design,"440 mm / 17.323""",Define S2 Vision RGB,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-S2V-RGB-BKO-TGD,ATX Mid Tower
+538,Black,,,1,,,True,False,1,3,,Aerocool,"350 mm / 13.78"" With Drive Cages, 375 mm / 14.764"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",CruiseStar Advance / 19122,ATX Mid Tower
+539,Black,464 mm x 205 mm x 457 mm,,3,,,False,False,,6,,Antec,"290 mm / 11.417""",,"ATX, Micro ATX, Mini ITX, Thin Mini ITX",Three Hundred,ATX Mid Tower
+540,Black / White,96 mm x 325 mm x 426 mm,1,1,,,True,350 W,,1,,Antec,,,"Micro ATX, Mini ITX, Thin Mini ITX",Minuet350,MicroATX Slim
+541,Black,,,,,,True,False,2,2,,Lian-Li,"320 mm / 12.598""",,Mini ITX,PC-Q50X,Mini ITX Desktop
+542,Black / Red,,1,1,,,True,False,,1,,DIYPC,"315 mm / 12.402""",,Micro ATX,MA01-R,MicroATX Mini Tower
+543,Silver,,,2,,,True,False,4,7,,Silverstone,"337 mm / 13.268""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",FT04S-W / SST-FT04S-W,ATX Full Tower
+544,Black,372 mm x 210 mm x 349 mm,,,,,True,False,3,1,,NZXT,"325 mm / 12.795""",H200 (Black),Mini ITX,CA-H200B-B1,Mini ITX Tower
+545,Black,470 mm x 210 mm x 443 mm,,,,,True,False,4,2,,Antec,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",P8,ATX Mid Tower
+546,Black,441 mm x 330 mm x 424 mm,2,2,,,True,False,,4,,Cooler Master,"334 mm / 13.15""",HAF XB EVO,"ATX, Micro ATX, Mini ITX",RC-902XB-KKN2,ATX Desktop
+547,Black / Silver,,,,,,True,False,6,5,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 801 | Window Silver,"ATX, EATX, Micro ATX, Mini ITX",BGW30,ATX Mid Tower
+548,Black,485 mm x 185 mm x 408 mm,,1,,,True,False,,3,,Rosewill,"380 mm / 14.961""",,"ATX, Micro ATX, Mini ITX",BRADLEY M,ATX Mid Tower
+549,Black,,,1,,,True,False,1,2,,Silverstone,"309 mm / 12.165""",GD10B,"ATX, Micro ATX, SSI CEB",SST-GD10B,HTPC
+550,Black / Red,455 mm x 200 mm x 477 mm,,,,,True,False,2,3,,Silverstone,"348 mm / 13.701""",Redline RL06BR-GP,"ATX, Micro ATX, Mini ITX",RL06BR-GP / SST-RL06BR-GP,ATX Mid Tower
+551,Black,,,,,,True,False,4,2,,Cougar,"390 mm / 15.354""",,"ATX, EATX, Micro ATX, Mini ITX",Panzer Evo RGB,ATX Full Tower
+552,Black,,,,,,True,False,4,2,,Azza,"400 mm / 15.748""",Chroma 410B,"ATX, Micro ATX, Mini ITX",CSAZ-410B,ATX Mid Tower
+553,Black / Red,480 mm x 234 mm x 512 mm,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",Crystal 570X RGB (Black/Red),"ATX, Micro ATX, Mini ITX",CC-9011111-WW,ATX Mid Tower
+554,White / Black,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-WT,ATX Mid Tower
+555,Black,,,2,,,True,False,2,3,,Thermaltake,"278 mm / 10.945"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Core X71 Tempered Glass Edition,"ATX, Micro ATX, Mini ITX",CA-1F8-00M1WN-02,ATX Full Tower
+556,Black,,,,,,True,False,2,2,,DIYPC,"370 mm / 14.567""",,"ATX, Micro ATX, Mini ITX",Rainbow-Flash-R1,ATX Mid Tower
+557,Black / Silver,,,,,,True,False,6,5,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 801 | Silver,"ATX, EATX, Micro ATX, Mini ITX",BG030,ATX Mid Tower
+558,Black / Red,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",SPEC-OMEGA,"ATX, Micro ATX, Mini ITX",CC-9011121-WW,ATX Mid Tower
+559,Black,168 mm x 355 mm x 308 mm,,,,1,True,500 W,,2,,EVGA,"266 mm / 10.472""",Hadron Hydro,Mini ITX,110-MW-1002-K1 / 110-MW-1002-K3,Mini ITX Tower
+560,Black / Red,,,,,,True,False,2,2,,Cooler Master,"410 mm / 16.142""",MasterCase H500P Mesh Phantom Gaming Edition,"ATX, Micro ATX, Mini ITX",MCM-H500P-MGNN-ASR,ATX Mid Tower
+561,Black,395 mm x 230 mm x 375 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Enthoo EVOLV ITX TG (Black),Mini ITX,PH-ES215PTG_BK,Mini ITX Desktop
+562,Black / White,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700i,"ATX, Micro ATX, Mini ITX",CA-H700W-WB,ATX Mid Tower
+563,Black,450 mm x 230 mm x 450 mm,,,,,True,False,2,1,,Cooler Master,"360 mm / 14.173""",MasterBox Q300P,"Micro ATX, Mini ITX",MCB-Q300P-KANN-S02,MicroATX Mini Tower
+564,Red / Black,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",SPEC-OMEGA,"ATX, Micro ATX, Mini ITX",CC-9011120-WW,ATX Mid Tower
+565,Black,,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",270R,"ATX, Micro ATX, Mini ITX",CC-9011106-WW,ATX Mid Tower
+566,Black,,,,,,True,False,2,6,,Antec,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",P110 Luce,ATX Mid Tower
+567,Black / Silver,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Silver,"ATX, EATX, Micro ATX, Mini ITX",BG027,ATX Mid Tower
+568,Black,249 mm x 649 mm x 599 mm,,5,,,True,False,12,6,,Phanteks,"257 mm / 10.118"" With Drive Cages, 515 mm / 20.276"" Without Drive Cages",Enthoo Series Primo Aluminum,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES813P_BL,ATX Full Tower
+569,Black,469 mm x 200 mm x 455 mm,,,,,True,False,1,2,,Cooler Master,"400 mm / 15.748""",MasterBox Lite 5 RGB,"ATX, Micro ATX, Mini ITX",MCW-L5S3-KGNN-02,ATX Mid Tower
+570,Black / White,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Define R6 USB-C Black,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-BK,ATX Mid Tower
+571,Black,,,,,,True,False,3,2,,Fractal Design,"315 mm / 12.402""",Define C TG,"ATX, Micro ATX, Mini ITX",FD-CA-DEF-C-BK-TG,ATX Mid Tower
+572,Black,529 mm x 235 mm x 548 mm,,2,,,True,False,1,4,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase MC500M,"ATX, Micro ATX, Mini ITX",MCM-M500M-KG5N-S00,ATX Mid Tower
+573,Black,,,,,,True,False,4,2,,Cougar,"425 mm / 16.732""",,"ATX, Micro ATX, Mini ITX",Puritas RGB,ATX Mid Tower
+574,Silver,400 mm x 230 mm x 453 mm,,,,,True,False,2,2,,Phanteks,"319 mm / 12.559""",Enthoo Evolv TG (Silver),"Micro ATX, Mini ITX",PH-ES314ETG_GS,MicroATX Mini Tower
+575,Black,,,,1,,True,False,3,7,,Lian-Li,"310 mm / 12.205""",,"ATX, EATX, Micro ATX, Mini ITX",PC-O7S / PC-O7SX,HTPC
+576,Black / Red,,,,,,True,False,1,2,,Cooler Master,"380 mm / 14.961""",MasterBox Lite 3.1 TG,"Micro ATX, Mini ITX",MCW-L3S3-KGNN-00,MicroATX Mid Tower
+577,Black,512 mm x 235 mm x 548 mm,,2,,,True,False,2,2,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase MC500,"ATX, Micro ATX, Mini ITX",MCM-M500-KG5N-S00,ATX Mid Tower
+578,Black,472 mm x 204 mm x 477 mm,,,,,True,False,2,2,,EVGA,"390 mm / 15.354""",DG-73,"ATX, Micro ATX, Mini ITX",130-P0-0020-KR,ATX Mid Tower
+579,Black,,,4,,,True,False,,6,,Cooler Master,"270 mm / 10.63"" With Drive Cages, 390 mm / 15.354"" Without Drive Cages",HAF 912 USB3.0,"ATX, Micro ATX, Mini ITX",RC-912-KKN1-GP,ATX Mid Tower
+580,Black / Blue,,,1,,,True,False,2,3,,Rosewill,"380 mm / 14.961""",,"ATX, Micro ATX, Mini ITX",NAUTILUS,ATX Mid Tower
+581,White,,,3,,,True,False,,7,,Thermaltake,"400 mm / 15.748"" With Drive Cages, 590 mm / 23.228"" Without Drive Cages",Core X9 Snow Edition,"ATX, EATX, Micro ATX, Mini ITX",CA-1D8-00F6WN-00,ATX Desktop
+582,Black / Silver,,,1,,,True,False,3,2,,Deepcool,"320 mm / 12.598""",,Mini ITX,TriStellar SW,Mini ITX Desktop
+583,Black / Silver,,,1,,,True,False,2,2,,Antec,"390 mm / 15.354""",,"ATX, Micro ATX, Mini ITX",P7 Silent,ATX Mid Tower
+584,Black,352 mm x 175 mm x 350 mm,1,2,,,False,False,,2,,Rosewill,,,"Micro ATX, Mini ITX",FBM-01,MicroATX Mini Tower
+585,Black,399 mm x 185 mm x 364 mm,1,2,,,True,False,,2,,Rosewill,"317 mm / 12.48""",Line-M,"Micro ATX, Mini ITX",LINE-M,MicroATX Mini Tower
+586,Black,,,,,,True,False,5,8,,Deepcool,"380 mm / 14.961""",Quadstellar,"ATX, EATX, Micro ATX, Mini ITX",QUADSTELLAR,ATX Desktop
+587,Black / Blue,,,,,,True,False,5,2,,NZXT,"413 mm / 16.26""",H700i,"ATX, Micro ATX, Mini ITX",CA-H700W-BL,ATX Mid Tower
+588,Black,657 mm x 224 mm x 642 mm,,9,,,True,False,3,6,,Silverstone,"314 mm / 12.362""",,"ATX, Micro ATX, Mini ITX, SSI CEB, XL ATX",TJ11B-W / SST-TJ11B-W USB 3.0,ATX Full Tower
+589,Black,,,,,,True,False,2,3,,Thermaltake,"330 mm / 12.992""",Versa J24 TG RGB,"ATX, Micro ATX, Mini ITX",CA-1L7-00M1WN-01,ATX Mid Tower
+590,Black,512 mm x 235 mm x 548 mm,,2,,,True,False,2,4,,Cooler Master,"296 mm / 11.654"" With Drive Cages, 412 mm / 16.22"" Without Drive Cages",MasterCase MC500P,"ATX, Micro ATX, Mini ITX",MCM-M500P-KG5N-S00,ATX Mid Tower
+591,Black,,,,,,False,False,4,3,,Corsair,"330 mm / 12.992""",Crystal Series 680X RGB,"ATX, EATX, Micro ATX, Mini ITX",CC-9011168-WW,ATX Mid Tower
+592,Black,,,,,,True,False,2,2,,Corsair,"370 mm / 14.567""",Crystal 570X RGB Mirror Black,"ATX, Micro ATX, Mini ITX",CC-9011126-WW,ATX Mid Tower
+593,Black,483 mm x 423 mm x 752 mm,,1,,,True,False,2,6,,Thermaltake,"400 mm / 15.748""",The Tower 900,"ATX, EATX, Micro ATX, Mini ITX",CA-1H1-00F1WN-00,ATX Full Tower
+594,Black / Silver,515 mm x 394 mm x 623 mm,,,,,True,False,2,6,,Thermaltake,"400 mm / 15.748"" With Drive Cages, 590 mm / 23.228"" Without Drive Cages",Level 20 XT,"ATX, EATX, Micro ATX, Mini ITX",CA-1L1-00F1WN-00,ATX Desktop
+595,Black,463 mm x 197 mm x 490 mm,1,1,,,True,False,1,3,,Thermaltake,"250 mm / 9.843"" With Drive Cages, 360 mm / 14.173"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",Versa N26 / CA-1G3-00M1WN-00,ATX Mid Tower
+596,Black / Red,,,3,,,True,False,4,4,,Apevia,,,"ATX, Micro ATX, Mini ITX",X-SNIPER2-RD,ATX Mid Tower
+597,Black,421 mm x 210 mm x 417 mm,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400 (Black),"Micro ATX, Mini ITX",CA-H400B-B1,MicroATX Mini Tower
+598,Black,450 mm x 214 mm x 465 mm,,1,,,True,False,2,2,,Raidmax,"390 mm / 15.354""",Alpha Prime (Black),"ATX, Micro ATX, Mini ITX",A15TTB / ALPHA-TTB,ATX Mid Tower
+599,Black,400 mm x 200 mm x 450 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Eclipse P300 Tempered Glass (Black),"ATX, Micro ATX, Mini ITX",PH-EC300PTG_BK,ATX Mid Tower
+600,White,356 mm x 273 mm x 210 mm,,,,,True,600 W,2,,,Inwin,"300 mm / 11.811""",A1 (White),Mini ITX,IW-A1-WHI-P,Mini ITX Tower
+601,White / Black,,,,,,True,False,2,3,,Corsair,"370 mm / 14.567""",SPEC-OMEGA,"ATX, Micro ATX, Mini ITX",CC-9011119-WW,ATX Mid Tower
+602,Black,,,,,,True,False,1,2,,BitFenix,"340 mm / 13.386""",ENSO,"ATX, Micro ATX, Mini ITX",BFC-ENS-150-KKWGK-RP,ATX Mid Tower
+603,Black / Blue,,,1,,,True,False,2,2,,Cooler Master,"399 mm / 15.709""",MasterBox E500L,"ATX, Micro ATX, Mini ITX",MCB-E500L-KA5N-S00,ATX Mid Tower
+604,Black,221 mm x 176 mm x 276 mm,,,1,,True,450 W,1,1,,Silverstone,"254 mm / 10""",SG05BB-450-USB3.0 (Black),"Mini DTX, Mini ITX, Thin Mini ITX",SST-SG05BB-450-USB3.0 / SG05BB-450-USB3.0,Mini ITX Desktop
+605,Black,,,,,,True,False,1,2,,BitFenix,"300 mm / 11.811""",Portal (Black),Mini ITX,BFC-POT-150-KKXKK-RP,Mini ITX Tower
+606,Black,,,,,1,True,False,4,2,,Silverstone,"337 mm / 13.268""",,"Micro ATX, Mini ITX",SG10B / SST-SG10B,MicroATX Mini Tower
+607,Black,,,,,,True,False,6,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB520 RGB,"ATX, Micro ATX, Mini ITX",MCB-B520-KGNN-RGB,ATX Mid Tower
+608,Black / Silver,,,1,,,True,False,3,2,,Cooler Master,"363 mm / 14.291""",MasterBox E300L,"Micro ATX, Mini ITX",MCB-E300L-KN5N-B02 / MCB-E300L-KN5N-B01,MicroATX Mini Tower
+609,Black,,,2,,,True,False,2,2,,GAMDIAS,"380 mm / 14.961""",TALOS P1,"ATX, EATX, Micro ATX, Mini ITX",GD-TALOS P1,ATX Mid Tower
+610,Black,232 mm x 549 mm x 439 mm,,2,,,True,False,1,2,,Rosewill,"355 mm / 13.976""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",RISE,ATX Full Tower
+611,Black,,,,,,True,False,,3,,be quiet!,"287 mm / 11.299"" With Drive Cages, 449 mm / 17.677"" Without Drive Cages",Silent Base 601 | Black,"ATX, EATX, Micro ATX, Mini ITX",BG026,ATX Mid Tower
+612,White / Red,,,2,,,True,False,2,3,,SAMA,"418 mm / 16.457""",,"Micro ATX, Mini ITX",Maxcool-W-15LEDLight,MicroATX Mid Tower
+613,Silver,,,1,,,True,False,2,6,,Fractal Design,"300 mm / 11.811"" With Drive Cages, 440 mm / 17.323"" Without Drive Cages",Design Define R6 USB-C Gunmetal,"ATX, EATX, Micro ATX, Mini ITX",FD-CA-DEF-R6C-GY,ATX Mid Tower
+614,Pink / Black,,2,4,,,False,False,,5,,Apevia,,,"ATX, Micro ATX, Mini ITX",X-INFINITY-PK,ATX Mid Tower
+615,Black,474 mm x 190 mm x 429 mm,1,4,,,False,False,1,4,,Thermaltake,,,"ATX, Micro ATX, Mini ITX",VM30001W2Z,ATX Mid Tower
+616,Black,,,2,,,True,False,,8,,Thermaltake,"310 mm / 12.205"" With Drive Cages, 480 mm / 18.898"" Without Drive Cages",Core V71 Tempered Glass,"ATX, EATX, Micro ATX, Mini ITX",CA-1B6-00F1WN-04,ATX Full Tower
+617,Black,,,,,,True,False,3,2,,Thermaltake,"380 mm / 14.961""",V200 Tempered Glass RGB Edition,"ATX, Micro ATX, Mini ITX",CA-1K8-00M1WN-01,ATX Mid Tower
+618,Black / Blue,,,2,,,True,False,,4,,Corsair,"414 mm / 16.299""",SPEC-01,"ATX, Micro ATX, Mini ITX",CC-9011056-WW,ATX Mid Tower
+619,Black,400 mm x 230 mm x 453 mm,,,,,True,False,2,2,,Phanteks,"319 mm / 12.559""",Enthoo Evolv TG (Black),"Micro ATX, Mini ITX",PH-ES314ETG_BK,MicroATX Mini Tower
+620,Black,,,,1,,True,False,2,4,,Inwin,,IW-MS04,Mini ITX,IW-MS04-01-S265,Mini ITX Desktop
+621,Black,428 mm x 210 mm x 460 mm,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500i (Black),"ATX, Micro ATX, Mini ITX",CA-H500W-B1,ATX Mid Tower
+622,Black,686 mm x 270 mm x 643 mm,,,,,True,False,2,2,,EVGA,,DG-85,"ATX, EATX, Micro ATX, Mini ITX",100-E1-1000-K0,ATX Full Tower
+623,Black,,,1,,,True,False,2,6,,Zalman,"270 mm / 10.63"" With Drive Cages, 400 mm / 15.748"" Without Drive Cages",,"ATX, Micro ATX",Z11 NEO,ATX Mid Tower
+624,Black,398 mm x 177 mm x 355 mm,2,2,,,False,300 W,,1,,Apex,,,"Flex ATX, Micro ATX, Mini ITX",TM366BK,MicroATX Mid Tower
+625,Black,601 mm x 287 mm x 637 mm,,2,,,True,False,3,6,,Corsair,"355 mm / 13.976""",780T,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CC-9011063-WW,ATX Full Tower
+626,Black / Red,249 mm x 403 mm x 358 mm,,1,,,True,False,5,4,,BitFenix,"250 mm / 9.843"" With Drive Cages, 320 mm / 12.598"" Without Drive Cages",Prodigy M Arctic White,"Micro ATX, Mini ITX",BFC-PRM-300-WWWKW-RP,MicroATX Mini Tower
+627,Black,,,2,,,True,False,4,7,,Silverstone,"337 mm / 13.268""",,"ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB",FT04B-W / SST-FT04B-W,ATX Full Tower
+628,Black,,,,,,False,False,1,,,Morex,,,Mini ITX,557,HTPC
+629,Black / Green,,1,1,,,True,False,1,2,,Apevia,"320 mm / 12.598""",,"Micro ATX, Mini ITX",X-QBER-GN,MicroATX Desktop
+630,,400 mm x 200 mm x 450 mm,,,,,True,False,1,2,,Phanteks,"330 mm / 12.992""",Eclipse P300 Tempered Glass (Black/White),"ATX, Micro ATX, Mini ITX",PH-EC300PTG_BW,ATX Mid Tower
+631,Black,497 mm x 210 mm x 429 mm,,3,,,True,False,4,4,,Corsair,"300 mm / 11.811"" With Drive Cages, 430 mm / 16.929"" Without Drive Cages",,"ATX, Micro ATX, Mini ITX",200R / CC-9011023-WW / CC200R,ATX Mid Tower
+632,Black / Silver,348 mm x 330 mm x 430 mm,,,,,True,False,3,3,,Thermaltake,"350 mm / 13.78""",Level 20 VT,"Micro ATX, Mini ITX",CA-1L2-00S1WN-00,MicroATX Desktop
+633,Black,534 mm x 234 mm x 549 mm,,3,,,True,False,1,6,,Phanteks,"347 mm / 13.661"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Enthoo Pro,"ATX, EATX, Micro ATX, Mini ITX, SSI EEB",PH-ES614P_BK,ATX Full Tower
+634,Black,,,,,,True,False,4,2,,Antec,"380 mm / 14.961""",Dark Fleet DF500 RGB,"ATX, Micro ATX, Mini ITX",DF500 RGB,ATX Mid Tower
+635,Black / White,,,,,,True,False,3,3,,NZXT,"381 mm / 15""",H500 Overwatch,"ATX, Micro ATX, Mini ITX",CA-H500B-OW,ATX Mid Tower
+636,Black,414 mm x 331 mm x 457 mm,,2,,,True,False,4,2,,Corsair,"320 mm / 12.598""",,"ATX, EATX, Micro ATX, Mini ITX",Air 540 / CC-9011030-WW,ATX Mid Tower
+637,Black / Red,,,1,,,True,False,1,2,,Cooler Master,"400 mm / 15.748""",MasterBox MB600L,"ATX, Micro ATX, Mini ITX",MCB-B600L-KA5N-S00,ATX Mid Tower
+638,White,,,,,,True,False,2,2,,Phanteks,"280 mm / 11.024"" With Drive Cages, 395 mm / 15.551"" Without Drive Cages",ECLIPSE P400 TEMPERED GLASS,"ATX, EATX, Micro ATX, Mini ITX",PH-EC416PTG_WT,ATX Mid Tower
+639,Black,,,3,,,True,False,,8,,Rosewill,"420 mm / 16.535""",,"ATX, EATX, Micro ATX, Mini ITX",NIGHTHAWK 117,ATX Full Tower
+640,White,455 mm x 211 mm x 460 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide Series 275R (White),"ATX, Micro ATX, Mini ITX",CC-9011131-WW,ATX Mid Tower
+641,White,490 mm x 198 mm x 538 mm,,,,,True,False,2,2,,Thermaltake,"390 mm / 15.354""",Versa C22 RGB Snow Edition,"ATX, Micro ATX, Mini ITX",CA-1G9-00M6WN-00,ATX Mid Tower
+642,Black / Silver,401 mm x 325 mm x 99 mm,1,1,,,False,300 W,,1,,Rosewill,,,"Flex ATX, Micro ATX, Mini ITX",R379-M,MicroATX Slim
+643,Silver,,,,,,True,False,2,5,,Phanteks,"300 mm / 11.811"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",Enthoo Evolv ATX Glass,"ATX, Micro ATX, Mini ITX",PH-ES515ETG_GS,ATX Mid Tower
+644,Black / Orange,,,1,,,True,False,2,4,,DIYPC,"420 mm / 16.535""",,"ATX, Micro ATX",Zondda-O,ATX Mid Tower
+645,Black,,,,,,True,False,2,2,,Deepcool,"370 mm / 14.567""",,"ATX, EATX, Micro ATX, Mini ITX",MATREXX 55 ADD-RGB,ATX Mid Tower
+646,Black / Blue,462 mm x 220 mm x 461 mm,,,,,True,False,2,3,,DIYPC,"410 mm / 16.142""",VisionII  (Black/Blue),"ATX, Micro ATX, Mini ITX",VisionII-BL,ATX Mid Tower
+647,Black,,,2,,,False,False,,4,,PrimoChill,,Praxis WetBench,"ATX, EATX, Micro ATX, Mini ITX",MWB-BK-BK,ATX Test Bench
+648,Black,,1,,,1,True,False,4,,,Silverstone,,,Mini ITX,ML05B / SST-ML05B,HTPC
+649,Black / Red,421 mm x 210 mm x 417 mm,,,,,True,False,3,1,,NZXT,"411 mm / 16.181""",H400 (Black/Red),"Micro ATX, Mini ITX",CA-H400B-BR,MicroATX Mini Tower
+650,Black / Pink,,,3,,,True,False,4,4,,Apevia,,,"ATX, Micro ATX",X-PIONEER-PK,ATX Mid Tower
+651,Black,455 mm x 211 mm x 460 mm,,,,,True,False,3,2,,Corsair,"370 mm / 14.567""",Carbide Series 275R (Black w/Tempered Glass),"ATX, Micro ATX, Mini ITX",CC-9011132-WW,ATX Mid Tower
+652,Black,,1,2,,,True,False,,2,,Rosewill,,,"Micro ATX, Mini ITX",FBM-05,MicroATX Mini Tower
+653,Black,185 mm x 474 mm x 406 mm,1,3,,,True,False,1,6,,Antec,"280 mm / 11.024""",,"ATX, Micro ATX, Mini ITX",NSK4100,ATX Mid Tower
+654,Gray,400 mm x 230 mm x 453 mm,,,,,True,False,2,2,,Phanteks,"319 mm / 12.559""",Enthoo EVOLV TG (Gray),"Micro ATX, Mini ITX",PH-ES314ETG_AG,MicroATX Mini Tower
+655,Black,169 mm x 439 mm x 357 mm,,1,,,True,False,1,2,,Silverstone,"309 mm / 12.165""",,"ATX, Micro ATX, Mini ITX, SSI CEB",GD09B / SST-GD09B,HTPC
+656,Black / Orange,,,2,,,True,False,2,7,,be quiet!,"323 mm / 12.717"" With Drive Cages, 472 mm / 18.583"" Without Drive Cages",Dark Base Pro 900 | Orange rev. 2,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",BGW14,ATX Full Tower
+657,Black,619 mm x 248 mm x 589 mm,,9,,,True,False,,7,,Azza,"400 mm / 15.748""",GT1,"ATX, EATX, Micro ATX, Mini ITX, XL ATX",CSAZ-GT 1,ATX Full Tower
+658,Black,,,1,,,True,False,,3,,Thermaltake,"315 mm / 12.402""",Versa H15,"Micro ATX, Mini ITX",CA-1D4-00S1NN-00,MicroATX Mid Tower
+659,Black / Silver,,,3,,,True,False,3,5,,Nanoxia,"345 mm / 13.583"" With Drive Cages, 430 mm / 16.929"" Without Drive Cages",Deep Silence 3,"ATX, Micro ATX, Mini ITX, XL ATX",NXDS3B,ATX Mid Tower
+660,Black,,,,,,True,False,4,2,,Thermaltake,"310 mm / 12.205""",Versa J23 Tempered Glass RGB Edition,"ATX, Micro ATX, Mini ITX",CA-1L6-00M1WN-01,ATX Mid Tower
+661,Black,,,1,,,True,False,2,2,,Deepcool,"370 mm / 14.567""",D-Shield V2,"ATX, Micro ATX, Mini ITX",DSHIELD-V2,ATX Mid Tower
+662,Black,,2,3,,,False,False,,4,,NZXT,"265 mm / 10.433""",Guardian 921 RB,"ATX, Micro ATX, Mini ITX",921RB-001-RD / Guardian 921RB-BL,ATX Mid Tower
+663,Black,,,,,,True,False,2,2,,Fractal Design,"315 mm / 12.402""",Define Nano S,Mini ITX,FD-CA-DEF-NANO-S-BK,Mini ITX Desktop
+664,Black,210 mm x 374 mm x 400 mm,,2,,,True,False,1,5,,Silverstone,"342 mm / 13.465""",PS07B,"Micro ATX, Mini DTX, Mini ITX",SST-PS07B,MicroATX Mini Tower
+665,Black,371 mm x 140 mm x 454 mm,,,,,True,False,,2,,Thermaltake,"310 mm / 12.205""",Core G3,"ATX, Micro ATX, Mini ITX",CA-1G6-00T1WN-00,ATX Mid Tower
+666,Black / Green,,,3,,,True,False,4,4,,Apevia,,,"ATX, Micro ATX, Mini ITX",X-SNIPER2-GN,ATX Mid Tower
+667,Gray,615 mm x 270 mm x 750 mm,,1,,,True,False,4,6,,Phanteks,,Enthoo Elite (Gray),"ATX, EATX, Micro ATX, Mini ITX",PH-ES916E_AG,ATX Full Tower
+668,Black,511 mm x 250 mm x 497 mm,,,,,True,False,,3,,Thermaltake,"278 mm / 10.945"" With Drive Cages, 420 mm / 16.535"" Without Drive Cages",View 31 TG RGB,"ATX, Micro ATX, Mini ITX",CA-1H8-00M1WN-01,ATX Mid Tower

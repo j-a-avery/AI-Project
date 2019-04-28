@@ -1,0 +1,402 @@
+,Cores,Data Width,Includes CPU Cooler,Integrated Graphics,L1 Cache,L2 Cache,L3 Cache,Lithography,Manufacturer,Maximum Supported Memory,Model,Operating Frequency,Part Number,Simultaneous Multithreading,Simultaneous Multithreading Detail,Socket,Thermal Design Power,Turbo Frequency
+0,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,14 nm,Intel,,Xeon E5-2660 V4,2 GHz,BX80660E52660V4,True,Hyper-Threading,LGA2011-3,105 W,3.2 GHz
+1,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2670 V3,2.3 GHz,CM8064401544801,True,Hyper-Threading,LGA2011-3,120 W,3.1 GHz
+2,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,1 x 4 MB,45 nm,AMD,,Phenom II X4 820,2.8 GHz,HDX820WFK4FGI,False,,AM3,95 W,
+3,4,64-bit,True,Radeon Vega 11,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 4 MB,14 nm,AMD,,,3.6 GHz,YD2400C5FBBOX,True,,AM4,65 W,3.9 GHz
+4,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,14 nm,Intel,1.5 TB,,3.7 GHz,CM8066002395300,True,Hyper-Threading,LGA2011-3,140 W,4 GHz
+5,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 1 MB,1 x 11 MB,14 nm,Intel,128 GB,,3.6 GHz,CD8067303611000,True,Hyper-Threading,LGA2066,140 W,4.5 GHz
+6,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3550,3.3 GHz,BX80637I53550 / BX806237I53550,False,,LGA1155,77 W,
+7,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,65 nm,Intel,,Core 2 Duo E4400,2 GHz,BX80557E4400,False,,LGA775,65 W,
+8,2,64-bit,False,Intel HD Graphics 4000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-3245,3.4 GHz,BX80637I33245,True,Hyper-Threading,LGA1155,55 W,
+9,16,64-bit,False,False,"16 x 64 kB Instruction, 16 x 32 kB Data",16 x 512 kB,4 x 8 MB,12 nm,AMD,1 TB,,3.5 GHz,YD295XA8AFWOF,True,,TR4,180 W,4.4 GHz
+10,2,64-bit,True,Intel HD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,,3 GHz,BX80677G3950,False,,LGA1151,51 W,
+11,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2400,3.1 GHz,BX80623I52400,False,,LGA1155,95 W,
+12,6,64-bit,True,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,32 nm,Intel,,Core i7-970,3.2 GHz,BX80613I7970,True,Hyper-Threading,LGA1366,130 W,
+13,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Core i7-6700,3.4 GHz,CM8066201920103,True,Hyper-Threading,LGA1151,65 W,4 GHz
+14,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Xeon E3-1270 V5,3.6 GHz,BX80662E31270V5,True,Hyper-Threading,LGA1151,80 W,4 GHz
+15,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3470,3.2 GHz,BX80637i53470,False,,LGA1155,77 W,
+16,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Pentium G2120,3.1 GHz,BX80637G2120,False,,LGA1155,55 W,
+17,8,64-bit,False,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,1 x 16 MB,14 nm,AMD,1 TB,,3.8 GHz,YD190XA8AEWOF,True,,TR4,180 W,4 GHz
+18,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,14 nm,Intel,,,3 GHz,BX80671I76950X,True,Hyper-Threading,LGA2011-3,140 W,3.5 GHz
+19,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.8 GHz,BX80677I57600K,False,,LGA1151,91 W,4.2 GHz
+20,4,64-bit,True,Intel HD Graphics P630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.3 GHz,BX80677E31225V6,False,,LGA1151,73 W,3.7 GHz
+21,4,64-bit,True,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I38100,False,,LGA1151,65 W,
+22,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-4670,3.4 GHz,BX80646I54670,False,,LGA1150,84 W,
+23,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Xeon E3-1220 V5,3 GHz,BX80662E31220V5,False,,LGA1151,80 W,3.5 GHz
+24,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,14 nm,Intel,1.5 TB,Xeon E5-2609 V4,1.7 GHz,BX80660E52609V4,False,,LGA2011-3,85 W,
+25,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2690 V3,2.6 GHz,BX80644E52690V3,True,Hyper-Threading,LGA2011-3,135 W,3.5 GHz
+26,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Xeon E5-2630,2.3 GHz,CM8062101038801,True,Hyper-Threading,LGA2011,95 W,
+27,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2680,2.7 GHz,BX80621E52680,True,Hyper-Threading,LGA2011,130 W,3.5 GHz
+28,2,64-bit,True,Intel UHD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,Intel Pentium Gold G5600 Coffee Lake Dual-Core 3.9 GHz LGA 1151 (300 Series) 54W BX80684G5600 Desktop Processor Intel UHD Graphics 630,3.9 GHz,BX80684G5600,True,Hyper-Threading,LGA1151,54 W,
+29,2,64-bit,True,Radeon Vega 3,"2 x 64 kB Instruction, 2 x 32 kB Data",2 x 512 kB,1 x 4 MB,14 nm,AMD,64 GB,,3.5 GHz,YD240GC6FBBOX,True,,AM4,35 W,
+30,12,64-bit,False,False,"12 x 64 kB Instruction, 12 x 32 kB Data",12 x 512 kB,4 x 8 MB,12 nm,AMD,1 TB,,3.5 GHz,YD292XA8AFWOF,True,,TR4,180 W,4.3 GHz
+31,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2620 V3,2.4 GHz,BX80644E52620V3,True,Hyper-Threading,LGA2011-3,85 W,3.2 GHz
+32,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,45 nm,Intel,,Celeron E3300,2.5 GHz,BX80571E3300,False,,LGA775,65 W,
+33,12,64-bit,False,False,"12 x 64 kB Instruction, 12 x 32 kB Data",12 x 512 kB,1 x 32 MB,14 nm,AMD,1 TB,,3.5 GHz,YD192XA8AEWOF,True,,TR4,180 W,4 GHz
+34,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,Core i5-6500,3.2 GHz,CM8066201920404,False,,LGA1151,65 W,3.6 GHz
+35,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8370E,3.3 GHz,FD837EWMHKBOX,False,,AM3+,95 W,4.3 GHz
+36,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,22 nm,Intel,64 GB,Core i7-5960X,3 GHz,BX80648I75960X,True,Hyper-Threading,LGA2011-3,140 W,3.5 GHz
+37,2,64-bit,True,Intel HD Graphics 2500,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-3220T,2.8 GHz,BX80637i33220T,True,Hyper-Threading,LGA1155,35 W,
+38,18,64-bit,False,False,"18 x 32 kB Instruction, 18 x 32 kB Data",18 x 256 kB,1 x 45 MB,22 nm,Intel,,Xeon E5-2699 V3,2.3 GHz,CM8064401739300,True,Hyper-Threading,LGA2011-3,145 W,3.6 GHz
+39,2,64-bit,True,Intel HD Graphics 2000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2120T,2.6 GHz,BX80623I32120T,True,Hyper-Threading,LGA1155,35 W,
+40,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 32 kB Data",2 x 1 MB,None,28 nm,AMD,,,3.1 GHz,AD9600AGABBOX,False,,AM4,65 W,3.4 GHz
+41,32,64-bit,False,False,"32 x 64 kB Instruction, 32 x 32 kB Data",32 x 512 kB,8 x 8 MB,12 nm,AMD,1 TB,,3 GHz,YD299XAZAFWOF,True,,TR4,250 W,4.2 GHz
+42,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,2.4 GHz,CM8068403358413,True,Hyper-Threading,LGA1151,35 W,4 GHz
+43,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Pentium G870,3.1 GHz,BX80623G870,False,,LGA1155,65 W,
+44,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,2 x 8 MB,32 nm,AMD,,Opteron 6320,2.8 GHz,OS6320WKT8GHK,False,,G34,115 W,3.3 GHz
+45,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6850,3 GHz,BX80557E6850,False,,LGA775,65 W,
+46,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-930,2.8 GHz,BX80601930,True,Hyper-Threading,LGA1366,130 W,
+47,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,,Core i5-6600K,3.5 GHz,BX80662I56600K,False,,LGA1151,91 W,3.9 GHz
+48,4,64-bit,True,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80684I38300,False,,LGA1151,62 W,
+49,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.8 GHz,CM8067702870648,True,Hyper-Threading,LGA1151,72 W,4.2 GHz
+50,4,64-bit,True,Radeon Vega 8,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 4 MB,14 nm,AMD,,,3.5 GHz,YD2200C5FBBOX,False,,AM4,65 W,3.7 GHz
+51,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Intel Xeon E5-2660 Sandy Bridge-EP 2.2GHz (3GHz Turbo Boost) LGA 2011 95W CM8062107184801 Server Processor,2.2 GHz,CM8062107184801,True,Hyper-Threading,LGA2011,95 W,3 GHz
+52,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-920,2.66 GHz,BX80601920,True,Hyper-Threading,LGA1366,130 W,
+53,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6320,1.86 GHz,BX80557E6320,False,,LGA775,65 W,
+54,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,8 x 2 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I99900KF,True,Hyper-Threading,LGA1151,95 W,5 GHz
+55,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,1 x 6 MB,45 nm,AMD,,Phenom II X4 830,2.8 GHz,HDX830WFK4DGM,False,,AM3,95 W,
+56,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2650,2 GHz,BX80621E52650,True,Hyper-Threading,LGA2011,95 W,2.8 GHz
+57,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Athlon II X4 640,3 GHz,ADX640WFGMBOX,False,,AM3,95 W,
+58,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,22 nm,Intel,,Xeon E5-1620 V3,3.5 GHz,BX80644E51620V3,True,Hyper-Threading,LGA2011-3,140 W,3.6 GHz
+59,2,64-bit,True,Intel UHD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,Intel Pentium Gold G5500 Coffee Lake Dual-Core 3.8 GHz LGA 1151 (300 Series) 54W BX80684G5500 Desktop Processor Intel UHD Graphics 630,3.8 GHz,BX80684G5500,True,Hyper-Threading,LGA1151,54 W,
+60,2,64-bit,True,Intel UHD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,Intel Celeron G4900 Coffee Lake Dual-Core 3.1 GHz LGA 1151 (300 Series) 54W BX80684G4900 Desktop Processor Intel UHD Graphics 610,3.1 GHz,BX80684G4900,False,,LGA1151,65 W,
+61,2,64-bit,True,Intel HD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,,3.5 GHz,BX80677G4560,True,Hyper-Threading,LGA1151,54 W,
+62,6,64-bit,True,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,3.2 GHz,BX80684I78700,True,Hyper-Threading,LGA1151,65 W,4.6 GHz
+63,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.5 GHz,BX80677E31230V6,True,Hyper-Threading,LGA1151,72 W,3.9 GHz
+64,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i5-760,2.8 GHz,BX80605I5760,False,,LGA1156,95 W,
+65,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Athlon II X4 630,2.8 GHz,ADX630WFK42GM,False,,AM3,95 W,
+66,4,64-bit,False,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,,3.1 GHz,CM8063701093901,False,,LGA1155,65 W,3.8 GHz
+67,16,64-bit,False,False,"16 x 32 kB Instruction, 16 x 32 kB Data",16 x 1 MB,1 x 22 MB,14 nm,Intel,128 GB,,2.8 GHz,BX80673I97960X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+68,2,64-bit,True,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,,3.5 GHz,BX80677I37300T,True,Hyper-Threading,LGA1151,35 W,
+69,2,64-bit,True,False,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 512 kB,1 x 6 MB,45 nm,AMD,,Phenom II X2 555 Black,3.2 GHz,HDZ555WFGMBOX,False,,AM3,80 W,
+70,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,22 nm,Intel,,Core i7-4930K,3.4 GHz,BX80633I74930K,True,Hyper-Threading,LGA2011,130 W,3.9 GHz
+71,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-860,2.8 GHz,BX80605I7860,True,Hyper-Threading,LGA1156,95 W,
+72,2,64-bit,True,Intel HD Graphics 3000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2125,3.3 GHz,BX80623I32125,True,Hyper-Threading,LGA1155,65 W,
+73,4,64-bit,True,Intel HD Graphics 4000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-3770,3.4 GHz,BX80637I73770,True,Hyper-Threading,LGA1155,77 W,
+74,2,64-bit,True,Intel HD Graphics 510,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,Celeron G3900,2.8 GHz,BX80662G3900,False,,LGA1151,51 W,
+75,2,64-bit,False,Intel HD Graphics 4600,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,22 nm,Intel,,,3.7 GHz,CM8064601482461,True,Hyper-Threading,LGA1150,54 W,
+76,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Pentium G2140,3.3 GHz,BX80637G2140,False,,LGA1155,55 W,
+77,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8350,4 GHz,FD8350FRW8KHK,False,,AM3+,125 W,
+78,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,Intel Core i9-9940X Skylake X 14-Core 3.3 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99940X Desktop Processor,3.3 GHz,BX80673I99940X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+79,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 4 MB,None,65 nm,Intel,,Core 2 Extreme QX6850,3 GHz,BX80562QX6850,False,,LGA775,130 W,
+80,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,45 nm,Intel,,Pentium E6600,3.06 GHz,BX80571E6600,False,,LGA775,65 W,
+81,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,3.7 GHz,CM8068403358220,True,Hyper-Threading,LGA1151,95 W,4.7 GHz
+82,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,65 nm,Intel,,Pentium E2160,1.8 GHz,BX80557E2160,False,,LGA775,65 W,
+83,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,14 nm,Intel,1.5 TB,Xeon E5-2630 V4,2.2 GHz,BX80660E52630V4,True,Hyper-Threading,LGA2011-3,85 W,3.1 GHz
+84,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,14 nm,Intel,128 GB,,3.2 GHz,BX80671I76900K,True,Hyper-Threading,LGA2011-3,140 W,3.7 GHz
+85,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Pentium G860,3 GHz,BX80623G860,False,,LGA1155,65 W,
+86,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Core i7-6700K,4 GHz,CM8066201919901,True,Hyper-Threading,LGA1151,91 W,4.2 GHz
+87,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2637 V3,3.5 GHz,CM8064401724101,True,Hyper-Threading,LGA2011-3,135 W,3.7 GHz
+88,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 6 MB,None,45 nm,Intel,,Core 2 Duo E8400,3 GHz,BX80570E8400,False,,LGA775,65 W,
+89,2,64-bit,True,Intel HD Graphics 4400,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-4130T,2.9 GHz,BX80646I34130T,True,Hyper-Threading,LGA1150,35 W,
+90,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2687W,3.1 GHz,BX80621E52687W,True,Hyper-Threading,LGA2011,150 W,3.8 GHz
+91,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2380P,3.1 GHz,BX80623i52380P,False,,LGA1155,95 W,
+92,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Pentium G630T,2.3 GHz,BX80623G630T,False,,LGA1155,35 W,
+93,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4.2 GHz,CM8067702868535,True,Hyper-Threading,LGA1151,91 W,4.5 GHz
+94,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,22 nm,Intel,,Xeon E5-2650 V2,2.6 GHz,BX80635E52650V2,True,Hyper-Threading,LGA2011,95 W,3.4 GHz
+95,2,64-bit,True,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80677G4600,True,Hyper-Threading,LGA1151,51 W,
+96,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,22 nm,Intel,,Xeon E5-2695 V3,2.3 GHz,BX80644E52695V3,True,Hyper-Threading,LGA2011-3,120 W,3.3 GHz
+97,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2665,2.4 GHz,BX80621E52665,True,Hyper-Threading,LGA2011,115 W,3.1 GHz
+98,1,64-bit,True,Intel HD Graphics,"1 x 32 kB Instruction, 1 x 32 kB Data",1 x 256 kB,1 x 1 MB,32 nm,Intel,,Celeron G440,1.6 GHz,BX80623G440,False,,LGA1155,35 W,
+99,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,14 nm,Intel,1.5 TB,Xeon E5-2603 V4,1.7 GHz,BX80660E52603V4,False,,LGA2011-3,85 W,
+100,2,64-bit,True,Intel UHD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,Pentium Gold G5400,3.7 GHz,BX80684G5400,True,Hyper-Threading,LGA1151,58 W,
+101,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-4570S,2.9 GHz,BX80646I54570S,False,,LGA1150,65 W,
+102,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,22 nm,Intel,,Xeon E5-2695 V3,2.3 GHz,CM8064401438110,True,Hyper-Threading,LGA2011-3,120 W,3.3 GHz
+103,8,64-bit,True,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,1 x 16 MB,12 nm,AMD,64 GB,,3.2 GHz,YD2700BBAFBOX,True,,AM4,65 W,4.1 GHz
+104,2,64-bit,False,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,Core i3-6100,3.7 GHz,CM8066201927202,True,Hyper-Threading,LGA1151,51 W,
+105,2,64-bit,False,Intel HD Graphics 510,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,Intel Celeron Processor G3920 CM8066201938000 OEM/TRAY,2.6 GHz,CM8066201938000,False,,LGA1151,35 W,
+106,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i3-550,3.2 GHz,BX80616I3550,True,Hyper-Threading,LGA1156,73 W,
+107,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6550,2.33 GHz,BX80557E6550,False,,LGA775,65 W,
+108,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Intel Xeon E5-2620 2 GHz LGA 2011 / Socket R 3600 MHz Desktop CPU SR0KW,2 GHz,SR0KW,True,Hyper-Threading,LGA2011,95 W,
+109,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4 GHz,BX80684I39350KF,False,,LGA1151,91 W,4.6 GHz
+110,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-950,3.06 GHz,BX80601950,True,Hyper-Threading,LGA1366,130 W,
+111,2,64-bit,True,Intel HD Graphics 4000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-3225,3.3 GHz,BX80637I33225,True,Hyper-Threading,LGA1155,55 W,
+112,2,64-bit,True,Intel HD Graphics 510,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,Pentium G4400,3.3 GHz,BX80662G4400,False,,LGA1151,54 W,
+113,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,22 nm,Intel,,Xeon E5-2640 V2,2 GHz,BX80635E52640V2,True,Hyper-Threading,LGA2011,95 W,2.5 GHz
+114,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 4 MB,None,65 nm,Intel,,Core 2 Extreme QX6700,2.66 GHz,BX80562QX6700,False,,LGA775,100 W,
+115,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2685 V3,2.6 GHz,CM8064401684201,True,Hyper-Threading,LGA2011-3,120 W,3.3 GHz
+116,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 3 MB,None,45 nm,Intel,,Core 2 Duo E7600,3.06 GHz,AT80571PH0833ML,False,,LGA775,65 W,
+117,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6320,1.86 GHz,HH80557PH0364M,False,,LGA775,65 W,
+118,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,4 GHz,BX80677I57640X,False,,LGA2066,112 W,4.2 GHz
+119,8,64-bit,False,Intel UHD Graphics 630,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,8 x 1.5 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I79700K,False,,LGA1151,95 W,4.9 GHz
+120,4,64-bit,True,Intel HD Graphics 4000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-3770K,3.5 GHz,BX80637I73770K,True,Hyper-Threading,LGA1155,77 W,
+121,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,14 nm,Intel,1.5 TB,Xeon E5-2690 V4,2.6 GHz,BX80660E52690V4,True,Hyper-Threading,LGA2011-3,135 W,3.5 GHz
+122,4,64-bit,False,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4 GHz,CM8068403376809,False,,LGA1151,91 W,
+123,18,64-bit,False,False,"18 x 32 kB Instruction, 18 x 32 kB Data",18 x 1 MB,1 x 24 MB,14 nm,Intel,128 GB,,2.6 GHz,BX80673I97980X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+124,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,14 nm,Intel,1.5 TB,Xeon E5-2650 V4,2.2 GHz,BX80660E52650V4,True,Hyper-Threading,LGA2011-3,105 W,2.9 GHz
+125,4,64-bit,False,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,,3.4 GHz,CM8063701093103,False,,LGA1155,77 W,
+126,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,2 x 8 MB,32 nm,AMD,,Opteron 6320,2.8 GHz,OS6320WKT8GHKWOF,False,,G34,115 W,3.3 GHz
+127,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 32 kB Data",2 x 1 MB,None,28 nm,AMD,,,3.5 GHz,AD9700AGABBOX,False,,AM4,65 W,3.8 GHz
+128,6,64-bit,True,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,32 nm,Intel,,Core i7 Extreme i7-980X,3.33 GHz,BX80613I7980X,True,Hyper-Threading,LGA1366,130 W,
+129,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-870,2.93 GHz,BV80605001905AI,True,Hyper-Threading,LGA1156,95 W,
+130,2,64-bit,True,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,Core i3-6320,3.9 GHz,BX80662I36320,True,Hyper-Threading,LGA1151,51 W,
+131,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 1 MB,1 x 13.75 MB,14 nm,Intel,128 GB,,3.3 GHz,CD8067303286804,True,Hyper-Threading,LGA2066,140 W,4.5 GHz
+132,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,Core i5-6400,2.7 GHz,CM8066201920506,False,,LGA1151,65 W,3.3 GHz
+133,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i5-655K,3.2 GHz,BX80616I5655K,True,Hyper-Threading,LGA1156,73 W,
+134,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 3 MB,None,45 nm,Intel,,Core 2 Quad Q9300,2.5 GHz,BX80580Q9300,False,,LGA775,95 W,
+135,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,65 nm,Intel,,Pentium E2180,2 GHz,BX80557E2180,False,,LGA775,65 W,
+136,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I58600K,False,,LGA1151,95 W,4.3 GHz
+137,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",1214 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,,3.1 GHz,BX80673I97940X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+138,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-4790T,2.7 GHz,CM8064601561513,True,Hyper-Threading,LGA1150,45 W,
+139,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Core i7-2600S,2.8 GHz,BX80623I72600S,True,Hyper-Threading,LGA1155,65 W,
+140,18,64-bit,False,False,"18 x 32 kB Instruction, 18 x 32 kB Data",18 x 256 kB,1 x 45 MB,14 nm,Intel,1.5 TB,Xeon E5-2697 V4,2.3 GHz,BX80660E52697V4,True,Hyper-Threading,LGA2011-3,145 W,3.6 GHz
+141,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6420,2.13 GHz,BX80557E6420,False,,LGA775,65 W,
+142,6,64-bit,True,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,2.8 GHz,BX80684I58400,False,,LGA1151,65 W,4 GHz
+143,16,64-bit,False,False,"16 x 32 kB Instruction, 16 x 32 kB Data",16 x 1 MB,1 x 22 MB,14 nm,Intel,128 GB,,2.8 GHz,CD8067303734802,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+144,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,14 nm,Intel,,,3.6 GHz,CM8067102056100,True,Hyper-Threading,LGA2011-3,140 W,3.8 GHz
+145,4,64-bit,False,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 16 kB Data",2 x 2 MB,None,28 nm,AMD,,A10-7890K,4.1 GHz,AD789KXDI44JC,False,,FM2+,95 W,4.3 GHz
+146,2,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",1 x 6 MB,None,45 nm,Intel,,Core 2 Duo E8500,3.16 GHz,BX80570E8500,False,,LGA775,65 W,
+147,2,64-bit,True,Radeon R5 (on die),"1 x 96 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,28 nm,AMD,,,3.5 GHz,AD9500AGABBOX,False,,AM4,65 W,3.8 GHz
+148,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 8 MB,14 nm,AMD,,,3.5 GHz,YD130XBBAEBOX,False,,AM4,65 W,3.7 GHz
+149,16,64-bit,False,False,"16 x 32 kB Instruction, 16 x 32 kB Data",16 x 1 MB,1 x 22 MB,14 nm,Intel,128 GB,Intel Intel Core i9-9960X 16-Core 3.1 GHz LGA 2066 165W CD8067304126500 Desktop Processor - OEM,3.1 GHz,CD8067304126500,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+150,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2630 V2,2.6 GHz,BX80635E52630V2,True,Hyper-Threading,LGA2011,80 W,3.1 GHz
+151,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Xeon E5-2620,2 GHz,BX80621E52620,True,Hyper-Threading,LGA2011,95 W,
+152,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-920,2.66 GHz,AT80601000741AA,True,Hyper-Threading,LGA1366,130 W,
+153,4,64-bit,True,Intel HD Graphics,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Xeon E3-1235,3.2 GHz,BX80623E31235,True,Hyper-Threading,LGA1155,95 W,
+154,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-4570,3.2 GHz,BX80646I54570,False,,LGA1150,84 W,
+155,2,64-bit,True,Radeon HD 6410D,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 512 kB,None,32 nm,AMD,,A4-3300,2.5 GHz,AD3300OJHXBOX / AD3300OJGXBOX,False,,FM1,65 W,
+156,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,6 x 1.5 MB,14 nm,Intel,64 GB,,3.7 GHz,CM8068403874404,False,,LGA1151,95 W,4.6 GHz
+157,4,64-bit,False,Radeon Vega 11,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 4 MB,14 nm,AMD,,,3.6 GHz,YD2400C5M4MFB,True,,AM4,65 W,3.9 GHz
+158,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,45 nm,Intel,,Pentium E6300,2.8 GHz,BX80571E6300,False,,LGA775,65 W,
+159,6,64-bit,True,False,"3 x 64 kB Instruction, 6 x 16 kB Data",3 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-6300,3.5 GHz,FD6300WMHKBOX,False,,AM3+,95 W,
+160,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 16 kB Data",2 x 2 MB,None,28 nm,AMD,,A8-7650K,3.3 GHz,AD765KXBJABOX,False,,FM2+,95 W,3.7 GHz
+161,4,64-bit,False,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,,2.7 GHz,CM8063701159804,False,,LGA1150,65 W,3.2 GHz
+162,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 1 MB,1 x 16.5 MB,14 nm,Intel,128 GB,,2.9 GHz,CD8067303753300,True,Hyper-Threading,LGA2066,140 W,4.4 GHz
+163,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3 GHz,BX80677I57400,False,,LGA1151,65 W,3.5 GHz
+164,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,14 nm,Intel,1.5 TB,Xeon E5-1620 V4,3.5 GHz,BX80660E51620V4,True,Hyper-Threading,LGA2011-3,140 W,3.8 GHz
+165,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Core i7 Extreme i7-3960X,3.3 GHz,BX80619i73960X,True,Hyper-Threading,LGA2011,130 W,
+166,8,64-bit,True,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,2 x 8 MB,14 nm,AMD,,,3 GHz,YD1700BBAEBOX,True,,AM4,65 W,3.7 GHz
+167,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2687W V3,3.1 GHz,BX80644E52687V3,True,Hyper-Threading,LGA2011-3,160 W,3.5 GHz
+168,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Xeon E3-1230 V2,3.3 GHz,CM8063701098101,True,Hyper-Threading,LGA1155,69 W,
+169,2,64-bit,True,Intel HD Graphics 4400,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-4130,3.4 GHz,BX80646I34130,True,Hyper-Threading,LGA1150,54 W,
+170,4,64-bit,False,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Core i7-6700K,4 GHz,BX80662I76700K,True,Hyper-Threading,LGA1151,91 W,4.2 GHz
+171,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8370,4 GHz,FD8370FRHKHBX,False,,AM3+,125 W,4.3 GHz
+172,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.4 GHz,BX80677I57500,False,,LGA1151,65 W,3.8 GHz
+173,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2620 V3,2.4 GHz,CM8064401831400,True,Hyper-Threading,LGA2011-3,85 W,3.2 GHz
+174,2,64-bit,True,Radeon R5 (on die),"1 x 96 kB Instruction, 2 x 16 kB Data",1 x 1 MB,None,28 nm,AMD,,A6-7400K,3.5 GHz,AD740KYBJABOX,False,,FM2+,65 W,3.9 GHz
+175,6,64-bit,True,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,Intel Core i5-8600 Coffee Lake 6-Core 3.1 GHz (4.3 GHz Turbo) LGA 1151 (300 Series) 65W BX80684I58600 Desktop Processor Intel UHD Graphics 630,3.1 GHz,BX80684I58600,False,,LGA1151,65 W,4.3 GHz
+176,6,64-bit,True,False,"6 x 64 kB Instruction, 6 x 32 kB Data",6 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.2 GHz,YD1600BBAEBOX,True,,AM4,65 W,3.6 GHz
+177,2,64-bit,True,Radeon Vega 3,"2 x 64 kB Instruction, 2 x 32 kB Data",2 x 512 kB,1 x 4 MB,14 nm,AMD,,,3.2 GHz,YD200GC6FBBOX,True,,AM4,35 W,
+178,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3450,3.1 GHz,BX80637I53450 / BX806237I53450,False,,LGA1155,77 W,
+179,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2690 V2,3 GHz,BX80635E52690V2,True,Hyper-Threading,LGA2011,130 W,3.6 GHz
+180,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,22 nm,Intel,,Xeon E5-2697 V3,2.6 GHz,CM8064401807100,True,Hyper-Threading,LGA2011-3,145 W,3.6 GHz
+181,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.6 GHz,CM8067702868314,True,Hyper-Threading,LGA1151,65 W,4.2 GHz
+182,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7 Extreme i7-975,3.33 GHz,BX80601975,True,Hyper-Threading,LGA1366,130 W,
+183,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2680 V2,2.8 GHz,BX80635E52680V2,True,Hyper-Threading,LGA2011,115 W,3.6 GHz
+184,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,6 x 1.5 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80684I59600K,False,,LGA1151,95 W,4.6 GHz
+185,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 16 kB Data",2 x 2 MB,None,28 nm,AMD,,AMD A8-7650K,3.3 GHz,AD765KXBJASBX,False,,FM2+,95 W,3.7 GHz
+186,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i5-750,2.66 GHz,BX80605I5750,False,,LGA1156,95 W,
+187,8,64-bit,False,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.4 GHz,YD170XBCAEWOF,True,,AM4,95 W,3.8 GHz
+188,8,64-bit,False,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.6 GHz,YD180XBCAEWOF,True,,AM4,95 W,4 GHz
+189,2,64-bit,True,Intel HD Graphics 2000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2130,3.4 GHz,BX80623I32130,True,Hyper-Threading,LGA1155,65 W,
+190,4,64-bit,False,Intel HD Graphics P630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.3 GHz,CM8067702871024,False,,LGA1151,73 W,3.7 GHz
+191,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-940,2.93 GHz,BX80601940,True,Hyper-Threading,LGA1366,130 W,
+192,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,14 nm,Intel,1.5 TB,Xeon E5-2640 V4,2.4 GHz,BX80660E52640V4,True,Hyper-Threading,LGA2011-3,90 W,3.4 GHz
+193,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,2.9 GHz,BX80677I77700T,True,Hyper-Threading,LGA1151,35 W,3.8 GHz
+194,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8350,4 GHz,FD8350FRHKBOX,False,,AM3+,125 W,
+195,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,,3.5 GHz,BX80673I99900X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+196,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2500,3.3 GHz,BX80623I52500,False,,LGA1155,95 W,
+197,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6700,2.66 GHz,HH80557PH0674M,False,,LGA775,65 W,
+198,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,2.8 GHz,BX80677I57600T,False,,LGA1151,35 W,3.7 GHz
+199,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.4 GHz,CM8067702868012,False,,LGA1151,65 W,3.8 GHz
+200,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.5 GHz,CM8067702868011,False,,LGA1151,65 W,4.1 GHz
+201,18,64-bit,False,False,"18 x 32 kB Instruction, 18 x 32 kB Data",18 x 1 MB,1 x 24.75 kB,14 nm,Intel,128 GB,Intel Core i9-9980XE Skylake X 18-Core 3.0 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99980X Desktop Processor,3 GHz,BX80673I99980X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+202,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 1 MB,1 x 11 MB,14 nm,Intel,128 GB,,3.6 GHz,BX80673I77820X,True,Hyper-Threading,LGA2066,140 W,4.5 GHz
+203,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",1214 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,,3.1 GHz,CD8067303734701,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+204,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Athlon II X4 635,2.9 GHz,ADX635WFK42GM,False,,AM3,95 W,
+205,2,64-bit,True,Intel HD Graphics 4600,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,22 nm,Intel,,Core i5-4570T,2.9 GHz,BX80646I54570T,True,Hyper-Threading,LGA1150,35 W,
+206,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 4 MB,None,65 nm,Intel,,Core 2 Quad Q6600,2.4 GHz,BX80562Q6600,False,,LGA775,100 W,
+207,6,64-bit,True,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,2.9 GHz,BX80684I59400F,False,,LGA1151,65 W,4.1 GHz
+208,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Xeon E3-1220,3.1 GHz,BX80623E31220,False,,LGA1155,80 W,
+209,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2697 V2,2.7 GHz,BX80635E52697V2,True,Hyper-Threading,LGA2011,130 W,3.5 GHz
+210,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Core i7-2600,3.4 GHz,BX80623I72600,True,Hyper-Threading,LGA1155,95 W,
+211,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Pentium G3258,3.2 GHz,BX80646G3258,False,,LGA1150,53 W,
+212,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i5-650,3.2 GHz,BX80616I5650,True,Hyper-Threading,LGA1156,73 W,
+213,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 1 MB,1 x 16.5 MB,14 nm,Intel,128 GB,Intel Core i9-9820X Skylake X 10-Core 3.3 GHz (4.1 GHz Turbo) LGA 2066 165W BX80673I99820X Desktop Processor,3.3 GHz,BX80673I99820X,True,Hyper-Threading,LGA2066,165 W,4.1 GHz
+214,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2660 V3,2.6 GHz,CM8064401446117,True,Hyper-Threading,LGA2011-3,105 W,3.3 GHz
+215,2,64-bit,False,Radeon HD 7480D,"1 x 64 kB Instruction, 2 x 16 kB Data",1 x 1 MB,None,32 nm,AMD,,A4-4000,3 GHz,AD4000OKA23HL,False,,FM2,65 W,
+216,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-870,2.93 GHz,BX80605I7870,True,Hyper-Threading,LGA1156,95 W,
+217,6,64-bit,False,False,"6 x 64 kB Instruction, 6 x 32 kB Data",6 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.6 GHz,YD160XBCAEWOF,True,,AM4,95 W,4 GHz
+218,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 1 MB,1 x 16.5 MB,14 nm,Intel,128 GB,,2.9 GHz,BX80673I97920X,True,Hyper-Threading,LGA2066,140 W,4.4 GHz
+219,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.5 GHz,BX80677I57600,False,,LGA1151,65 W,4.1 GHz
+220,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2630L V2,2.4 GHz,CM8063501376200,True,Hyper-Threading,LGA2011,60 W,
+221,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Extreme X6800,2.93 GHz,BX80557X6800,False,,LGA775,75 W,
+222,4,64-bit,False,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.7 GHz,CM8068403377111,False,,LGA1151,62 W,
+223,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,65 nm,Intel,,Core 2 Duo E4400,2 GHz,HH80557PG0412M,False,,LGA775,65 W,
+224,2,64-bit,True,Radeon R5 (on die),"1 x 96 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,28 nm,AMD,,,3 GHz,AD9500AHABBOX,False,,AM4,35 W,3.4 GHz
+225,18,64-bit,False,False,"18 x 32 kB Instruction, 18 x 32 kB Data",18 x 256 kB,1 x 45 MB,14 nm,Intel,1.5 TB,Xeon E5-2695 V4,2.1 GHz,BX80660E52695V4,True,Hyper-Threading,LGA2011-3,120 W,3.3 GHz
+226,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,22 nm,Intel,,Xeon E5-2697 V3,2.6 GHz,BX80644E52697V3,True,Hyper-Threading,LGA2011-3,145 W,3.6 GHz
+227,2,64-bit,True,Intel HD Graphics 4400,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,22 nm,Intel,,Core i3-4150,3.5 GHz,BX80646I34150,True,Hyper-Threading,LGA1150,54 W,
+228,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,22 nm,Intel,,Xeon E5-2603 V2,1.8 GHz,CM8063501375902,False,,LGA2011,80 W,
+229,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,Xeon E3-1240 V5,3.5 GHz,CM8066201921715,True,Hyper-Threading,LGA1151,80 W,3.9 GHz
+230,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,384 GB,Intel Xeon E5-2470 v2,2.4 GHz,BX80634E52470V2,True,Hyper-Threading,LGA1356,95 W,3.2 GHz
+231,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.8 GHz,CM8067702868219,False,,LGA1151,91 W,4.2 GHz
+232,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3 GHz,BX80677E31220V6,False,,LGA1151,72 W,3.5 GHz
+233,8,64-bit,False,Intel UHD Graphics 630,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,8 x 2 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I99900K,True,Hyper-Threading,LGA1151,95 W,5 GHz
+234,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Xeon E5-2640,2.5 GHz,BX80621E52640,True,Hyper-Threading,LGA2011,95 W,3 GHz
+235,2,64-bit,False,False,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 512 kB,None,45 nm,AMD,,Athlon II X2 220,2.8 GHz,ADX220OCK22GM,False,,AM3,65 W,
+236,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 236 kB,1 x 20 MB,14 nm,Intel,1.5 TB,,3.4 GHz,CM8066002041500,True,Hyper-Threading,LGA2011-3,135 W,3.7 GHz
+237,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 3 MB,None,45 nm,Intel,,Core 2 Duo E7600,3.06 GHz,BX80571E7600,False,,LGA775,65 W,
+238,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8320,3.5 GHz,FD8320FRHKBOX,False,,AM3+,125 W,
+239,2,64-bit,False,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,,4.2 GHz,BX80677I37350K,True,Hyper-Threading,LGA1151,60 W,
+240,2,64-bit,True,Intel UHD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,Intel Celeron G4920 Coffee Lake Dual-Core 3.2 GHz LGA 1151 (300 Series) 54W BX80684G4920 Desktop Processor Intel UHD Graphics 610,3.2 GHz,BX80684G4920,False,,LGA1151,65 W,
+241,4,64-bit,True,Intel HD Graphics,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Xeon E3-1245,3.3 GHz,BX80623E31245,True,Hyper-Threading,LGA1155,95 W,
+242,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80677E31240V6,True,Hyper-Threading,LGA1151,72 W,4.1 GHz
+243,2,64-bit,False,Intel HD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,,2.9 GHz,CM8067703015717,False,,LGA1151,51 W,
+244,2,64-bit,True,Intel HD Graphics 4600,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,22 nm,Intel,,Core i3-4370,3.8 GHz,BX80646I34370,True,Hyper-Threading,LGA1150,54 W,
+245,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2660,2.2 GHz,BX80621E52660,True,Hyper-Threading,LGA2011,95 W,3 GHz
+246,4,64-bit,False,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3.6 GHz,CM8068403377308,False,,LGA1151,65 W,
+247,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2687W V3,3.1 GHz,CM8064401613502,True,Hyper-Threading,LGA2011-3,160 W,3.5 GHz
+248,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,3 GHz,CM8068403362607,False,,LGA1151,65 W,4.1 GHz
+249,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.7 GHz,CM8067702870649,True,Hyper-Threading,LGA1151,72 W,4.1 GHz
+250,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-4790,3.6 GHz,BX80646I74790,True,Hyper-Threading,LGA1150,84 W,4 GHz
+251,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 6 MB,None,45 nm,Intel,,Core 2 Duo E8600,3.33 GHz,BX80570E8600,False,,LGA775,65 W,
+252,12,64-bit,False,False,"6 x 64 kB Instruction, 12 x 16 kB Data",6 x 2 MB,2 x 8 MB,32 nm,AMD,,Opteron 6344,2.6 GHz,OS6344WKTCGHKWOF,False,,G34,115 W,3.2 GHz
+253,2,64-bit,True,Intel HD Graphics 610,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 2 MB,14 nm,Intel,64 GB,,2.9 GHz,BX80677G3930,False,,LGA1151,51 W,
+254,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6700,2.66 GHz,BX80557E6700,False,,LGA775,65 W,
+255,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 2 MB,None,45 nm,Intel,,Core 2 Quad Q8300,2.5 GHz,AT80580PJ0604MN,False,,LGA775,95 W,
+256,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2310,2.9 GHz,BX80623I52310,False,,LGA1155,95 W,
+257,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 4 MB,None,65 nm,Intel,,Core 2 Quad Q6700,2.66 GHz,HH80562PH0678MK,False,,LGA775,100 W,
+258,2,64-bit,False,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,Pentium G4520,3.6 GHz,CM8066201927407,False,,LGA1151,51 W,
+259,16,64-bit,False,False,"16 x 32 kB Instruction, 16 x 32 kB Data",16 x 256 kB,1 x 40 MB,14 nm,Intel,1.5 TB,Xeon E5-2683 V4,2.1 GHz,CM8066002023604,True,Hyper-Threading,LGA2011-3,120 W,3 GHz
+260,4,64-bit,False,Intel UHD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4 GHz,BX80684I38350K,False,,LGA1151,91 W,
+261,1,64-bit,True,False,"1 x 32 kB Instruction, 1 x 32 kB Data",1 x 512 kB,None,65 nm,Intel,,Celeron 430,1.8 GHz,BX80557430,False,,LGA775,35 W,
+262,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,45 nm,Intel,,Pentium E5300,2.6 GHz,BX80571E5300,False,,LGA775,65 W,
+263,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,3.2 GHz,CM8068403358316,True,Hyper-Threading,LGA1151,65 W,4.6 GHz
+264,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 32 kB Data",2 x 1 MB,None,28 nm,AMD,,,3.1 GHz,AD9800AHABBOX,False,,AM4,35 W,3.8 GHz
+265,4,64-bit,True,False,"2 x 64 kB Instruction, 4 x 16 kB Data",2 x 2 MB,1 x 4 MB,32 nm,AMD,,FX-4300,3.8 GHz,FD4300WMHKBOX,False,,AM3+,95 W,
+266,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,1 x 6 MB,45 nm,AMD,,Phenom II X4 920,2.8 GHz,HDX920XCGIBOX,False,,AM2+,125 W,
+267,2,64-bit,True,Radeon HD 8240,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 1 MB,None,28 nm,AMD,,2650,1.45 GHz,SD2650JAHMBOX,False,,AM1,25 W,
+268,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,2.7 GHz,BX80677I57500T,False,,LGA1151,35 W,3.3 GHz
+269,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 3 MB,None,45 nm,Intel,,Core 2 Duo E7300,2.66 GHz,BX80571E7300,False,,LGA775,65 W,
+270,14,64-bit,False,False,"14 x 32 kB Instruction, 14 x 32 kB Data",14 x 256 kB,1 x 35 MB,14 nm,Intel,1.5 TB,Xeon E5-2680 V4,2.4 GHz,BX80660E52680V4,True,Hyper-Threading,LGA2011-3,120 W,3.3 GHz
+271,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 3 MB,None,45 nm,Intel,,Core 2 Quad Q9400,2.66 GHz,AT80580PJ0676M,False,,LGA775,95 W,
+272,4,64-bit,True,Radeon R7 (on-die),"2 x 96 kB Instruction, 4 x 32 kB Data",2 x 1 MB,None,28 nm,AMD,,,3 GHz,AD9700AHABBOX,False,,AM4,35 W,3.5 GHz
+273,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i5-660,3.33 GHz,BX80616I5660,True,Hyper-Threading,LGA1156,73 W,
+274,4,64-bit,True,Radeon HD 8280,"4 x 32 kB Instruction, 4 x 32 kB Data",1 x 2 MB,None,28 nm,AMD,,3850,1.3 GHz,SD3850JAHMBOX,False,,AM1,25 W,
+275,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 2 MB,None,45 nm,Intel,,Core 2 Quad Q8200,2.33 GHz,AT80580PJ0534MN,False,,LGA775,95 W,
+276,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,14 nm,Intel,,,3.6 GHz,BX80671I76850K,True,Hyper-Threading,LGA2011-3,140 W,3.8 GHz
+277,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 16 MB,32 nm,Intel,,Xeon E5-4620,2.2 GHz,BX80621E54620,True,Hyper-Threading,LGA2011,95 W,2.6 GHz
+278,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Intel Xeon E5-2660 Sandy Bridge 2.2 GHz LGA 2011 95W Server Processor,2.2 GHz,SR0GZ,True,Hyper-Threading,LGA2011,95 W,3 GHz
+279,2,64-bit,True,Intel HD Graphics 2000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2120,3.3 GHz,BX80623I32120,True,Hyper-Threading,LGA1155,65 W,
+280,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,22 nm,Intel,,Xeon E5-1650,3.5 GHz,CM8063501292204,True,Hyper-Threading,LGA2011,130 W,3.9 GHz
+281,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,2 x 8 MB,32 nm,AMD,,Opteron 6328,3.2 GHz,OS6328WKT8GHK,False,,G34,115 W,3.8 GHz
+282,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Intel Xeon E5-2660 Sandy Bridge 2.2 GHz LGA 2011 95W Server Processor,2.2 GHz,SR0KK,True,Hyper-Threading,LGA2011,95 W,3 GHz
+283,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,1 x 6 MB,45 nm,AMD,,Phenom II X4 965 Black,3.4 GHz,HDZ965FBGMBOX,False,,AM3,125 W,
+284,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8300,3.3 GHz,FD8300WMHKBOX,False,,AM3+,95 W,
+285,8,64-bit,True,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.4 GHz,YD170XBCAEMPK,True,,AM4,95 W,3.8 GHz
+286,16,64-bit,False,False,"16 x 64 kB Instruction, 16 x 32 kB Data",16 x 512 kB,1 x 32 MB,14 nm,AMD,1 TB,,3.4 GHz,YD195XA8AEWOF,True,,TR4,180 W,4 GHz
+287,2,64-bit,False,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,,3.9 GHz,CM8067703014612,True,Hyper-Threading,LGA1151,51 W,
+288,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,65 nm,Intel,,Core 2 Duo E4600,2.4 GHz,BX80557E4600,False,,LGA775,65 W,
+289,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 1 MB,1 x 13.75 MB,14 nm,Intel,128 GB,,3.3 GHz,BX80673I97900X,True,Hyper-Threading,LGA2066,140 W,4.5 GHz
+290,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Phenom II X4 840,3.2 GHz,HDX840WFK42GM,False,,AM3,95 W,
+291,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4.3 GHz,BX80677I77740X,True,Hyper-Threading,LGA2066,112 W,4.5 GHz
+292,2,64-bit,True,Intel HD Graphics 3000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2105,3.1 GHz,BX80623I32105,True,Hyper-Threading,LGA1155,65 W,
+293,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2660 V2,2.2 GHz,BX80635E52660V2,True,Hyper-Threading,LGA2011,95 W,3 GHz
+294,2,64-bit,False,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,,4.2 GHz,CM8067703014431,True,Hyper-Threading,LGA1151,60 W,
+295,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6420,2.13 GHz,HH80557PH0464M,False,,LGA775,65 W,
+296,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-4690K,3.5 GHz,BX80646I54690K,False,,LGA1150,88 W,3.9 GHz
+297,6,64-bit,True,False,"6 x 64 kB Instruction, 6 x 32 kB Data",6 x 512 kB,1 x 15.99 MB,12 nm,AMD,64 GB,,3.6 GHz,YD260XBCAFBOX,True,,AM4,95 W,4.2 GHz
+298,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.8 GHz,BX80677E31270V6,True,Hyper-Threading,LGA1151,72 W,4.2 GHz
+299,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 6 MB,None,45 nm,Intel,,Core 2 Extreme QX9650,3 GHz,EU80569XJ080NL,False,,LGA775,130 W,
+300,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4.3 GHz,CM8067702868631,True,Hyper-Threading,LGA2066,112 W,4.5 GHz
+301,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2670 V3,2.3 GHz,BX80644E52670V3,True,Hyper-Threading,LGA2011-3,120 W,3.1 GHz
+302,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Athlon II X4 640,3 GHz,ADX640WFK42GM,False,,AM3,95 W,
+303,4,64-bit,True,Intel HD Graphics P630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80677E31245V6,True,Hyper-Threading,LGA1151,73 W,4.1 GHz
+304,2,64-bit,False,False,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 512 kB,1 x 6 MB,45 nm,AMD,,Phenom II X2 B59,3.4 GHz,HDXB59WFK2DGM,False,,AM3,80 W,
+305,2,64-bit,True,Intel HD Graphics 2000,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Core i3-2100,3.1 GHz,BX80623I32100,True,Hyper-Threading,LGA1155,65 W,
+306,8,64-bit,False,Intel UHD Graphics 630,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,8 x 2 MB,14 nm,Intel,64 GB,,3.6 GHz,CM8068403873914,True,Hyper-Threading,LGA1151,95 W,5 GHz
+307,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,32 nm,Intel,,Xeon E5-1620,3.6 GHz,CM8062101038606,True,Hyper-Threading,LGA2011,130 W,3.8 GHz
+308,4,64-bit,True,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,Core i5-6600,3.3 GHz,BX80662I56600,False,,LGA1151,65 W,3.9 GHz
+309,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8320,3.5 GHz,FD8320FRW8KHK,False,,AM3+,125 W,
+310,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,32 nm,Intel,,Core i7-3930K,3.2 GHz,BX80619i73930K,True,Hyper-Threading,LGA2011,130 W,
+311,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i5-680,3.6 GHz,BX80616I5680,True,Hyper-Threading,LGA1156,73 W,
+312,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Xeon E3-1230 V2,3.3 GHz,BX80637E31230V2,True,Hyper-Threading,LGA1155,69 W,
+313,4,64-bit,True,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80677I77700,True,Hyper-Threading,LGA1151,65 W,4.2 GHz
+314,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,32 nm,Intel,,Core i3-560,3.333 GHz,BX80616I3560,True,Hyper-Threading,LGA1156,73 W,
+315,8,64-bit,True,False,"8 x 64 kB Instruction, 8 x 32 kB Data",8 x 512 kB,1 x 16 MB,12 nm,AMD,64 GB,,3.7 GHz,YD270XBGAFBOX,True,,AM4,105 W,4.3 GHz
+316,6,64-bit,False,False,"3 x 64 kB Instruction, 6 x 16 kB Data",3 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-6300,3.5 GHz,FD6300WMW6KHK,False,,AM3+,95 W,
+317,2,64-bit,True,Intel HD Graphics 630,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,,3.9 GHz,BX80677I37100,True,Hyper-Threading,LGA1151,51 W,
+318,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3340,3.1 GHz,BX80637I53340,False,,LGA1155,77 W,3.3 GHz
+319,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6850,3 GHz,HH80557PJ0804MG,False,,LGA775,65 W,
+320,2,64-bit,True,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,Pentium G4500,3.5 GHz,BX80662G4500,False,,LGA1151,51 W,
+321,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-8320E,3.2 GHz,FD832EWMHKBOX,False,,AM3+,95 W,4 GHz
+322,4,64-bit,True,Intel HD Graphics,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Xeon E3-1275,3.4 GHz,BX80623E31275,True,Hyper-Threading,LGA1155,95 W,
+323,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 2 MB,None,45 nm,Intel,,Core 2 Quad Q8400,2.66 GHz,AT80580PJ0674ML,False,,LGA775,95 W,
+324,2,64-bit,True,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,14 nm,Intel,64 GB,Core i3-6100,3.7 GHz,BX80662I36100,True,Hyper-Threading,LGA1151,51 W,
+325,4,64-bit,True,Intel HD Graphics 3000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Core i7-2700K,3.5 GHz,BX80623i72700K,True,Hyper-Threading,LGA1155,95 W,
+326,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 8 MB,14 nm,AMD,,,3.2 GHz,YD1400BBAEBOX,True,,AM4,65 W,3.4 GHz
+327,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 6 MB,None,45 nm,Intel,,Core 2 Quad Q9450,2.66 GHz,BX80569Q9450,False,,LGA775,95 W,
+328,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,32 nm,Intel,,Xeon E5-2630,2.3 GHz,BX80621E52630,True,Hyper-Threading,LGA2011,95 W,
+329,16,64-bit,False,False,"16 x 32 kB Instruction, 16 x 32 kB Data",16 x 1 MB,1 x 22 MB,14 nm,Intel,128 GB,Intel Core i9-9960X Skylake X 16-Core 3.1 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99960X Desktop Processor,3.1 GHz,BX80673I99960X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+330,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-960,3.2 GHz,BX80601960,True,Hyper-Threading,LGA1366,130 W,
+331,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-4670K,3.4 GHz,BX80646I54670K,False,,LGA1150,84 W,
+332,8,64-bit,False,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-9590,4.7 GHz,FD9590FHHKWOF,False,,AM3+,220 W,5 GHz
+333,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,2.8 GHz,CM8068403358811,False,,LGA1151,65 W,4 GHz
+334,2,64-bit,True,Intel HD Graphics,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 3 MB,32 nm,Intel,,Pentium G630,2.7 GHz,BX80623G630,False,,LGA1155,65 W,
+335,2,64-bit,False,Radeon HD 6410D,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 512 kB,None,32 nm,AMD,,A4-3300,2.5 GHz,AD3300OJZ22GX,False,,FM1,65 W,
+336,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,64 GB,Core i7-5930K,3.5 GHz,BX80648I75930K,True,Hyper-Threading,LGA2011-3,140 W,3.7 GHz
+337,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2320,3 GHz,BX80623I52320,False,,LGA1155,95 W,
+338,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2650L V2,1.7 GHz,CM8063501287602,True,Hyper-Threading,LGA2011,70 W,2.1 GHz
+339,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 3 MB,None,45 nm,Intel,,Core 2 Quad Q9400,2.66 GHz,BX80580Q9400,False,,LGA775,95 W,
+340,4,64-bit,False,Radeon Vega 8,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 4 MB,14 nm,AMD,,,3.5 GHz,YD2200C4M4MFB,False,,AM4,65 W,3.7 GHz
+341,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,22 nm,Intel,64 GB,Core i7-5960X,3 GHz,CM8064801547964,True,Hyper-Threading,LGA2011-3,140 W,3.5 GHz
+342,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-4790K,4 GHz,BX80646I74790K,True,Hyper-Threading,LGA1150,88 W,4.4 GHz
+343,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3450S,2.8 GHz,BX80637I53450S / BX806237I53450S,False,,LGA1155,65 W,
+344,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.5 GHz,CM8067702870650,True,Hyper-Threading,LGA1151,72 W,3.9 GHz
+345,2,64-bit,True,Radeon Vega 3,"2 x 64 kB Instruction, 2 x 32 kB Data",2 x 512 kB,1 x 4 MB,14 nm,AMD,64 GB,,3.4 GHz,YD220GC6FBBOX,True,,AM4,35 W,
+346,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2643 V2,3.5 GHz,CM8063501287403,True,Hyper-Threading,LGA2011,130 W,3.8 GHz
+347,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2690,2.9 GHz,CM8062101122501,True,Hyper-Threading,LGA2011,135 W,3.8 GHz
+348,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,32 nm,Intel,,Xeon E5-2650L,1.8 GHz,CM8062107185309,True,Hyper-Threading,LGA2011,70 W,2.3 GHz
+349,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,8 x 1.5 MB,14 nm,Intel,64 GB,,3.6 GHz,BX80684I79700KF,False,,LGA1151,95 W,4.9 GHz
+350,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,45 nm,Intel,,Core i7-875K,2.93 GHz,BX80605I7875K,True,Hyper-Threading,LGA1156,95 W,
+351,4,64-bit,True,Intel HD Graphics 2500,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,22 nm,Intel,,Core i5-3570,3.4 GHz,BX80637i53570,False,,LGA1155,77 W,
+352,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,6 x 1.5 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80684I59600KF,False,,LGA1151,95 W,4.6 GHz
+353,2,64-bit,True,Intel HD Graphics 4600,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,22 nm,Intel,,Core i3-4340,3.6 GHz,BX80646I34340,True,Hyper-Threading,LGA1150,54 W,
+354,4,64-bit,False,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-4770K,3.5 GHz,BXF80646I74770K,True,Hyper-Threading,LGA1150,84 W,
+355,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 1 MB,1 x 8.25 MB,14 nm,Intel,128 GB,,3.5 GHz,BX80673I77800X,True,Hyper-Threading,LGA2066,140 W,4 GHz
+356,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,4 GHz,BX80684I78086K,True,Hyper-Threading,LGA1151,95 W,5 GHz
+357,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,1 x 8 MB,14 nm,AMD,,,3.1 GHz,YD1200BBAEBOX,False,,AM4,65 W,3.4 GHz
+358,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3 GHz,CM8067702870812,False,,LGA1151,72 W,3.5 GHz
+359,2,64-bit,False,False,"2 x 64 kB Instruction, 2 x 64 kB Data",2 x 1 MB,None,45 nm,AMD,,Athlon II X2 240,2.8 GHz,ADX240OCK23GQ,False,,AM3,65 W,
+360,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,3.6 GHz,CM8068403358508,False,,LGA1151,95 W,4.3 GHz
+361,4,64-bit,True,Intel HD Graphics P630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,3.8 GHz,BX80677E31275V6,True,Hyper-Threading,LGA1151,73 W,4.2 GHz
+362,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,,3.5 GHz,CD8067304126200,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+363,6,64-bit,True,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,32 nm,Intel,,Core i7-980,3.333 GHz,BX80613I7980,True,Hyper-Threading,LGA1366,130 W,
+364,4,64-bit,True,Intel HD Graphics 4600,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,22 nm,Intel,,Core i7-4790K,4 GHz,CM8064601710501,True,Hyper-Threading,LGA1150,88 W,4.4 GHz
+365,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 6 MB,None,45 nm,Intel,,Core 2 Duo E8400,3 GHz,EU80570PJ0806M,False,,LGA775,65 W,
+366,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 6 MB,None,45 nm,Intel,,Core 2 Quad Q9550,2.83 GHz,BX80569Q9550,False,,LGA775,95 W,
+367,4,64-bit,True,Intel HD Graphics 3000,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,32 nm,Intel,,Core i7-2600K,3.4 GHz,BX80623I72600K,True,Hyper-Threading,LGA1155,95 W,
+368,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,22 nm,Intel,,Xeon E5-2695 V2,2.4 GHz,BX80635E52695V2,True,Hyper-Threading,LGA2011,115 W,3.2 GHz
+369,4,64-bit,False,False,"4 x 64 kB Instruction, 4 x 64 kB Data",4 x 512 kB,None,45 nm,AMD,,Athlon II X4 620,2.6 GHz,ADX620WFK42GI,False,,AM3,95 W,
+370,4,64-bit,True,Intel HD Graphics 530,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,Core i5-6400,2.7 GHz,BX80662I56400,False,,LGA1151,65 W,3.3 GHz
+371,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 6 MB,None,45 nm,Intel,,Core 2 Extreme QX9775,3.2 GHz,BX80574QX9775,False,,LGA771,150 W,
+372,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,14 nm,Intel,,,3.4 GHz,BX80671I76800K,True,Hyper-Threading,LGA2011-3,140 W,3.6 GHz
+373,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 3 MB,None,45 nm,Intel,,Core 2 Duo E7200,2.53 GHz,BX80571E7200,False,,LGA775,65 W,
+374,6,64-bit,True,False,"6 x 64 kB Instruction, 6 x 32 kB Data",6 x 512 kB,1 x 15.99 MB,12 nm,AMD,64 GB,,3.4 GHz,YD2600BBAFBOX,True,,AM4,65 W,3.9 GHz
+375,6,64-bit,False,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 12 MB,14 nm,Intel,64 GB,,3.7 GHz,BX80684I78700K,True,Hyper-Threading,LGA1151,95 W,4.7 GHz
+376,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,65 nm,Intel,,Core 2 Duo E4500,2.2 GHz,BX80557E4500,False,,LGA775,65 W,
+377,10,64-bit,False,False,"10 x 32 kB Instruction, 10 x 32 kB Data",10 x 256 kB,1 x 25 MB,22 nm,Intel,,Xeon E5-2660 V3,2.6 GHz,BX80644E52660V3,True,Hyper-Threading,LGA2011-3,105 W,3.3 GHz
+378,24,64-bit,False,False,"24 x 64 kB Instruction, 24 x 32 kB Data",24 x 512 kB,8 x 8 MB,12 nm,AMD,1 TB,,3 GHz,YD297XAZAFWOF,True,,TR4,250 W,4.2 GHz
+379,2,64-bit,True,Intel HD Graphics 530,"2 x 32 kB Instruction, 2 x 32 kB Data",2 x 256 kB,1 x 4 MB,14 nm,Intel,64 GB,Core i3-6300,3.8 GHz,BX80662I36300,True,Hyper-Threading,LGA1151,51 W,
+380,4,64-bit,True,False,"2 x 64 kB Instruction, 4 x 16 kB Data",2 x 2 MB,1 x 8 MB,32 nm,AMD,,FX-4350,4.2 GHz,FD4350FRHKBOX,False,,AM3+,125 W,
+381,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 256 kB,1 x 30 MB,14 nm,Intel,1.5 TB,Xeon E5-2687W V4,3 GHz,BX80660E52687V4,True,Hyper-Threading,LGA2011-3,160 W,3.5 GHz
+382,4,64-bit,False,False,"2 x 96 kB Instruction, 4 x 16 kB Data",2 x 2 MB,None,28 nm,AMD,,Athlon X4 880K,4 GHz,AD880KXBI44JC,False,,FM2+,95 W,4.2 GHz
+383,6,64-bit,True,Intel UHD Graphics 630,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 9 MB,14 nm,Intel,64 GB,,3 GHz,BX80684I58500,False,,LGA1151,65 W,4.1 GHz
+384,2,64-bit,False,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 4 MB,None,65 nm,Intel,,Core 2 Duo E6750,2.66 GHz,HH80557PJ0674MG,False,,LGA775,65 W,
+385,4,64-bit,True,Intel HD Graphics 2000,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 256 kB,1 x 6 MB,32 nm,Intel,,Core i5-2400S,2.5 GHz,BX80623I52400S,False,,LGA1155,65 W,
+386,2,64-bit,True,False,"2 x 32 kB Instruction, 2 x 32 kB Data",1 x 2 MB,None,45 nm,Intel,,Pentium E6500,2.93 GHz,BX80571E6500,False,,LGA775,65 W,
+387,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,14 nm,Intel,1.5 TB,,3.6 GHz,BX80660E51650V4,True,Hyper-Threading,LGA2011-3,140 W,4 GHz
+388,8,64-bit,True,False,"4 x 64 kB Instruction, 8 x 16 kB Data",4 x 2 MB,1 x 8 MB,32 nm,AMD,,FD8350FRHKHBX Wraith,4 GHz,FD8350FRHKHBX,False,,AM3+,125 W,
+389,4,64-bit,False,False,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 10 MB,22 nm,Intel,,Xeon E5-2609 V2,2.5 GHz,BX80635E52609V2,False,,LGA2011,80 W,
+390,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 4 MB,None,65 nm,Intel,,Core 2 Extreme QX6800,2.93 GHz,BX80562QX6800,False,,LGA775,100 W,
+391,6,64-bit,False,False,"6 x 32 kB Instruction, 6 x 32 kB Data",6 x 256 kB,1 x 15 MB,22 nm,Intel,,Xeon E5-2603 V3,1.6 GHz,CM8064401844200,False,,LGA2011-3,85 W,
+392,12,64-bit,False,False,"12 x 32 kB Instruction, 12 x 32 kB Data",12 x 1 MB,1 x 19.25 MB,14 nm,Intel,128 GB,Intel Core i9-9920X Skylake X 12-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 165W BX80673I99920X Desktop Processor,3.5 GHz,BX80673I99920X,True,Hyper-Threading,LGA2066,165 W,4.4 GHz
+393,4,64-bit,True,False,"2 x 96 kB Instruction, 4 x 32 kB Data",1 x 1 MB,None,28 nm,AMD,,Athlon X4 845,3.5 GHz,AD845XACKASBX,False,,FM2+,65 W,3.8 GHz
+394,22,64-bit,False,False,"22 x 32 kB Instruction, 22 x 32 kB Data",22 x 256 kB,1 x 55 MB,14 nm,Intel,1.5 TB,Xeon E5-2699 V4,2.2 GHz,CM8066002022506,True,Hyper-Threading,LGA2011-3,145 W,3.6 GHz
+395,4,64-bit,True,False,"4 x 32 kB Instruction, 4 x 32 kB Data",2 x 2 MB,None,45 nm,Intel,,Core 2 Quad Q8400,2.66 GHz,BX80580Q8400,False,,LGA775,95 W,
+396,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,22 nm,Intel,,Xeon E5-2630 V3,2.4 GHz,BX80644E52630V3,True,Hyper-Threading,LGA2011-3,85 W,3.2 GHz
+397,8,64-bit,False,False,"8 x 32 kB Instruction, 8 x 32 kB Data",8 x 256 kB,1 x 20 MB,14 nm,Intel,1.5 TB,Xeon E5-2620 V4,2.1 GHz,BX80660E52620V4,True,Hyper-Threading,LGA2011-3,85 W,3 GHz
+398,4,64-bit,True,False,"4 x 64 kB Instruction, 4 x 32 kB Data",4 x 512 kB,2 x 8 MB,14 nm,AMD,,,3.5 GHz,YD150XBBAEBOX,True,,AM4,65 W,3.7 GHz
+399,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 6 MB,14 nm,Intel,64 GB,,3 GHz,CM8067702867050,False,,LGA1151,65 W,3.5 GHz
+400,4,64-bit,False,Intel HD Graphics 630,"4 x 32 kB Instruction, 4 x 32 kB Data",4 x 256 kB,1 x 8 MB,14 nm,Intel,64 GB,,4.2 GHz,BX80677I77700K,True,Hyper-Threading,LGA1151,91 W,4.5 GHz

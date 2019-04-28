@@ -1,0 +1,593 @@
+,Color,Efficiency,Efficiency Certification,Fanless,Manufacturer,Model,Modular,Output,PCI-Express 6+2-Pin Connectors,PCI-Express 6-Pin Connectors,PCI-Express 8-Pin Connectors,Part Number,Type,Wattage
+0,,,80+ Bronze,,SeaSonic,,False,"+3.3V@24A, +5V@24A, +12V1@46A, +12V2@46A, -12V@0.8A, +5VSB@2.5A",1,1,1,SS-600ET / SS-600ET BRONZE,ATX,600 W
+1,,< 85%,80+ Bronze,,Corsair,,False,"+3.3V@25A, +5V@25A, +12V@58A, -12V@0.8A, +5VSB@3A",2,,,GS700,ATX12V,700 W
+2,,,,,StarTech,,False,"+3.3V@22A, +5V@21A, +12V1@10A, +12V2@15A, -12V@0.8A, +5VSB@2.5A",,1,,ATX2POWER350,ATX12V,350 W
+3,Black / White,,80+ Bronze,,Corsair,CX750M V2 (2017 Edition),Semi,,4,,,CP-9020154-NA,ATX,750 W
+4,,> 80%,80+,,FSP Group,,False,,,,,FSP300-60GHS-R,SFX12V,300 W
+5,,<90%,80+ Gold,,XFX,,Full,"+3.3V@25A, +5V@25A, +12V@70A, -12V@0.8A, +5VSB@3A",6,,,P1-850B-BEFX,ATX12V / EPS12V,850 W
+6,,92% (115VAC) / 94% (220VAC~240VAC) or Higher Typical,80+ Platinum,,EVGA,SuperNOVA 750,Full,"+3.3V@20A, +5V@20A, +12V@62.4A, +5VSB@2.5A, -12V@0.5A",4,2,,220-P2-0750-X1,ATX12V / EPS12V,750 W
+7,,,80+ Gold,,SeaSonic,FOCUS PLUS 850 Gold,Full,"+3.3V@20A, +5V@20A, +12V@70A, -12V@0.3A, +5Vsb@3A",6,,,SSR-850FX,ATX,850 W
+8,,89% ~ 92% at 20% ~ 100% loading,80+ Platinum,,Silverstone,,Full,"+3.3V@22A, +5V@22A, +12V@58.4A, +5VSB@3.0A, -12V@0.3A",4,,,SX700-LPT / SST-SX700-LPT,SFX12V,700 W
+9,,,80+ Bronze,,RIOTORO,ONYX 750,Semi,,4,,,PR-BP0750-SM,ATX,750 W
+10,,Up to 90%,80+ Gold,,XFX,,Full,,2,,,P1-550B-BEFX,ATX12V / EPS12V,550 W
+11,,82%~85% at 20% ~ 100% loading,80+ Bronze,,Silverstone,,Full,"+3.3V@20A, +5V@17A, +12V@46A, +5VSB@2.5A, -12V@0.3A",2,2,,ST60F-PB,ATX12V / EPS12V,600 W
+12,,,80+ Bronze,,EVGA,,False,,4,,,100-BR-0700-K1,ATX,700 W
+13,,up to 85%,80+ Bronze,,EVGA,SuperNOVA 750,Semi,"+3.3V@24A, +5V@24A, +12V@62A, +5Vsb@3.0A, -12V@0.5A",4,,,110-B2-0750-VR,ATX12V / EPS12V,750 W
+14,Black,,80+ Bronze,,Cooler Master,,False,,2,,,MPX-4501-ACAAB-US / MPX-4501-ACAAB-AU / MPX-4501-ACAAB-EU / MPX-4501-ACAAB-UK / MPX-4501-ACAAB-JP / MPX-4501-ACAAB-KR,ATX,450 W
+15,,87-92% efficiency @ 20-100% load,80+ Gold,,Thermaltake,,Semi,,6,,,PS-TPD-0850MPCGUS-1,ATX12V / EPS12V,850 W
+16,,85% efficiency or higher under typical loads,80+ Bronze,,EVGA,,Semi,"+3.3V@24A, +5V@20A, +12V@62A, +5Vsb@3A, -12V@0.3A",3,,,110-BQ-0750-V1,ATX,750 W
+17,,> 85%,80+ Bronze,,FirePower,,Full,"+3.3V@24A, +5V@24A, +12V@45A, -12V@0.5A, +5VSB@3A",2,,,OCZ-ZT550W,ATX12V,550 W
+18,,,80+ Platinum,,EVGA,SuperNOVA 1600,Full,,9,5,,220-P2-1600-X1 / 220-P2-1600-X3 / 220-P2-1600-X4,ATX,1600 W
+19,Black,,80+ Platinum,,Corsair,,Full,,2,,,CP-9020181-NA,SFX12V,450 W
+20,,,80+ Gold,,Corsair,RM550x,Full,,2,,,CP-9020090-NA / RM550x / CP-9020090-UK / CP-9020090-EU / CP-9020090-AU / CP-9020177-AU,ATX,550 W
+21,,,80+ Platinum,,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@70A, -12V@0.3A, +5VSB@3.0A",6,,,SSR-850PX,ATX,850 W
+22,Black / Blue,up to 87.55%,80+ Bronze,,Raidmax,,Semi,"+3.3V@20A, +5V@20A, +12V@40A, -12V@0.3A ,5VSB@2.5A",2,,,RX-535AP-S,ATX12V / EPS12V,535 W
+23,,,80+ Platinum,,PC Power & Cooling,,Full,,6,,,FPS1050-A5M00,ATX,1050 W
+24,,,80+ Gold,,Thermaltake,,Full,"+3.3V@20A, +5V@20A, +12V@62A, -12V@0.8A, +5VSB@3.0A",4,,,PS-TPG-0750DPCGUS-R / TPG-750DH3FCG-R / TPG-0750D-R,ATX,750 W
+25,,< 85%,,,Xion,,False,"+3.3@24A,+5V@32A,+12V1@18A,+12V2@16,+12V3@20A,+ 12V4@20A,-12V@0.5A,+5VSB@2.2A",2,,,XON-850P14F,ATX12V / EPS12V,850 W
+26,,80% under typical load,80+,,Thermaltake,,False,"+3.3V@24A, +5V@17A, +12V@54A, -12V@0.5A, +5VSB@2.5A",2,,,PS-SPR-0700NHFAWU-1,ATX,700 W
+27,,,80+ Gold,,RIOTORO,ENIGMA 850,Semi,,4,,,PR-GP0850-SM,ATX,850 W
+28,,85% @ Typical Load,80+ Bronze,,Cooler Master,MasterWatt 550,Semi,"+3.3V@20A, +5V@20A, +12@45.8A, -12V@0.3A, +5VSB@3A",2,,,MPX-5501-AMAAB-US / MPX-5501-AMAAB-UK / MPX-5501-AMAAB-AU / MPX-5501-AMAAB-EU,ATX,550 W
+29,,< 87%,80+ Bronze,,Antec,,Semi,"+5V@24A, +3.3V@24A, +12V@48A, -12V@0.8A, +5VSB@2.5A",2,,,HCG-620M / HCG-620M GB,ATX12V / EPS12V,620 W
+30,,,80+ Platinum,,FSP Group,,False,,2,,,FSP500-50FSPT,Flex ATX,500 W
+31,,,80+ Gold,,SeaSonic,,Semi,,2,,,SSR-550FM,ATX,550 W
+32,,,,,Apevia,,False,,1,,,ATX-BT550W,ATX,550 W
+33,,87-92%,80+ Gold,,Rosewill,,Semi,"+3.3V@24A,+5V@24A,+12V@62A,-12V@0.5A,+5VSB@3A",4,,,CAPSTONE-750-M,ATX12V / EPS12V,750 W
+34,,,80+ Gold,,Silverstone,,Full,,2,,,SST-SX500-LG / SX500-LG,SFX12V,500 W
+35,,,80+,,Corsair,VS550,False,,2,,,CP-9020171-NA,ATX,550 W
+36,,< 80%,,,Raidmax,,Semi,"+3.3V@28A, +5V@34A, +12V1@20A, +12V2@17A, -12V@0.8A, +5VSB@2.5A",1,1,,RX-530SS,ATX12V / EPS12V,530 W
+37,Black,,80+ Bronze,,Raidmax,,Semi,,4,,,RX-735AP-R,ATX,735 W
+38,Black,,80+ Gold,,Cooler Master,MWE Gold 750,Full,,4,,,MPY-7501-AFAAG-US,ATX,750 W
+39,,90% Efficiency,80+ Gold,,Thermaltake,,Semi,"+3.3V@22A, +5V@22A, +12V@62A, -12V@0.3A, +5VSB@2.5A",4,,,PS-SPG-0750DPCGUS-G,ATX12V / EPS12V,750 W
+40,,,,,Athena Power,,False,"+3.3V@20A, +5V@30A, +12V@15A, -5V@0.5A, -12V@1A, +5VSB@2A",,,,AP-P4ATX35,ATX,350 W
+41,,,80+ Gold,,EVGA,SuperNOVA 650,Full,,3,,,220-G3-0650 / 220-G3-0650-Y1,ATX,650 W
+42,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@22A,+5V@22A,+12V@54.2A,-12V@0.3A,+5VSB@3A",4,,,PHOTON-650,ATX12V / EPS12V,650 W
+43,Black,,80+ Gold,,Thermaltake,Toughpower Grand RGB 850 SE,Full,,6,,,PS-TPG-0850FPCGUS-S,ATX,850 W
+44,,,80+ Bronze,,EVGA,,Semi,,2,,,110-BQ-0600-K1,ATX,600 W
+45,,82-88% efficiency @ 20-100% load,80+ Bronze,,Thermaltake,,False,,2,,,PS-TR2-0500NPCBUS-B,ATX12V / EPS12V,500 W
+46,Black,94% efficiency at 50% system load,80+ Titanium,True,SeaSonic,PRIME 600 Titanium,Full,"+3.3V@20A, +5V@20A, +12V@50A, -12V@0.3A, +5VSB@2.5A",4,,,SSR-600TL,ATX,600 W
+47,,87-92%,80+ Gold,,Thermaltake,,Full,,4,,,PS-TPG-0750DPCGUS-1,ATX12V / EPS12V,750 W
+48,,,80+ Gold,,EVGA,210-GQ-0750-V1,Semi,,6,,,210-GQ-0750 / 210-GQ-0750-V1,ATX,750 W
+49,Black,,80+ Gold,,Rosewill,,Semi,,6,,,CAPSTONE 1000M-2,ATX,1000 W
+50,,87%,80+ Gold,,SeaSonic,,False,"+3.3V@10A, +5V@14A, +12V@25A, -12V@0.3A, +5VSB@2A",,,,SSP-300SUG,Flex ATX,300 W
+51,Black / Multicolor,,80+,,GAMDIAS,,False,,2,,,ASTRAPE M1-550W / M1-550W,ATX,550 W
+52,,90% Typical,80+ Gold,,EVGA,SuperNOVA 650,Full,"+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +5Vsb@3A, -12V@0.8A",4,,,120-G1-0650-XR,ATX12V / EPS12V,650 W
+53,,,80+ Gold,,Raidmax,,Semi,,6,,,RX-1000AE-B,ATX,1000 W
+54,Black / Red,,80+ Gold,,SeaSonic,,Full,,6,,,SSR-850GD-AIRTOUCH,ATX,850 W
+55,,up to 88%,80+ Bronze,,Thermaltake,,Semi,"+3.3V@24A, +5V@24V, +12V@52A, -12V@0.5A, +5VSB@3A",4,,,SP-650MPCBUS,ATX12V,650 W
+56,,85%,80+ Bronze,,CoolMax,,Semi,"+5V@25A, +3.3V@25A, +12V@50A, -12V@0.8A, +5VSB@3A",1,1,,ZU-600B,ATX12V / EPS12V,600 W
+57,,,80+ Platinum,,SeaSonic,,Full,,4,,,SSR-750PD,ATX,750 W
+58,,87-92% efficiency @ 20-100% load,80+ Gold,,Thermaltake,,Semi,,4,,,PS-TPD-0750MPCGUS-1,ATX12V / EPS12V,750 W
+59,,94% Efficiency,80+ Titanium,,Thermaltake,,Full,"+3.3V@25A, +5V@22A, +12V@125A, -12V@0.3A, +5VSB@3.0A",5,,5,PS-TPG-1500DPCTUS-T / TPG-1500DH5FET / TPG-1500D-T,ATX,1500 W
+60,,< 85%,80+ Bronze,,EVGA,600B,False,"+5V@20A, +3.3V@24A, +12V@49A, -12V@0.3A, +5VSB@3A",2,,,100-B1-0600-KR,ATX12V / EPS12V,600 W
+61,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5VSB@3A",4,,,CX750M / CP-9020061-UK / CMPSU-750CXM / CP-9020061-AU / CP-9020061-NA / CP-9020061-EU,ATX,750 W
+62,,< 85%,80+ Bronze,,XFX,,False,"+3.3V@25A, +5V@25A, +12V@70A, -12V@0.5A, +5VSB@3.0A",2,2,,P1850SNLB9,ATX12V / EPS12V,850 W
+63,Black,,80+ Gold,,Silverstone,,Semi,,2,,,SST-ET550-HG,ATX,550 W
+64,,80%,80+,,FSP Group,,False,"+3.3V@14A, +5V@16A, +12V1@16A, +12V2@10A, -12V@0.8A, +5VSB@2.5A",,,,FSP220-60LE(80),Mini ITX,220 W
+65,,,,,EVGA,,False,,2,,,100-N1-0650-L1,ATX,650 W
+66,,> 85%,80+ Bronze,,OCZ,,Full,"+3.3V@24A, +5V@24A, +12V@45A, -12V@0.5A, +5VSB@3A",2,,,OCZ-ZT550W,ATX12V,550 W
+67,Black,,80+ Gold,,Rosewill,,Full,,10,,,PHOTON 1350,ATX,1350 W
+68,,92% Typical,80+ Platinum,,EVGA,SuperNOVA 1200,Full,"+3.3V@20A, +5V@20A, +12V@99.5A, +5VSB@2.5A, -12V@0.5A",6,2,,220-P2-1200-X1 / 220-P2-1200-X4 / 220-P2-1200-X3,ATX12V / EPS12V,1200 W
+69,,"> 90%, Up to 92%",80+ Gold,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@58A,-12V@0.5A,+5VSB@2.5A",4,,,VALENS-700,ATX12V / EPS12V,700 W
+70,Black / Gray,,80+ Bronze,,Cooler Master,,Semi,,2,,,MPX-5501-AMAAB-SF,ATX,550 W
+71,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@25A, +5V@25A, +12V@46A, -12V@0.8A, +5VSB@3A",2,,,CX600M / CP-9020060-NA / CP-9020060-UK / CMPSU-600CXM / CP-9020060-AU,ATX12V,600 W
+72,Black,,80+ Bronze,,Cougar,,False,,4,,,VTX500,ATX,500 W
+73,,92%,80+ Gold,,BitFenix,,Full,,6,,,BP-WG750UMAG-7FM / BP-WG750UMAG-0FM / BP-WG750UMAG-6FM / BP-WG750UMAG-8FM / BP-WG750UMAG-9FM,ATX12V,750 W
+74,,> 90%,80+ Platinum,,Rosewill,,Full,"+3.3V@25A,+5V@22A,+12V@70A,-12V@0.3A,+5VSB@2.5A",6,,,Quark 850,ATX12V / EPS12V,850 W
+75,Black,,80+ Gold,,Rosewill,,Semi,,2,,,LEPTON 500,ATX,500 W
+76,Black,,80+ Gold,,SeaSonic,,Full,,4,,,SSR-650SGX,SFX12V,650 W
+77,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@48.75A,-12V@0.3A,+5VSB@2.5A",4,,,Hive-650S,ATX12V / EPS12V,650 W
+78,,< 80%,80+,,CoolMax,,False,"+5V@25A, +3.3V@25A, +12V@40A, -12V@0.8A, +5VSB@3A",1,1,,ZX-600,ATX12V / EPS12V,600 W
+79,,Up to 88%,80+ Bronze,,Antec,,False,"+3.3V@20A, +5V@18A, +12V1@30A, +12V2@30A, -12V@0.3A, +5VSB@2.5A",2,,,EA550 Green,ATX12V / EPS12V,550 W
+80,,,80+ Bronze,,Antec,,False,"+3.3V@20A, +5V@20A, +12V1@17A, +12V2@15A, -12V@0.8A, +5VSB@2.5A",,1,,EA-380D Green / EA 380D,ATX12V / EPS12V,380 W
+81,,> 89%,80+ Platinum,True,Rosewill,,Semi,"+3.3V@20A, +5V@20A, +12V@41.5A, -12V@0.5A, +5VSB@2.5A",4,,,SilentNight-500,ATX12V / EPS12V,500 W
+82,,< 85%,80+ Bronze,,EVGA,500B,False,,2,,,100-B1-0500-KR,ATX12V / EPS12V,500 W
+83,,,80+,,Antec,,False,,2,,,VP500 Plus,ATX,500 W
+84,,,,,Solid Gear,,False,,1,,,SDGR-650E,ATX,650 W
+85,Black,,80+ Bronze,,Antec,,Full,,4,,,HCG850 Bronze,ATX,850 W
+86,,94% (115VAC) / 96% (220VAC~240VAC) or Higher Typical,80+ Titanium,,EVGA,SuperNOVA 850,Full,"+3.3V@20A, +5V@20A, +12V@70.8A, +5VSB@2.5A, -12V@0.5A",4,2,,220-T2-0850-X1,ATX,850 W
+87,,> 80%,80+ Bronze,,NZXT,,Semi,"+3.3V@23A, +5V@25A, +12V@53A, -12V@0.5A, +5VSB@3.0A",2,2,,HALE82-650-M,ATX12V / EPS12V,650 W
+88,,,,,CoolMax,,False,"+3.3V@30A, +5V@45A, +12V1@18A, +12V2@16A, -12V@1A, +5VSB@2.5A",,,,V-500,ATX,500 W
+89,,90% (115VAC) / 92% (220VAC~240VAC) or Higher Typical,80+ Gold,,EVGA,SuperNOVA 650,Full,"+3.3V@24A, +5V@22A, +12V@54.1A, +5VSB@3.0A, -12V@0.5A",2,2,,220-G2-0650-Y1 / 220-G2-0650-Y3,ATX,650 W
+90,,,80+ Platinum,,FSP Group,,Full,25A @ +3.3V DC<br/>25A @ +5V DC<br/>100A @ +12V DC<br/>0.8A @ -12V DC<br/>3.0A @ +5Vsb DC Standby,8,,,PT1200FM,ATX12V / EPS12V,1200 W
+91,Black,,80+ Gold,,be quiet!,,False,,2,,,BN901 / BN626,ATX,500 W
+92,,,80+ Gold,,Rosewill,,Semi,,2,,,LEPTON 700,ATX,700 W
+93,,< 85%,,,Raidmax,,Semi,"+3.3V@25A, +5V@25A, +12V1@24A, +12V2@24A,, -12V@0.5A, +5VSB@2.0A",2,,,RX-730SS,ATX12V / EPS12V,730 W
+94,,,80+ Gold,,SeaSonic,,Semi,,4,,,SSR-650RM,ATX12V / EPS12V,650 W
+95,Black / Blue,,80+ Gold,,Silverstone,,Semi,,4,,,SST-ET650-HG,ATX,650 W
+96,,,80+ Gold,,Thermaltake,,Full,,2,,,PS-TPG-0450DPCGUS-G,ATX12V / EPS12V,450 W
+97,,,,,HEC,,False,,,1,,HP585D RETAIL,ATX12V,585 W
+98,Black,,80+ Gold,,G.Skill,PS850G,Full,,6,,,GP-GD850A-CWV1,ATX,850 W
+99,,,80+ Gold,,be quiet!,Straight Power 11 1000W,Full,,6,,,BN285 / BN621,ATX,1000 W
+100,,,80+ Platinum,,Enermax,,Full,"+3.3V@20A, +5V@20A, +12V1@30A, +12V2@30A, -12V@0.5A, +5VSB@2.5A",4,,,EDF550AWN,ATX12V / EPS12V,550 W
+101,,< 80%,,,VisionTek,,False,"+3.3V@20A, +5V@20A, +12V1@20A, +12V2@20A, -12V@0.3A, +5VSB@2.5A",,2,,900346,ATX12V,500 W
+102,Black,,80+ Bronze,,SeaSonic,,False,,2,,,SSR-550GB3,ATX,550 W
+103,,,80+ Gold,,FSP Group,,Full,,4,,,HGE650,ATX,650 W
+104,,< 88%,80+ Bronze,,Thermaltake,,Semi,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A",4,,,SP-750M,ATX12V / EPS12V,750 W
+105,,90%,80+ Gold,,Corsair,HX750,Semi,"+3.3V@25A, +5V25A, +12V@60A, -12V@0.8A, +5VSB@3A",4,,,CMPSU-750HX / CMPSU-750HXUK,ATX12V / EPS12V,750 W
+106,,,80+ Gold,,Corsair,RM1000x,Full,,8,,,CP-9020094-NA / rm1000x / CP-9020094-UK,ATX,1000 W
+107,,up to 86.94%,80+ Bronze,,Raidmax,,Semi,"+3.3V@20A, +5V@20A, +12V@48A, -12V@0.3A ,5VSB@2.5A",2,,,RX-635AP-S,ATX12V / EPS12V,635 W
+108,,> 90%,80+ Gold,,FSP Group,,False,"+3.3V@20A, +5V@20A, +12V1@16A, +12V2@16A, +12V3@16A, +5VSB@3A ,-12V@0.5A",2,,,TWINS500,ATX12V / EPS12V,500 W
+109,,< 88%,80+ Bronze,,Antec,,False,,2,,,EA-500 Green,ATX12V / EPS12V,500 W
+110,,,80+,,Thermaltake,,False,,2,,,PS-SPR-0600NHFAWU-1,ATX,600 W
+111,,90% Typical,80+ Gold,,EVGA,SuperNOVA 1000,Full,"+3.3V@25A, +5V@25A, +12V@83.3A, +5Vsb@3A, -12V@0.8A",6,2,,120-G1-1000-VR,ATX12V,1000 W
+112,,< 94%,80+ Platinum,,Antec,,Full,,10,,,HCP-1300 Platinum,ATX12V / EPS12V,1300 W
+113,,,80+ Silver,,Corsair,Vengeance 750M,Semi,,6,,,CP-9020176-NA,ATX,750 W
+114,,Up to 90%,80+ Gold,,XFX,,Full,,4,,,P1-650B-BEFX,ATX12V / EPS12V,650 W
+115,,> 72%,,,Thermaltake,,False,"+3.3V@22A, +5V@18A, +12V1@18A, +12V2@17A, -12V@0.3A, +5VSB@2.5A",1,1,,TR-500,ATX12V,500 W
+116,Black,,80+ Platinum,,Thermaltake,,Full,,8,,,PS-TPG-1050F1FAPU-1,ATX,1050 W
+117,,> 65%,,,Apex,,False,,,,,SL-275TFX,TFX12V,275 W
+118,,,,,Corsair,VS450,False,,2,,,CP-9020049-WW / CMPSU-VS450 / CP-9020049 AU / CP-9020096-EU,ATX12V / EPS12V,450 W
+119,,,80+ Gold,,EVGA,SuperNOVA 1000,Full,,4,,,220-G3-1000 / 220-G3-1000-X1,ATX,1000 W
+120,,92%,80+ Platinum,,EVGA,SuperNOVA 1000,Full,"+5V@20A, +3.3V@20A, +12V@83.3A, -12V@0.5A, +5Vsb@2.5A",6,2,,220-P2-1000-XR,ATX12V / EPS12V,1000 W
+121,Black,,80+ Bronze,,Cooler Master,,False,,4,,,MPX-6001-ACAAB-US,ATX,600 W
+122,,< 85%,80+ Bronze,,PC Power & Cooling,,Semi,"+3.3V@20A, +5V@20A, +12V@30A, -12V@0.8A, +5VSB@2.5A",1,,,PPCMK3S400,ATX12V,400 W
+123,,,,,StarTech,,False,"+3.3V@30A, +5V@28A, +12V1@14A, +12V2@15A, -12V@1A, +5VSB@2.5A",,1,,ATX2PW400PRO,ATX12V,400 W
+124,,,80+ Gold,,Enermax,,False,"+3.3V@20A, +5V@20A, +12V@41.5A, -12V@0.3A, 5Vsb@2.5A",2,,,ERD500AWL-F,ATX,500 W
+125,,< 88%,80+ Bronze,,LEPA,,Semi,"+3.3V@24A, +5V@24A, +12V@83A, -12V@0.3A, +5Vsb@2.5A",6,,,B1000-MB,ATX12V / EPS12V,1000 W
+126,Black / Blue,,80+ Gold,,Silverstone,,Semi,,4,,,SST-ET750-HG,ATX,750 W
+127,Gray,,80+ Bronze,,SeaSonic,,False,,2,,,SS-600ES / SS-600ES BRONZE,ATX,600 W
+128,,,80+ Gold,,Thermaltake,Thermaltake TP-750M,Semi,,4,,,TP-750M / PS-TPD-0750MPCGUS-1,ATX,750 W
+129,Black / Silver,,80+ Platinum,,Phanteks,,Full,,8,,,PH-P1000PS / PH-P1000PS_US,ATX,1000 W
+130,,> 80%,80+ Bronze,,FSP Group,,False,"+3.3V@21A, +5V@22A, +12V1@18A, +12V2@18A, -12V@0.5A, +5VSB@2.5A",1,1,,FSP450-60GHS(85)-R,SFX12V,450 W
+131,,94% (115VAC) / 96% (220VAC~240VAC) or Higher Typical,80+ Titanium,,EVGA,SuperNOVA 1000,Full,"+3.3V@20A, +5V@20A, +12V@83.3A, +5VSB@2.5A, -12V@0.5A",6,2,,220-T2-1000-X1,ATX,1000 W
+132,,,80+ Gold,,Thermaltake,,Semi,,10,,,PS-TPD-1500MPCGUS-1,ATX12V / EPS12V,1500 W
+133,,< 94%,80+ Platinum,,Antec,,Full,+3.3V@25A; +5V@25A; +12V1@40A; +12V2@40A; +12V3@40A; +12V4@40A; -12V@0.5A; +5Vsb@3A,6,,,HCP-1000 / HCP-1000 PLATINUM,ATX12V / EPS12V,1000 W
+134,,,80+,,Antec,,False,,2,,,VP550 Plus,ATX,550 W
+135,Black,,80+ Gold,,SeaSonic,PRIME Ultra Gold 1000,Full,,8,,,SSR-1000GD / SSR-1000GD-U / SSR-1000GD (V2),ATX,1000 W
+136,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,,4,,,HIVE-850S,ATX12V / EPS12V,850 W
+137,,"> 90%, Up to 92%",80+ Gold,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@50A,-12V@0.5A,+5VSB@2.5A",2,,,VALENS-600M,ATX12V / EPS12V,600 W
+138,,93% Typical,80+ Platinum,,Cooler Master,V1200,Full,"+3.3V@25A, +5V@25A, +12V@100A, -12V@0.5A, +5VSB@3A",12,,,RSC00-AFBAG1-US / RSC00-AFBAG1-UK / RSC00-AFBAG1-AU / RSC00-AFBAG1-EU,ATX12V / EPS12V,1200 W
+139,,90%,80+ Gold,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@62.5A, -12V@0.3A, +5VSB@3A",4,,,PS-TPG-0750FPCGUS-R,ATX,750 W
+140,,,80+ Gold,,BitFenix,Formula Gold 650,False,,4,,,BP-FM650ULAG-7R / BP-FM650ULAG-8R / BP-FM650ULAG-9R,ATX,650 W
+141,,87%~90% at 20%~100% loading,80+ Gold,,Silverstone,,Full,"+3.3V@22A, +5V@25A, +12V1@70A, +5VSB@3.5A, -12V@0.3A",4,,,ST85F-GS / SST-ST85F-GS,ATX,850 W
+142,,> 90%,80+ Platinum,,Rosewill,,Full,"+3.3V@20A,+5V@20A,+12V@54A,-12V@0.3A,+5VSB@2.5A",4,,,Quark 650,ATX12V / EPS12V,650 W
+143,Black,,80+ Bronze,,Silverstone,,False,,,1,,ST30SF-V2,SFX12V,300 W
+144,,> 87%,80+ Bronze,,SeaSonic,,False,,2,,,S12II 620 Bronze / SS-620GB,ATX12V / EPS12V,620 W
+145,Black,up to 87%,80+ Bronze,,Cougar,,False,"+3.3V at 16A, +5V at 20A, +12V at 45A, -12V at 0.3A, +5Vsb at 2.5A",2,,,VTE600,ATX,600 W
+146,Black,,80+ Gold,,SeaSonic,PRIME Ultra Gold 750,Full,,8,,,SSR-750GD2,ATX,750 W
+147,,,80+,,Corsair,VS500,False,,,2,,CP-9020118-NA,ATX,500 W
+148,,87-92%,80+ Gold,,Rosewill,,False,"+3.3V@24A,+5V@22A,+12V@54A,-12V@0.5A,+5VSB@3A",3,,,CAPSTONE-650,ATX12V / EPS12V,650 W
+149,,87-92%,80+ Gold,,Rosewill,,Semi,"+3.3V@24A,+5V@24A,+12V@83A,-12V@0.5A,+5VSB@3A",6,,,LIGHTNING-1000,ATX12V / EPS12V,1000 W
+150,,<90%,80+ Gold,,PC Power & Cooling,,Semi,"+3.3V@24A, +5V@24A, +12V@62A, -12V@0.5A, +5VSB@3.0A",4,,,PPCMK3S750,ATX12V,750 W
+151,,,80+ Titanium,,Silverstone,,Full,,4,,,ST80F-TI / PS-ST80F-TI / SST-ST80F-TI,ATX,800 W
+152,,up to 78%,,,Raidmax,,False,"+3.3V@18A, +5V@17A, +12V1@36A, -12V@0.5A ,5VSB@2.5A",1,1,,RX-500XT,ATX12V / EPS12V,500 W
+153,,> 85%,80+ Gold,,Rosewill,G550,Semi,"+3.3V@20A,+5V@18A,+12V@45A,-12V@0.3A,+5VSB@2.5A",2,,,Capstone G550,ATX12V / EPS12V,550 W
+154,Black / Blue,,80+ Titanium,,Silverstone,,Full,,8,,,SST-ST1300-TI,ATX,1300 W
+155,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@52A,-12V@0.5A,+5VSB@2.5A",2,,,ARC M650,ATX12V / EPS12V,650 W
+156,,> 85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@53A,-12V@0.3A,+5VSB@2.5A",4,,,Glacier 700M,ATX12V / EPS12V,700 W
+157,,,80+ Gold,,EVGA,SuperNOVA 550,Full,,3,,,220-G3-0550 / 220-G3-0550-Y1 / 220-G3-0550-Y2,ATX,550 W
+158,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@52A,-12V@0.5A,+5VSB@2.5A",2,,,ARC 650,ATX12V / EPS12V,650 W
+159,,,,,Athena Power,,False,"+3.3V@13A, +5V@13A, +12V1@16A, -12V@0.8A, -5V@0.5A, and +5VSB@2.5A",,,,AP-MP4ATX30,SFX12V,300 W
+160,,,80+ Platinum,,Corsair,HX850 Platinum,Full,"+3.3V@25A, +5V@25A, +12V@70.8A, -12V@0.8A, +5HXB@3A",6,,,CP-9020138-NA / CP-9020138-WW / CP-9020138-UK / CP-9020138-EU / CP-9020138-AU / CP-9020138-CN / CP-9020138-JP / CP-9020138-KR,ATX,850 W
+161,Black / Silver,,80+ Gold,,Corsair,RM550x (2018),Full,,2,,,CP-9020177-NA / CP-9020177-UK / CP-9020177-EU,ATX,550 W
+162,,90%,80+ Gold,,EVGA,NEX650G Gold,Full,"+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A,+5VSB@3A, -12V@0.8A",4,1,,120-PG-0650-GR,ATX12V / EPS12V,650 W
+163,,90% (115VAC) / 92% (220VAC~240VAC) or Higher Typical,80+ Gold,,EVGA,SuperNOVA 550,Full,"+3.3V@20A, +5V@20A, +12V@45A, +5VSB@2.5A, -12V@0.3A",4,,,220-GS-0550-V1 / 220-GS-0550-V2,ATX12V / EPS12V,550 W
+164,,,,,Solid Gear,,Semi,,1,1,,SDGR-750E,ATX,750 W
+165,,> 85%,80+ Bronze,,XFX,,False,"+3.3V@24A, +5V@24A, +12V@44A, -12V@0.5A, +5VSB@2.5A",1,1,,P1-550S-XXB9,ATX12V / EPS12V,550 W
+166,Black,,80+ Bronze,,Cooler Master,,Semi,,4,,,MPX-7501-AMAAB-US / MPX-7501-AMAAB-AU / MPX-7501-AMAAB-EU / MPX-7501-AMAAB-UK,ATX,750 W
+167,,,80+ Gold,,Corsair,RM750i,Full,,4,,,CP-9020082-NA / CP-9020082-EU / CP-9020082-UK,ATX,750 W
+168,,Up to 90% @ Typical Load,80+ Gold,,XFX,,False,"0.3A@-12V, 62A@+12V, 20A@+3.3V, 20A@+5V, 2.5A@+5VSB",4,,,P1-750G-TS3X,ATX12V / EPS12V,750 W
+169,,> 80%,80+ Bronze,,Corsair,,False,"+3.3V@20A, +5V@20A, +12V@32A, -12V@0.8A, +5VSB@3.0A",1,,,CX430,ATX12V,430 W
+170,,,80+ Gold,,Corsair,RM850i,Full,,6,,,CP-9020083-NA / CP-9020083-EU / RM850i / CP-9020083-UK / CP-9020083-AU,ATX,850 W
+171,Black / Silver,,80+ Gold,,Corsair,RM650x (2018),Full,,4,,,CP-9020178-NA / CP-9020178-UK / CP-9020178-EU,ATX,650 W
+172,,> 80%,80+ Bronze,,Corsair,,False,"+3.3V@25A, +5V@25A, +12V@46A, -12V@0.8A, +5VSB@3.0A",2,,,CX600 / CP-9020048-UK / CP-9020048-US / CP-9020048-NA / CP-9020048-EU,ATX12V,600 W
+173,,,80+,,EVGA,,False,,2,,,100-W1-0500-KR,ATX12V / EPS12V,500 W
+174,,,80+ Bronze,,EVGA,,False,,2,,,100-BR-0500-K1,ATX,500 W
+175,,< 85%,80+ Bronze,,OCZ,,Full,"+3.3V@25A, +5V@25A, +12V@62.5A, -12V@0.3A, +5Vsb@3.0A",4,,,OCZ-FTY750W,ATX12V / EPS12V,750 W
+176,,85-88%,80+ Silver,,Silverstone,,Full,,2,2,,ST85F-P / SST-ST85F-P,ATX12V / EPS12V,850 W
+177,,,80+ Gold,,Thermaltake,,Full,,6,,,PS-TPG-0850DPCGUS-G,ATX12V / EPS12V,850 W
+178,Black,,80+ Silver,,Corsair,,Semi,,4,,,CP-9020175-NA / CP-9020175-EU / CP-9020175-UK / CP-9020175-AU,ATX,650 W
+179,,85-88%,80+ Silver,,Silverstone,,Full,,4,,,ST75F-P / SST-ST75F-P,ATX12V / EPS12V,750 W
+180,,,80+ Bronze,,Antec,,False,"+3.3V@25A, +5V@25A, +12V1@40A, +12V2@40A, +12V3@40A, +12V4@40A, -12V@0.5A, +5VSB@3.0A",4,,,HCG-750 / HCG750 BRONZE,ATX12V / EPS12V,750 W
+181,,,80+ Titanium,,EVGA,SuperNOVA 1600,Full,"+3.3V@24A, +5V@24A, +12V@133.3A, +5VSB@3A, -12V@0.5A",9,5,,220-T2-1600-X1 / 220-T2-1600-X3,ATX12V / EPS12V,1600 W
+182,,,80+,,EVGA,,False,,2,,,100-W1-0600-K1,ATX,600 W
+183,Black,,80+ Gold,,NZXT,E500,Full,,2,,,NP-1PM-E500A,ATX,500 W
+184,,< 94%,80+ Platinum,,Antec,,Full,,6,,,HCP-850 Platinum,ATX12V / EPS12V,850 W
+185,Black,,80+ Gold,,Antec,EARTHWATTS GOLD PRO 750,Semi,,4,,,EA750G Pro,ATX,750 W
+186,,Typical > 90%,80+ Gold,,FSP Group,,False,"+3.3V@14A, +5V@16A, +12V1@18A, +12V2@18A, -12V@0.5A, +5VSB@3.0A",,,1,FSP400-60FGGBA,Flex ATX,400 W
+187,,,80+ Gold,,Corsair,TX550M Gold,Semi,"+3.3V@25A, +5V@25A, +12V@43A, -12V@0.8A, +5TX-MB@3A",2,,,CP-9020133-NA / CP-9020133-UK,ATX,550 W
+188,,,80+ Bronze,,Corsair,CX450M (2015),Semi,,2,,,CP-9020101-NA / CP-9020101-UK / CP-9020101-AU,ATX,450 W
+189,,90% Typ.,80+ Gold,,EVGA,SuperNOVA 1300,Full,"+3.3V@24A, +5V@24A, +12V@108.3A, +5VSB@3A, -12V@0.5A",6,,,120-G2-1300-XR,ATX12V / EPS12V,1300 W
+190,,< 86%,80+ Bronze,,Sparkle,,False,,,,,SPI4601UG-B204,EPS12V,460 W
+191,,,80+ Gold,,Corsair,RM850x,Full,,6,,,CP-9020093-NA / RM850x / CP-9020093-UK,ATX,850 W
+192,Black,,80+ Gold,,Thermaltake,Toughpower Grand RGB 750 SE,Full,,4,,,PS-TPG-0750FPCGUS-S,ATX,750 W
+193,,,,,CoolMax,,False,"+5V@21A, +3.3V@22A, +12V@34A, -12V@1A, +5VSB@2.5A",,,,I-500,ATX,500 W
+194,Black,,80+ Gold,,EVGA,,Full,,4,,,120-GP-0750-X1,ATX,750 W
+195,Black,,80+ Platinum,,SeaSonic,PRIME Ultra Platinum 1000,Full,,8,,,SSR-1000PD-U,ATX,1000 W
+196,,85%,80+ Bronze,,Cooler Master,,Semi,"+3.3V@22A, +5V@22A, +12V@66A, -12V@0.3A, +5VSB@3.0A",6,,,RS850-AMBAJ3-US,ATX12V / EPS12V,850 W
+197,Black / Silver,,80+ Platinum,,Phanteks,,Full,,8,,,PH-P1200PS / PH-P1200PS_US,ATX,1200 W
+198,,82-87%,80+ Bronze,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@46A,-12V@0.3A,+5VSB@3A",2,,,Hive-650,ATX12V / EPS12V,650 W
+199,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@20A,+5V@20A,+12V@45.9A,-12V@0.3A,+5VSB@3A",2,,,PHOTON-550,ATX12V / EPS12V,550 W
+200,,> 87%,80+ Gold,,Silverstone,,Full,"+3.3V@22A, +5V@18A, +12V@45A, -12V@0.3A, +5VSB@2.5A",1,1,,ST55F-G / SST-ST55F-G,ATX12V / EPS12V,550 W
+201,,,80+ Gold,,Corsair,RM650x,Full,,4,,,CP-9020091-NA / RM650x / CP-9020091-UK,ATX,650 W
+202,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@30A, +5V@30A, +12V@54A, -12V@0.8A, +5VSB@3A",2,,,TX650M / CP-9020002-UK / CP-9020039-NA,ATX12V / EPS12V,650 W
+203,,85% Efficiency,80+ Bronze,,EVGA,,Full,"+3.3V@20A, +5V@20A, +12V@54.1A, +5Vsb@3A, -12V@0.5A",3,,,220-B3-0650-V1 / 220-B3-0650-V3,ATX,650 W
+204,Black,,80+ Platinum,,Thermaltake,Toughpower iRGB PLUS 850 Platinum,Full,,6,,,PS-TPI-0850F2FDPU-1,ATX,850 W
+205,,< 80%,80+,,Corsair,HX1000,Semi,"+3.3V@30A, +5V30A, +12V1@40A, +12V2@40A, -12V@0.8A, +5VSB@3.5A",6,,,CMPSU-1000HX,ATX12V / EPS12V,1000 W
+206,,Up to 90%,80+ Bronze,,XFX,,False,"+3.3V@20A, +5V@20A, +12V@45A, -12V@0.3A, +5VSB@2.5A",1,1,,XFX TS 550W / P1-550S-GREN / P1550SXXB9,ATX12V,550 W
+207,,,,,Logisys,,False,,,,,PS550E12BK,ATX12V,550 W
+208,,> 85%,80+ Silver,,Silverstone,,Full,"+3.3V@20A, +5V@20A, +12V@49A, -12V@0.5A, +5VSB@3.0A",2,2,,ST60F-PS / SST-ST60F-PS,ATX12V / EPS12V,600 W
+209,,,,,Athena Power,,False,"+3.3V@13A, +5V@13A, +12V1@9A, +12V2@9A, -12V@0.8A, +5VSB@2.5A",,,,AP-MTFX30,ATX12V,300 W
+210,,85% Typical,80+ Bronze,,EVGA,SuperNOVA NEX750B,Semi,"+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +5Vsb@3A, -12V@0.8A",3,,,110-B1-0750-VR,ATX12V / EPS12V,750 W
+211,,"> 90%, Up to 92%",80+ Gold,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@58A,-12V@0.5A,+5VSB@2.5A",4,,,VALENS-700M,ATX12V / EPS12V,700 W
+212,,,80+ Bronze,,Enermax,,Semi,,1,,,ERB600AWT,ATX,600 W
+213,,,80+ Bronze,,NZXT,HALE82N 650W,False,"+3.3V@28A, +5V@28A, +12V@50A, -12V@0.5A, +5VSB@3.5A",4,,,NP-1BN-0650A-US / NP-1BN-0650A-UK,ATX12V / EPS12V,650 W
+214,,,80+,,Corsair,VS400,False,,,1,,CP-9020117-NA,ATX,400 W
+215,,> 87%,80+ Bronze,,Kingwin,,Semi,,3,3,,LZ-1000,ATX12V / EPS12V,1000 W
+216,,92%,80+ Gold,,BitFenix,,Full,,6,,,BP-WG850UMAG-7FM / BP-WG850UMAG-0FM / BP-WG850UMAG-6FM / BP-WG850UMAG-8FM / BP-WG850UMAG-9FM,ATX12V,850 W
+217,,< 85%,,,Solid Gear,,False,,,,,SDGR-FLEX220,Flex ATX,220 W
+218,,< 82%,80+ Bronze,,SeaSonic,,False,,,,,SS-400ET Bronze,ATX12V / EPS12V,400 W
+219,Black,,80+ Platinum,,SeaSonic,PRIME Ultra Platinum 650,Full,,4,,,SSR-650PD2,ATX,650 W
+220,Black / Gold,88-94%,80+ Gold,,Enermax,,Full,"+3.3V@25A, +5V@25A, +12V1@30A, +12V2@30A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, -12V@0.8A, +5VSB@3A",8,,,EMR1350EWT,ATX12V / EPS12V,1350 W
+221,,,80+ Bronze,,EVGA,,False,,2,,,100-BR-0600-K1,ATX,600 W
+222,Black / Red,,,,Apevia,,False,,,,,ATX-RP450W,ATX,450 W
+223,,94% Efficiency,80+ Titanium,,Thermaltake,,Full,"+3.3V@20A, +5V@20A, +12V@104A, -12V@0.3A, +5VSB@3.0A",4,,4,PS-TPG-1250DPCTUS-T,ATX,1250 W
+224,,,80+ Gold,,Corsair,RM750x White,Full,"+3.3V@25A, +5V@25A, +12V@62.5A, -12V@0.8A, +5Vsb@3A",4,,,CP-9020155-NA / CP-9020155-UK / CP-9020155-EU / CP-9020155-AU / CP-9020155-CN / CP-9020155-JP / CP-9020155-KR / CP-9020155-WW / CP-9020155-TW,ATX,750 W
+225,Black,89-94% @ 20-100% load,80+ Platinum,,Enermax,,Full,"+3.3V@24A, +5V@24A, +12V1@20A, +12V2@20A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, -12V@0.5A, +5VSB@3A",8,,,EPM1350EWT,ATX12V / EPS12V,1350 W
+226,,with up to 92%,80+ Platinum,True,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@43A,-12@0.5A, +5Vsb@2.5A",2,,,SS-520FL2,ATX12V / EPS12V,520 W
+227,,20% Load >87% / 50%Load >90% / 100%Load >87%,80+ Gold,,Inwin,,Semi,"+3.3V@24A, +5V@24A, +12V1@25A, +12V2@25A, +12V3@25A, +12V4@25A, -12V@0.3A, +5VSB@3A",4,,,Commander III 600,ATX12V / EPS12V,600 W
+228,White,,80+ Platinum,,SeaSonic,,Full,,4,,,SSR-650PD2-SNOWSILENT / PRIME Snow Silent 650,ATX,650 W
+229,Black,,80+ Platinum,,Cooler Master,V1300 Platinum,Full,,12,,,MPZ-D001-AFBAPV-US,ATX,1300 W
+230,,82-85%,80+ Bronze,,Silverstone,,False,,1,2,,ST45SF / SST-ST45SF,SFX12V,450 W
+231,,,,,Athena Power,,False,,,,,AP-MPS3ATX30H,ATX12V,300 W
+232,,> 80%,80+ Bronze,,Silverstone,,False,,,1,,ST30SF / SST-ST30SF,SFX12V,300 W
+233,,> 90%,80+ Platinum,,be quiet!,,Semi,,6,1,,BN253 / BN653,ATX,850 W
+234,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@30A, +5V@30A, +12V@62A, -12V@0.8A, +5VSB@3A",4,,,TX750M / CP-9020003-UK / CP-9020040-NA,ATX12V / EPS12V,750 W
+235,,,80+ Bronze,,Fractal Design,,Semi,,,1,,FD-PSU-IN3B-450W,ATX,450 W
+236,,> 87%,80+ Bronze,,SeaSonic,,Full,,1,1,,M12II 520 Bronze,ATX12V / EPS12V,520 W
+237,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@35A,-12V@0.5A,+5VSB@2.5A",1,,,ARC 450,ATX12V / EPS12V,450 W
+238,,,80+ Titanium,,SeaSonic,,Full,,6,,,SSR-850TR,ATX,850 W
+239,,Up to 85% Efficiency,80+ Bronze,,EVGA,,False,"+3.3V@20A, +5V@20A, +12V@35A, +5Vsb@3A, -12V@0.3A",2,,,100-BV-0450-K1,ATX,450 W
+240,,,80+,,Corsair,VS650,False,,2,,,CP-9020172-NA,ATX,650 W
+241,,,80+ Platinum,,Corsair,HX1200 Platinum,Full,"+3.3V@30A, +5V@30A, +12V@100A, -12V@0.8A, +5HXB@3.5A",8,,,CP-9020140-NA / CP-9020140-WW / CP-9020140-UK / CP-9020140-EU / CP-9020140-AU / CP-9020140-CN / CP-9020140-JP / CP-9020140-KR,ATX,1200 W
+242,,87-92% efficiency @ 20-100% load,80+ Gold,,Thermaltake,,Full,,6,,,PS-TPG-0850MPCGUS-1,ATX12V / EPS12V,850 W
+243,,Up to 90%,80+ Gold,,XFX,,False,,2,,,P1-550G-TS3X,ATX12V / EPS12V,550 W
+244,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@43A,-12V@0.5A,+5VSB@2.5A",2,,,ARC 550,ATX12V / EPS12V,550 W
+245,,,,,Rosewill,,False,"+3.3V@22A, +5V@15A, +12V1@14A, +12V2@16A, -12V@0.3A, +5VSB@2.5A",,1,,RD450-2-SB,ATX,450 W
+246,,92%,80+ Platinum,,Corsair,HX750i,Full,"+3.3V@25A, +5V@25A, +12V@62.5A, -12V@0.8A, +5VSB@3A",6,,,CP-9020072 / CP-9020072-UK / CP-9020072-NA / CP-9020072-EU / CP-9020072-AU,ATX12V / EPS12V,750 W
+247,,> 85%,80+ Bronze,True,FSP Group,,False,"+3.3V@20A, +5V@14A, +12V1@14A, +12V2@13A, -12V@0.5A, +5VSB@2.5A",,2,,ZEN 400,ATX12V,400 W
+248,,> 85%,80+ Bronze,,EVGA,,False,,2,,,100-B1-0450-K1,ATX,450 W
+249,Black,,80+ Bronze,,Silverstone,,False,,,1,,TX300,TFX12V,300 W
+250,,,80+ Gold,,SeaSonic,,Full,,4,,,SS-650KM,ATX12V / EPS12V,650 W
+251,,85%,80+ Bronze,,CoolMax,,Semi,"+5V@24A, +3.3V@24A, +12V@36A, -12V@0.5A, +5VSB@2.5A",1,1,,ZU-500B,ATX12V / EPS12V,500 W
+252,Black,,80+ Gold,,EVGA,,Full,,8,,,120-GP-1000-X1,ATX,1000 W
+253,,,80+ Titanium,,SeaSonic,,Full,,8,,,SSR-1000TR,ATX,1000 W
+254,,Up to 88%,80+ Bronze,,Antec,,False,"+3.3V@20A, +5V@18A, +12V1@25A, +12V2@25A, -12V@0.3A, +5VSB@2.5A",2,,,EA-450 Green,ATX12V / EPS12V,450 W
+255,,>70%,,,Thermaltake,,False,"+3.3V@22A, +5V@30A, +12V1@18A, +12V2@17A, -12V@0.3A, +5VSB@3A",,1,,W0070,ATX12V,430 W
+256,,Up to 90% @ Typical Load,80+ Gold,,XFX,,False,"0.3A@-12V, 54A@+12V, 20A@+3.3V, 20A@+5V, 2.5A@+5VSB",4,,,P1-650G-TS3X,ATX12V / EPS12V,650 W
+257,,,80+ Platinum,,be quiet!,,Semi,,6,1,,BN252 / BN652,ATX,750 W
+258,,,80+ Gold,,Enermax,,False,"+3.3V@20A, +5V@20A, +12V@50A, -12V@0.3A, 5Vsb@2.5A",2,,,ERD600AWL-F,ATX,600 W
+259,,,80+ Gold,,Thermaltake,,Full,,4,,,PS-TPG-0650DPCGUS-G,ATX12V / EPS12V,650 W
+260,,< 92%,80+ Gold,,Corsair,,Full,,2,,,RM550 / CP-9020053-UK / CP-9020053-NA / CP-9020053-EU,ATX12V / EPS12V,550 W
+261,,,80+ Gold,,BitFenix,Formula Gold 750,False,,4,,,BP-FM750ULAG-7R / BP-FM750ULAG-8R / BP-FM750ULAG-9R,ATX,750 W
+262,White / Black,,80+ Gold,,Corsair,RM750x White (2018),Full,,4,,,CP-9020187-NA,ATX,750 W
+263,,< 90%,80+ Gold,,XFX,,Full,"+12V@104A, +3.3V@25A, +5V@25A, +5VSB@3A, -12V@0.5A",8,,,P1-1250-BEFX,ATX12V / EPS12V,1250 W
+264,,< 92%,80+ Platinum,,Corsair,,Full,"+3.3V@30A, +5V@30A, +12V@100.4A, -12V@0.8A, +5VSB@3.5A",8,,,AX1200i / CP-9020008-NA / CP-9020008-UK / CMPSU-AX1200i / CP-9020008-AU,ATX12V / EPS12V,1200 W
+265,Black,,80+ Platinum,,EVGA,,Semi,,6,,,210-PQ-0750-X1,ATX,750 W
+266,Black / Silver,,80+ Titanium,,Corsair,,Full,,8,,,CP-9020152-NA / CP-9020152-UK,ATX,1000 W
+267,,92%,80+ Platinum,,FSP Group,,Full,"+3.3v@25A, +5V@25A, +12V@83A, -12V@0.8A, +5VSB@3.0A",8,,,PT1000FM,ATX12V / EPS12V,1000 W
+268,,>=82%,80+ Bronze,,SeaSonic,,False,,,,,SS-500ES Bronze,ATX12V,500 W
+269,,,80+ Gold,,SeaSonic,FOCUS Plus 650 Gold,Full,"+3.3V@20A, +5V@20A, +12V@54A,-12V@0.3A,+5Vsb@3A",4,,,SSR-650FX,ATX,650 W
+270,Black,,80+ Bronze,,SHARKOON,,False,,1,1,,4044951016402,SFX12V,450 W
+271,,,80+ Bronze,,Thermaltake,,False,"+3.3V@24A, +5V@24A, +12V@52A, -12V@0.5A, +5VSB@3.0A",2,,,SP-650PCBUS / TT-SP-650PCBAU / SP-650P,ATX12V,650 W
+272,,> 87%,80+ Bronze,,SeaSonic,,False,"+3.3V@24A, +5V@24A, +12V@40A, -12V@0.8A, +5VSB@2.5A",1,1,,S12II 520 Bronze,ATX12V / EPS12V,520 W
+273,,90% Typical,80+ Gold,,EVGA,SuperNOVA 850,Full,+5V@24A +3.3V@24A +12V@70.8A -12V@0.5A +5Vsb@2.5A,4,2,,220-G2-0850-XR,ATX,850 W
+274,Black,,80+ Bronze,,SeaSonic,,False,,4,,,SSR-650GB3,ATX,650 W
+275,Black,,80+ Gold,,EVGA,,Full,,4,,,120-GP-0650-X1,ATX,650 W
+276,,,80+ Gold,,be quiet!,Straight Power 11 750W,Full,,4,,,BN283 / BN619,ATX,750 W
+277,,> 85%,80+ Silver,,Rosewill,,Semi,"+3.3V@25A,+5V@25A,+12V1@110A,+12V2@50A, -12V@0.5A,+5VSB@3.5A",16,,,HERCULES-1600,ATX12V / EPS12V,1600 W
+278,,90%,80+ Gold,,EVGA,SuperNOVA 1600,Full,"+3.3V@24A, +5V@24A, +12V@133.3A, +5VSB@3A, -12V@0.5A",9,5,,120-G2-1600-X1 / 120-G2-1600-X3 / 120-G2-1600-X4,ATX12V / EPS12V,1600 W
+279,,,80+ Gold,,BitFenix,Formula Gold 550,False,,2,,,BP-FM550ULAG-7R / BP-FM550ULAG-8R / BP-FM550ULAG-9R,ATX,550 W
+280,,> 80%,80+,,Silverstone,,False,"+3.3V@25A, +5V@25A, +12V1@46A, +5VSB@2.5A, -12V@0.3A",1,3,,ST70F-ES / SST-ST70F-ES,ATX12V / EPS12V,700 W
+281,Black / Multicolor,,80+ Bronze,,GAMDIAS,,False,,2,,,ASTRAPE M1-650B / M1-650B,ATX,650 W
+282,Black / White,,80+ Bronze,,Corsair,CX850M V2 (2017 Edition),Semi,,4,,,CP-9020157-NA,ATX,850 W
+283,,90%,80+ Gold,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@54.2A, -12V@0.3A, +5VSB@3A",4,,,PS-TPG-0650FPCGUS-R,ATX,650 W
+284,,,80+ Gold,,Silverstone,SX500-G,Full,,2,,,SST-SX500-G,SFX12V,500 W
+285,,< 92%,80+ Gold,,Corsair,,Full,,4,,,RM650 / CP-9020054-UK / CP-9020054-NA / CP-9020054-EU,ATX12V / EPS12V,650 W
+286,,,80+ Gold,,EVGA,210-GQ-1000-V1,Semi,,10,,,210-GQ-1000 / 210-GQ-1000-V1,ATX,1000 W
+287,,> 65%,,,Thermaltake,,False,"+3.3V@20A, +5V@24A, +12V1@14A, +12V2@15A, -12V@0.3A, +5VSB@2A",,1,,W0070RUC,ATX12V,430 W
+288,,,80+ Gold,,Corsair,RM1000i,Full,,8,,,CP-9020084-NA / RM1000i / CP-9020084-EU / CP-9020084-UK,ATX,1000 W
+289,,87%~90%(at 20%~100% loading),80+ Gold,,Silverstone,,Full,"+3.3V@25A, +5V@25A, +12V1@70A, +12V2@70A, +5VSB@3.5V, -12V@0.3A",8,,,ST1500-GS / SST-ST1500-GS,ATX,1500 W
+290,,,80+ Gold,,Enermax,,Semi,,2,,,ERX550AWT,ATX,550 W
+291,Black,,80+ Gold,,Corsair,RM750x (2018),Full,,4,,,CP-9020179-NA / CP-9020179-EU / CP-9020092-UK,ATX,750 W
+292,,< 88%,80+ Bronze,,Thermaltake,,Semi,"+3.3V@25A, +5V@25A, +12V@70A, -12V@0.8A",4,,,SP-850M,ATX12V / EPS12V,850 W
+293,,,80+ Platinum,,Corsair,,Full,"+3.3V@25A, +5V@25A, +12V@63.3A, -12V@0.8A, +5VSB@3.0A",6,,,AX760 / CP-9020045-NA / CP-9020045-UK / CP-9020045-AU,ATX12V / EPS12V,760 W
+294,,> 90%,80+ Gold,,Cooler Master,,Full,"+3.3V@25A, +5V@25A, +12V@83A, -12V@0.5A, +5Vsb@3A",8,,,RSA00-AFBAG1-US / RSA00-AFBAG1,ATX12V / EPS12V,1000 W
+295,,"> 90%, Up to 92%",80+ Gold,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@50A,-12V@0.5A,+5VSB@2.5A",2,,,VALENS-600,ATX12V / EPS12V,600 W
+296,Black / Blue,,80+ Titanium,,Silverstone,,Full,,8,,,SST-ST1100-TI,ATX,1100 W
+297,,> 89%,80+ Platinum,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@83A,-12V@0.5A,+5VSB@2.5A",4,,,Tachyon-1000,ATX12V / EPS12V,1000 W
+298,,90%,80+ Gold,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@70.9A, -12V@0.3A, +5VSB@3A",6,,,PS-TPG-0850FPCGUS-R,ATX,850 W
+299,Black,,80+ Platinum,,Thermaltake,Toughpower iRGB PLUS 1200 Platinum,Full,,8,,,PS-TPI-1200F2FDPU-1,ATX,1200 W
+300,,,80+ Bronze,,Corsair,CX550M,Semi,,2,,,CP-9020102-NA / CP-9020102-EU,ATX,550 W
+301,,< 89%,80+ Bronze,,Cougar,,False,"+3.3V@24A, +5V@20A, +12V1@30A, +12V2@30A, -12V@0.3A, +5VSB@3.0A",2,2,,COUGAR-A760,ATX12V,760 W
+302,,92%,80+ Gold,,FirePower,,Full,"+3.3V@24A, +5V@30A, +12V1@70A, -12V@0.5A, +5VSB@3.0A",4,,,OCZ-ZX850W,ATX12V / EPS12V,850 W
+303,,75% Typical,,,EVGA,,False,"+3.3V@18A, +5V@17A, +12V@30A, +5VSB@2A, -12V@0.3A",1,1,,100-N1-0400-L1,ATX,400 W
+304,,,,,Athena Power,,False,"+3.3V@24A, +5V@24/26A, +12V1@19A, +12V2@19A, +12V3@19A, +12V4@19A, -12V@0.8A, +5VSB@4A",2,2,,AP-P4ATX85FEP,EPS12V,850 W
+305,,83%,80+,,Inwin,,False,,,,,IP-P300BN7-2,ATX12V,300 W
+306,Black,,80+ Platinum,,G.Skill,PS1250P,Full,,8,,,GP-PL1250A-CWV1,ATX,1250 W
+307,,,80+ Gold,,SeaSonic,,False,,,,,SSP-300SFG,SFX12V,300 W
+308,Silver / Black,,80+ Gold,,Phanteks,,Full,,8,,,PH-P850GC,ATX,850 W
+309,,,80+ Bronze,,RIOTORO,ONYX 650,Semi,,2,,,PR-BP0650-SM,ATX,650 W
+310,,,80+ Gold,,Enermax,,Semi,,4,,,ERX650AWT,ATX,650 W
+311,,,,,Thermaltake,,False,"+3.3V@16A, +5V@13A, +12V@26A, -12V@0.5A, +5VSB@2.5A",,,,PS-LTP-0350NNCNUS-F,ATX,350 W
+312,,,80+ Gold,,SeaSonic,FOCUS Plus 550 Gold,Full,"+3.3V@20A, +5V@20A, +12V@45A, -12V@0.3A, +5Vsb@3A",2,,,SSR-550FX,ATX,550 W
+313,,85% Typical,80+ Bronze,,EVGA,,False,"+3.3V@24A, +5V@20A, +12V@56A, +5VSB@3A, -12V@0.3A",2,,,100-B1-0700-K1,ATX,700 W
+314,,> 85%,80+ Bronze,,XFX,,False,"+3.3V@25A, +5V@25A, +12V@53A, -12V@0.5A, +5VSB@3.0A",4,,,P1-650S-NLB9 / P1-650S-UKB9,ATX12V / EPS12V,650 W
+315,,92%,80+ Platinum,,Corsair,HX1000i,Full,"+3.3V@25A, +5V@25A, +12V@83.3A, -12V@0.8A, +5VSB@3A",4,,,CP-9020074 / CP-9020074-UK / CP-9020074-NA / CP-9020074-AU / CP-9020074-EU,ATX12V / EPS12V,1000 W
+316,,,80+ Gold,,EVGA,SuperNOVA 750,Full,,4,,,220-G3-0750 / 220-G3-0750-X1 / 220-G3-0750-X3,ATX,750 W
+317,,82%~85% at 20% ~ 100% loading,80+ Bronze,,Silverstone,,Full,"+3.3V@22A, +5V@18A, +12V@54A, +5VSB@2.5A, -12V@0.3A",4,,,ST70F-PB,ATX12V / EPS12V,700 W
+318,,> 65%,,,Apex,,False,"+3.3V@14A, +5V@12A, +12V@16A, -12V@0.3A, +5VSB@2.0A",,,,AL-8250SFX,SFX12V,250 W
+319,,85% Typical,80+ Bronze,,EVGA,,Semi,"+3.3V@24A, +5V@20A, +12V@54A, +5Vsb@3A, -12V@0.3A",2,1,,110-BQ-0650-V1,ATX,650 W
+320,,,80+ Gold,,FSP Group,,Full,,4,,,HG650,ATX12V / EPS12V,650 W
+321,,> 70%,,,Rosewill,,False,"+3.3V@20A, +5V@12A, +12V1@6A, +12V2@16A, -12V@0.3A,+5VSB@2A",,,,SL-300TFX,TFX12V,300 W
+322,Black,,80+ Platinum,,SeaSonic,PRIME Ultra Platinum 850,Full,,6,,,SSR-850PD-U / SSR-850PD (ULTRA),ATX,850 W
+323,,,80+ Gold,,EVGA,210-GQ-0850-V1,Semi,,8,,,210-GQ-0850 / 210-GQ-0850-V1,ATX,850 W
+324,,"Up to 90% efficiency at 115Vac, 50% load",80+ Gold,,SeaSonic,,False,"+3.3V@20A, +5V@20A, +12V1@54A, +12V2@54A, -12V@0.3A, +5VSB@2.5A",2,,,SSP-650RT,ATX12V,650 W
+325,,,80+ Gold,,be quiet!,Straight Power 11 850W,Full,,4,,,BN284 / BN620,ATX,850 W
+326,,> 82%,80+ Bronze,,SeaSonic,,False,,,,,SS-300TFX Bronze,TFX12V,300 W
+327,Black,,80+ Platinum,,EVGA,,Semi,,10,,,210-PQ-1000-X1,ATX,1000 W
+328,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,False,"+3.3V@20A,+5V@20A,+12V@62.5A,-12V@0.5A,+5VSB@2.5A",4,,,ARC 750,ATX12V / EPS12V,750 W
+329,,,,,CoolMax,,False,"+3.3V@30A, +5V@28A, +12V1@14A, +12V2@15A, -12V@1A, +5VSB@2.5A",,,,V-400,ATX,400 W
+330,Black,,80+ Gold,,SeaSonic,PRIME Ultra Gold 650,Full,,4,,,SSR-650GD2,ATX,650 W
+331,,,80+ Bronze,,Enermax,,Semi,,4,,,ETL800EWT-M,ATX12V / EPS12V,800 W
+332,,up to 86.03%,80+ Bronze,,Raidmax,,False,"+3.3V@20A, +5V@17A, +12V@50A, -12V@0.3A ,5VSB@2.5A",2,,,RX-700AC-B,ATX,700 W
+333,,,,,Rosewill,,False,"+3.3V@24A, +5V@30A, 12V1@56A, -12V@0.8A, +5VSB@3.0A",1,2,,RD700,ATX12V,700 W
+334,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@25A,+5V@25A,+12V@87.5A,-12V@0.3A,+5VSB@4A",8,,,PHOTON-1050,ATX12V / EPS12V,1050 W
+335,Black,80% under typical load,80+,,Thermaltake,,False,"+3.3V@20A, +5V@15A, +12V@35A, -12V@0.5A, +5VSB@2.5A",2,,,PS-SPR-0500NHFAWU-1,ATX,500 W
+336,,,80+ Bronze,,Athena Power,,False,"+3.3V@13A, +5V@13A, +12V1@9A, +12V2@9A, -12V@0.8A, -5V@0.5A, +5V-SB@2.5A",,1,,AP-MFATX30,Mini ITX,300 W
+337,Silver / Black,,80+ Gold,,Phanteks,,Full,,8,,,PH-P1000GC,ATX,1000 W
+338,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@41.25A,-12V@0.3A,+5VSB@2.5A",4,,,Hive-550S,ATX12V / EPS12V,550 W
+339,,,80+ Bronze,,Corsair,CX650M,Semi,,2,,,CP-9020103-NA,ATX,650 W
+340,,,80+ Bronze,,NZXT,HALE82N 550W,False,"+3.3V@24A, +5V@22A, +12V@42A, -12V@0.5A, +5VSB@3.0A",2,,,NP-1BN-0550A-US,ATX12V / EPS12V,550 W
+341,,,80+ Gold,,Cougar,,False,,4,,,GX-S650,ATX,650 W
+342,,80% Efficiency,80+,,Thermaltake,,False,"+3.3V@22A, +5V@17A, +12V@42A, -12V@0.5A, +5VSB@2.5A",2,,,PS-SPD-0600NPCWUS-W,ATX12V / EPS12V,600 W
+343,,82%~85% at 20%~100% loading,80+ Bronze,,Silverstone,,False,"+3.3V@20A, +5V@20A, +12V@30A, +5VSB@2.5A, -12V@0.3A",,1,,ST40F-ESB,ATX12V,400 W
+344,,,80+ Titanium,,Silverstone,,Full,,2,2,,ST60F-TI / PS-ST60F-TI / SST-ST60F-TI,ATX,600 W
+345,,92% (115VAC) / 94% (220VAC~240VAC) or Higher Typical,80+ Platinum,,EVGA,SuperNOVA 850,Full,"+3.3V@20A, +5V@20A, +12V@70.8A, +5VSB@2.5A, -12V@0.5A",4,2,,220-P2-0850-X1 / 220-P2-0850-X3,ATX12V / EPS12V,850 W
+346,Black,,80+ Titanium,,Enermax,,Full,,6,,,EMT750EWT,ATX,750 W
+347,,> 90%,80+ Gold,,FSP Group,,False,"+3.3V@20A, +5V@20A, +12V1@17A, +12V2@17A, +12V3@17A, +5VSB@3A ,-12V@0.5A",4,,,TWINS700,ATX12V / EPS12V,700 W
+348,,85% efficiency or higher under typical loads,80+ Bronze,,EVGA,,Semi,"+3.3V@24A, +5V@20A, +12V@70A, +5Vsb@3A, -12V@0.3A",3,,,110-BQ-0850-V1,ATX,850 W
+349,,87%~90% @ 20% ~ 100% loading,80+ Gold,,Silverstone,,False,,1,,,ST50F-ESG / SST-ST50F-ESG,ATX,500 W
+350,,,80+ Gold,,EVGA,SuperNOVA 850,Full,,4,,,220-G3-0850 / 220-G3-0850-X1,ATX,850 W
+351,,,80+ Bronze,,Silverstone,,False,,,1,,ST60F-ESB / SST-ST60F-ESB,ATX12V / EPS12V,600 W
+352,,,80+ Bronze,,EVGA,,False,,2,,,100-BR-0450-K1,ATX,450 W
+353,,Up to 87.40%,80+ Bronze,,Raidmax,,False,"+3.3V@20A, +5V@20A, +12V@32A, -12V@0.5A ,5VSB@2.5A",1,,,RX-500AF-B,ATX12V / EPS12V,500 W
+354,Black,,80+ Gold,,be quiet!,,Semi,,4,,,BN298 / BN629,ATX,600 W
+355,,up to 87.53%,80+ Bronze,,Raidmax,,Semi,"+3.3V@20A, +5V@20A, +12V@56A, -12V@0.3A ,5VSB@2.5A",4,,,RX-735AP-S,ATX12V / EPS12V,735 W
+356,,,80+ Silver,,be quiet!,,False,,4,,,BN274 / BN674,ATX,600 W
+357,,80%,80+,,Thermaltake,,False,"+5V@15A, +3.3V@24A, +12V@45A, -12V@0.3A, +5VSB@3.0A",2,,,SP-630P,ATX12V,630 W
+358,Black,,80+ Gold,,Antec,,Full,,4,,,HCG750 Gold,ATX,750 W
+359,,,80+ Platinum,,Corsair,,Full,"+3.3V@25A, +5V@25A, +12V@71.6A, -12V@0.8A, +5VSB@3.0A",6,,,AX860i / CP-9020037-NA / CMPSU-AX860i / CP-9020037-UK / CP-9020037-AU / CP-9020037-EU,ATX12V / EPS12V,860 W
+360,Black,,80+ Gold,,SeaSonic,PRIME 1300 Gold,Full,,12,,,SSR-1300GD,ATX,1300 W
+361,,,80+ Gold,,SeaSonic,,Semi,,2,,,SSR-750FM,ATX,750 W
+362,,,80+ Bronze,,Silverstone,,Full,"+3.3V@24A, +5V@20A, +12V1@34A, -12V@0.3A, +5VSB@2.5A",1,1,,ST50F-P / SST-ST50F-P,ATX12V / EPS12V,500 W
+363,,,80+ Gold,,Rosewill,,Semi,,16,,,HERCULES-1600S,ATX,1600 W
+364,,> 85%,80+ Bronze,,Thermaltake,,Semi,"+3.3V@25A, +5V@25A, +12V@69A, -12V@0.6A, +5VSB@3.0A",2,2,,W0319RU,ATX12V / EPS12V,850 W
+365,,85%,80+ Bronze,,Corsair,CX850M,Semi,"+3.3V@25A, +5V@25A, +12V@70A, -12V@0.8A, +5VSB@3A",4,,,CP-9020099-NA / CP-9020099-EU / CMPSU-850CXM / CP-9020099-UK,ATX12V / EPS12V,850 W
+366,,,80+ Gold,,Corsair,TX650M Gold,Semi,"+3.3V@25A, +5V@25A, +12V@51A, -12V@0.8A, +5TX-MB@3A",4,,,CP-9020132-NA / CP-9020132-UK,ATX,650 W
+367,,92%,80+ Platinum,,Corsair,HX850i,Full,"+3.3V@25A, +5V@25A, +12V@70.8A, -12V@0.8A, +5VSB@3A",6,,,CP-9020073 / CP-9020073-UK / HX850i / CMPSU-HX850i / CP-9020073-NA / CP-9020073-EU,ATX12V / EPS12V,850 W
+368,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@20A, +5V@20A, +12V@32A, -12V@0.8A, +5VSB@3A",1,,,CX430M / CMPSU-430CXM / CP-9020058-AU / CP-9020058-UK / CP-9020058-NA / CP-9020058-US,ATX12V,430 W
+369,,85% Efficiency,80+ Bronze,,EVGA,,Full,"+3.3V@20A, +5V@20A, +12V@37.4A, +5Vsb@3A, -12V@0.5A",2,,,220-B3-0450-V1,ATX,450 W
+370,Black,,80+ Platinum,,Corsair,,Full,,2,,,CP-9020182-NA / CP-9020182-EU,SFX12V,600 W
+371,Black,,80+ Gold,,Cooler Master,,Full,,2,,,MPY-5501-AFAAG-US,ATX,550 W
+372,,,80+ Bronze,,Thermaltake,,False,"+3.3V@24A, +5V@15A, +12V@42A, -12V@0.5A, +5VSB@3.0A",2,,,SP-550PCBUS / TT-SP-550PCBAU / SP-550P,ATX12V,550 W
+373,,87-93%,80+ Gold,,Enermax,,Semi,"+3.3V@24A, +5V@24A, +12V1@30A, +12V2@30A, +12V3@30A, +12V4@30A, -12V@0.5A, +5VSB@3A",6,,,ERV1000EWT-G,ATX12V / EPS12V,1000 W
+374,,> 82%,80+ Bronze,,Antec,,False,"+3.3V@24A, +5V@24A, +12V1@22A, +12V2@22A, -12V@0.8A, +5VSB@2.5A",,1,,EA-500D Green,ATX12V / EPS12V,500 W
+375,,85% Efficiency,80+ Bronze,,EVGA,,Full,"+3.3V@24A, +5V@24A, +12V@70.8A, +5Vsb@3A, -12V@0.5A",6,,,220-B3-0850-V1,ATX,850 W
+376,,,80+ Gold,,Silverstone,SX600-G,Full,,2,,,SST-SX600-G / SX600-G,SFX12V,600 W
+377,Black,,80+ Platinum,,Thermaltake,Toughpower iRGB PLUS 1000 Platinum,Full,,8,,,PS-TPI-1050F2FDPU-1,ATX,1000 W
+378,,87-92%,80+ Gold,,Rosewill,,Semi,"+3.3V@24A,+5V@22A,+12V@54A,-12V@0.5A,+5VSB@3A",4,,,CAPSTONE-650-M,ATX12V / EPS12V,650 W
+379,,> 80%,80+ Bronze,,Corsair,,False,"+3.3V@25A, +5V@20A, +12V@38A, -12V@0.8A, +5VSB@3.0A",2,,,CX500 / CP-9020047-UK / CP-9020047-AU / CP-9020047-US / CP-9020047-EU,ATX12V,500 W
+380,Black,,80+ Gold,,Gigabyte,,Semi,,4,,,GP-G750H,ATX,750 W
+381,,> 93%,80+ Gold,,Cougar,,Semi,"+3.3V@25A, +5V@25A, +12V1@25A, +12V2@25A, +12V3@25A, +12V4@25A, +12V5@25A, +12V6@25A, -12V@0.5A, +5VSB@4A",6,,,COUGAR-GX1050,ATX12V / EPS12V,1050 W
+382,,85% Efficiency,80+ Bronze,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@62.5A, -12V@0.3A, +5VSB@2.5A",4,,,PS-SPR-0750FPCBUS-R,ATX,750 W
+383,,,80+ Titanium,,Corsair,AX1600i,Full,,8,,,CP-9020087-NA,ATX,1600 W
+384,,,80+ Gold,,SeaSonic,FOCUS Plus 750 Gold,Full,"+3.3V@20A, +5V@20A, +12V@62A, -12V@0.3A, +5Vsb@3A",4,,,SSR-750FX,ATX,750 W
+385,,87-92%,80+ Gold,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@45.5A,-12V@0.5A,+5VSB@3A",2,,,CAPSTONE-550-M,ATX12V / EPS12V,550 W
+386,,,80+ Gold,,EVGA,,Full,,6,,,120-GP-0850-X1,ATX,850 W
+387,Black,,80+ Gold,,be quiet!,,False,,4,,,BN295 / BN631,ATX,700 W
+388,Black,,80+ Gold,,Silverstone,,False,,,1,,SST-FX350-G,Flex ATX,350 W
+389,,>87%,80+ Gold,,Inwin,,Semi,"+3.3V@24A, +5V@24A, +12V1@25A, +12V2@25A, +12V3@25A, +12V4@25A, -12V@0.3A, +5VSB@3A",4,,,Commander III 800,ATX12V / EPS12V,800 W
+390,,,80+ Gold,,Corsair,HX850,Semi,"+3.3V@25A, +5V25A, +12V@70A, -12V@0.8A, +5VSB@3A",6,,,CP-9020032-NA,ATX12V / EPS12V,850 W
+391,,,80+ Gold,,Corsair,RM750x,Full,,4,,,CP-9020092-NA / RM750x / CP-9020092-UK,ATX,750 W
+392,,90% Typical,80+ Gold,,EVGA,SuperNOVA 750,Full,"+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +5Vsb@3A, -12V@0.8A",4,,,120-G1-0750-XR,ATX12V / EPS12V,750 W
+393,,< 92%,80+ Gold,,Corsair,,Full,,4,,,RM750 / CP-9020055-UK / CP-9020055-WW / CP-9020055-NA / CP-9020055-EU,ATX12V / EPS12V,750 W
+394,Black,,80+ Gold,,FSP Group,Dagger 600,Full,,2,,,PPA6004301,SFX12V,600 W
+395,,> 85%,80+ Bronze,,Raidmax,,Semi,"+3.3V@20A, +5V@20A, +12V@53A, -12V@0.3A ,5VSB@2.5A",4,,,RX-735AP,ATX12V / EPS12V,735 W
+396,,85% Typical,80+ Bronze,,EVGA,,Semi,"+3.3V@20A, +5V@20A, +12V@41.6A, -12V@0.3A, +5VSB@2.5A",2,,,110-BQ-0500-K1,ATX,500 W
+397,,> 85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@70A,-12V@0.5A,+5VSB@3A",4,,,Glacier 850M,ATX12V / EPS12V,850 W
+398,Black,,,,Cooler Master,,False,,2,,,MPW-5001-ACAAN1-US,ATX,500 W
+399,,> 85%,80+ Bronze,,OCZ,,Full,"+3.3V@30A, +5V@24A, +12V@54A, -12V@0.5A, +5VSB@3A",2,,,OCZ-ZT650W / OCZ-ZT650W-UK,ATX12V,650 W
+400,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@25A, +5V@20A, +12V@38A, -12V@0.8A, +5VSB@3A",2,,,CX500M / CP-9020059-UK / CMPSU-500CXM / CP-9020059-AU,ATX12V,500 W
+401,,< 88%,80+ Bronze,,LEPA,,Semi,"+3.3V@24A, +5V@24A, +12V@65A, -12V@0.3A, +5Vsb@2.5A",4,,,B800-MB,ATX12V / EPS12V,800 W
+402,,> 85%,80+ Gold,,Rosewill,G650,Semi,"+3.3V@20A,+5V@18A,+12V@54A,-12V@0.3A,+5VSB@2.5A",2,,,Capstone G650,ATX12V / EPS12V,650 W
+403,,85%,80+ Bronze,,Cooler Master,,False,"+3.3V@24A, +5V@15A, +12V@35A, -12V@0.3A, +5VSB@2.5A",,1,,RS450-ACAAD3-US,ATX12V,450 W
+404,,,80+,,Corsair,VS600,False,,,2,,CP-9020119-NA,ATX,600 W
+405,,82-85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@28A, +5V@30A, +12V1@20A, +12V2@20A, +12V3@30A, +12V4@30A, -12V@0.8A, +5VSB@3.0A",3,3,,RBR1000-M,ATX12V / EPS12V,1000 W
+406,,,80+,,Corsair,VS450,False,,2,,,CP-9020170-NA,ATX,450 W
+407,Black,,80+ Gold,,SeaSonic,,Full,,2,,,SSR-450SGX,SFX12V,450 W
+408,,>=82%,80+ Bronze,,SeaSonic,,False,,,,,SS-500ET Bronze,ATX12V,500 W
+409,Black,,80+ Gold,,Thermaltake,,Full,,2,,,PS-STP-0450FPCGUS-G,SFX12V,450 W
+410,,,80+ Gold,,be quiet!,Straight Power 11 550W,Full,,2,,,BN281 / BN617,ATX,550 W
+411,,> 80%,80+ Bronze,,FSP Group,,False,"+3.3V@20A, +5V@22A, +12V1@16A, +12V2@16A, -12V@0.5A, +5VSB@2.5A",1,,,FSP400-60GHS(85)-R,SFX12V,400 W
+412,,,,,Thermaltake,,False,"+3.3V@21A, +5V@16A, +12V@38A, -12V@0.5A, +5VSB@2.5A",2,,,PS-LTP-0550NNCNUS-F,ATX,550 W
+413,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@30A, +5V@30A, +12V@70A, -12V@0.8A, +5VSB@3A",4,,,TX850M / CP-9020004-UK / CP-9020004-NA,ATX12V / EPS12V,850 W
+414,,< 80%,80+,,CoolMax,,False,"+5V@20A, +3.3V@25A, +12V@34A, -12V@0.8A, +5VSB@3A",1,1,,ZX-500,ATX12V / EPS12V,500 W
+415,,> 94%,80+ Titanium,,Rosewill,,Full,"+3.3V@25A,+5V@22A,+12V@100A,-12V@0.3A,+5VSB@3A",8,,,TOKAMAK 1200,ATX12V / EPS12V,1200 W
+416,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,"+3.3V@21A,+5V@21A,+12V@62.5A,-12V@0.5A,+5VSB@3A",4,,,Hive-750S,ATX12V / EPS12V,750 W
+417,,,80+ Gold,,Cooler Master,V750,Full,,4,,,RS750-AFBAG1-US,ATX,750 W
+418,,,80+ Bronze,,SeaSonic,,Full,,4,,,SS-620GM2,ATX,620 W
+419,,,80+ Bronze,,Thermaltake,,False,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5VSB@3.0A",4,,,SP-750PCBUS / TT-SP-750PCBAU / SP-750P,ATX12V,750 W
+420,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@25A,+5V@25A,+12V@62.5A,-12V@0.3A,+5VSB@3A",4,,,PHOTON-750,ATX12V / EPS12V,750 W
+421,Black / Multicolor,,80+,,GAMDIAS,,False,,2,,,ASTRAPE M1-650W / M1-650W,ATX,650 W
+422,,85%,80+ Bronze,,CoolMax,,Semi,"+5V@25A, +3.3V@25A, +12V@59A, -12V@0.8A, +5VSB@3A",1,1,,ZU-700B,ATX12V / EPS12V,700 W
+423,Black,,80+ Gold,,Silverstone,,False,,4,,,SST-ET650-G,ATX,650 W
+424,,< 92%,80+ Gold,,Corsair,,Full,,8,,,RM1000 / CP-9020062-UK / CP-9020062-NA / P-9020062-EU,ATX12V / EPS12V,1000 W
+425,,,80+ Platinum,,Corsair,HX750 Platinum,Full,"+3.3V@25A, +5V@25A, +12V@62.5A, -12V@0.8A, +5HXB@3A",4,,,CP-9020137-NA / CP-9020137-WW / CP-9020137-UK / CP-9020137-EU / CP-9020137-AU / CP-9020137-CN / CP-9020137-JP / CP-9020137-KR,ATX,750 W
+426,,,80+ Platinum,,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@62A, -12V@0.3A, +5VSB@3.0A",4,,,SSR-750PX,ATX,750 W
+427,Black,,80+ Gold,,Cooler Master,MWE Gold 650,Full,,4,,,MPY-6501-AFAAG-US,ATX,650 W
+428,,< 80%,80+,,CoolMax,,False,"+5V@25A, +3.3V@25A, +12V@56A, -12V@0.8A, +5VSB@3A",1,1,,ZX-700,ATX12V / EPS12V,700 W
+429,,,80+ Bronze,,Corsair,CX650 (2017),False,,2,,,CP-9020122-NA,ATX,650 W
+430,Black / Yellow,,80+ Gold,,Silverstone,,False,,2,,,SST-ET550-G,ATX,550 W
+431,Black,,80+ Gold,,Antec,EARTHWATTS GOLD PRO 650,Semi,,4,,,EA650G Pro,ATX,650 W
+432,Black,,80+ Platinum,,SeaSonic,PRIME 1300 Platinum,Full,,12,,,SSR-1300PD,ATX,1300 W
+433,,89%~92% at 20%~100% loading,80+ Platinum,True,Silverstone,,Full,"+3.3V@20A, +5V@20A, +12V@43A, +5VSB@2.5A, -12V@0.5A",4,,,NJ520 / SST-NJ520,ATX12V / EPS12V,520 W
+434,,80% Efficiency,80+,,Thermaltake,,False,"+3.3V@24A, +5V@17A, +12V@54A, -12V@0.5A, +5VSB@2.5A",2,,,PS-SPD-0700NPCWUS-W,ATX12V / EPS12V,700 W
+435,,up to 78%,,,Raidmax,,False,"+3.3V@14A, +5V@15A, +12V1@21A, -12V@0.5A ,5VSB@2.5A",,,,RX-300XT,ATX12V / EPS12V,300 W
+436,,,,,EVGA,,False,,2,,,100-N1-0550-L1,ATX,550 W
+437,,,,,Antec,,False,"+3.3V@24A, +5V@15A, +12V1@18A, +12V2@18A, -12V@0.3A, +5VSB@2.5A",,1,,VP-450,ATX12V,450 W
+438,Black / Multicolor,,80+ Bronze,,GAMDIAS,,False,,4,,,ASTRAPE M1-750B / M1-750B,ATX,750 W
+439,Black,,80+ Platinum,,SeaSonic,PRIME Ultra Platinum 750,Full,,4,,,SSR-750PD2,ATX,750 W
+440,,<90%,80+ Gold,,XFX,,Full,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.5A, +5VSB@3A",4,,,P1-750B-BEFX,ATX12V / EPS12V,750 W
+441,,90% Typical,80+ Gold,,EVGA,SuperNOVA 750,Full,+5V@24A +3.3V@24A +12V@62.4A<br/>-12V@0.5A +5Vsb@2.5A,4,,,220-G2-0750-XR,ATX12V / EPS12V,750 W
+442,Black,,80+ Platinum,,SeaSonic,PRIME Ultra Platinum 550,Full,,2,,,SSR-550PD2,ATX,550 W
+443,,,,,CoolMax,,Semi,"+3.3V@28A, +5V@28A, +12V1@18A, +12V2@16A, +12V3@16A, -12V@0.5A, +5VSB@3.0A",,2,,CU-700B,ATX12V / EPS12V,700 W
+444,,> 90%,80+ Platinum,,be quiet!,,Semi,1000W,8,1,,BN254 / BN654,ATX,1000 W
+445,,,80+ Titanium,,Enermax,,Full,,6,,,EMT800EWT,ATX,800 W
+446,,,80+ Gold,,EVGA,210-GQ-0650-V1,Semi,,4,,,210-GQ-0650 / 210-GQ-0650-V1,ATX,650 W
+447,Black / Yellow,,80+ Gold,,Silverstone,,False,,4,,,SST-ET750-G,ATX,750 W
+448,Black,,80+ Platinum,,Cooler Master,V850 Platinum,Full,,6,,,MPZ-8501-AFBAPV-US,ATX,850 W
+449,,< 85%,,,Raidmax,,Semi,"+3.3V@25A, +5V@25A, +12V1@22A, +12V2@22A,, -12V@0.5A, +5VSB@2.0A",1,1,,RX-630SS,ATX12V / EPS12V,630 W
+450,,87-92% efficiency @ 20-100% load,80+ Gold,,Thermaltake,,Semi,,8,,,PS-TPD-1200MPCGUS-1,ATX12V / EPS12V,1200 W
+451,,> 90%,80+ Gold,,LEPA,,Full,"+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, -12V@0.5A, +5Vsb@4A",10,,,G1600-MA,ATX12V / EPS12V,1600 W
+452,,,80+ Gold,,Enermax,,Semi,,4,,,ERX750AWT,ATX,750 W
+453,,85%,80+ Bronze,,PC Power & Cooling,,Semi,"+3.3V@24A, +5V@24A, +12V@38A, -12V@0.8A, +5VSB@2.5A",2,,,PPCMK3S500,ATX12V,500 W
+454,Black,,80+ Platinum,,EVGA,,Semi,,8,,,210-PQ-0850-X1,ATX,850 W
+455,,up to 78%,,,Raidmax,,False,"+3.3V@16A, +5V@16A, +12V1@28A, -12V@0.5A ,5VSB@2.5A",,1,,RX-400XT,ATX12V / EPS12V,400 W
+456,,87-90%,80+ Gold,,Silverstone,,Full,"+3.3V@19A, +5V@14A, +12V@37A, +5VSB@2.5A, -12V@0.3A",1,1,,ST45SF-G / SST-ST45SF-G,SFX12V,450 W
+457,Black / Gold,,80+ Gold,,Raidmax,,Semi,,6,,,RX-1200AE-B,ATX,1200 W
+458,,85% Efficiency,80+ Bronze,,EVGA,,Full,"+3.3V@24A, +5V@24A, +12V@62.4A, +5Vsb@3A, -12V@0.5A",4,,,220-B3-0750-V1,ATX,750 W
+459,,87-92%,80+ Gold,,Rosewill,,False,"+3.3V@24A,+5V@24A,+12V@62A,-12V@0.5A,+5VSB@3A",4,,,CAPSTONE-750,ATX12V / EPS12V,750 W
+460,Black,,80+ Gold,,SeaSonic,PRIME Ultra Gold 550,Full,,2,,,SSR-550GD2,ATX,550 W
+461,,85%~89%@20% to 100% loading (115Vac)<br/>88%~91%@20% to 100% loading (230Vac),80+ Silver,,Silverstone,,Full,"+3.3V@25A, +5V@25A, +12V1@30A, +12V2@30A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, +5VSB@4A, -12V@0.5A",8,,,ZM1350 / SST-ZM1350,ATX12V / EPS12V,1350 W
+462,,92% (115VAC) / 94% (220VAC~240VAC) or Higher Typical,80+ Platinum,,EVGA,SuperNOVA 650,Full,"+3.3V@20A, +5V@20A, +12V@54.1A, +5VSB@2.5A, -12V@0.5A",2,2,,220-P2-0650-X1,ATX12V / EPS12V,650 W
+463,,,,,Enermax,,False,"+3.3V@22A, +5V@18A, +12V1@21A, +12V2@18A, -12V@0.3A, +5VSB@2.5A",1,1,,ENP450AST,ATX12V,450 W
+464,Black,,80+ Gold,,G.Skill,PS750G,Full,,4,,,GP-GD750A-CWV1,ATX,750 W
+465,,Up to 94%,80+ Titanium,,Thermaltake,,Full,"+3.3V@20A, +5V@20A, +12V@104A, -12V@0.3A, +5VSB@3.0A",4,,4,PS-TPI-1250DPCTUS-T,ATX,1250 W
+466,Black,,80+ Gold,,Thermaltake,Toughpower Grand RGB 650 SE,Full,,4,,,PS-TPG-0650FPCGUS-S,ATX,650 W
+467,,,80+ Bronze,,SeaSonic,,False,,,,,SSP-350ST,ATX12V,350 W
+468,,,80+ Gold,,Corsair,TX750M Gold,Semi,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5TX-MB@3A",4,,,CP-9020131-NA / CP-9020131-UK,ATX,750 W
+469,,,80+,,Cooler Master,MasterWatt Lite 600W Full Range,False,,2,,,MPX-6001-ACAAW / MPX-6001-ACAAW-AU / MPX-6001-ACAAW-EU / MPX-6001-ACAAW-JP / MPX-6001-ACAAW-KR / MPX-6001-ACAAW-TW / MPX-6001-ACAAW-US / MPX-6001-ACAAW-WO / MPX-6001-ACAAW-BR / MPX-6001-ACAAW-UK / MPX-6001-ACAAW-BU / MPX-6001-ACAAW-CN,ATX,600 W
+470,,,80+ Platinum,,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@45A, -12V@0.3A, +5VSB@3.0A",2,,,SSR-550PX,ATX,550 W
+471,,,80+ Platinum,,Corsair,HX1200i,Full,,6,,,CP-9020070-NA / CP-9020070-UK / HX1200i / CP-9020070-EU / CP-9020070,ATX,1200 W
+472,Black,,80+ Gold,,EVGA,,Full,,4,,,123-GM-0650-Y1,SFX12V,650 W
+473,,,,,Rosewill,,False,"+3.3V@20A, +5V@14A, +12V1@14A, +12V2@13A, -12V@0.3A, +5VSB@2.5A",,1,,RD400-2-SB,ATX12V,400 W
+474,,< 90%,80+ Gold,,Zalman,,Semi,,4,,,zm-650-XG,ATX12V / EPS12V,650 W
+475,Black,,80+ Platinum,,Asus,ROG Thor 1200P,Full,,8,,,ROG-THOR-1200P,ATX,1200 W
+476,,,80+ Platinum,,PC Power & Cooling,,Full,,8,,,FPS1200-A5M00,ATX,1200 W
+477,,,80+ Gold,,Cougar,,False,,4,,,GX-S750,ATX,750 W
+478,,,80+,,Antec,,False,,2,,,VP650 Plus,ATX,650 W
+479,,,80+ Platinum,,be quiet!,,Semi,,8,1,,BN255 / BN655,ATX,1200 W
+480,Black,,80+ Platinum,,Cooler Master,V1000 Platinum,Full,,8,,,MPZ-A001-AFBAPV-US,ATX,1000 W
+481,,,80+ Gold,,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@52A, -12V@0.3A, +5VSB@3A",4,,,SSR-650GD,ATX,650 W
+482,,82-87%,80+ Bronze,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@54A,-12V@0.3A,+5VSB@3A",4,,,Hive-750,ATX12V / EPS12V,750 W
+483,,,80+ Gold,,Corsair,TX850M Gold,Semi,"+3.3V@25A, +5V@25A, +12V@70.8A, -12V@0.8A, +5TX-MB@3A",4,,,CP-9020130-NA / CP-9020130-UK,ATX,850 W
+484,,< 85%,80+ Bronze,,Corsair,,Semi,"+3.3V@25A, +5V@25A, +12V@45A, -12V@0.8A, +5VSB@3A",2,,,TX550M,ATX12V / EPS12V,550 W
+485,,,,,LEPA,,False,"+3.3V@25A, +5V@20A, +12V@34A, -12V@0.8A, +5VSB@3A",1,1,,N500-SA,ATX12V,500 W
+486,,,80+ Gold,,Corsair,SF600,Full,,4,,,CP-9020105-NA / CP-9020105-AU / SF600 / CP-9020105-UK / CP-9020105-EU,SFX12V,600 W
+487,,,80+ Bronze,,Fractal Design,,Semi,,2,,,FD-PSU-IN3B-750W,ATX,750 W
+488,,,80+ Bronze,,Corsair,CX550 (2017),False,,2,,,CP-9020121-NA,ATX,550 W
+489,Black,,80+ Gold,,Corsair,RM850x (2018),Full,,6,,,CP-9020180-NA,ATX,850 W
+490,,90 - 94% at 10 - 100% loading,80+ Titanium,,Silverstone,,Full,"+3.3V@16A, +5V@15A, +12V1@66A, +5VSB@2.5A, -12V@0.3A",4,,,SST-SX800-LTI / SX800-LTI,SFX12V,800 W
+491,,"> 82%, Up to 87%",80+ Bronze,,Rosewill,,Semi,"+3.3V@23A,+5V@23A,+12V@83.4A,-12V@0.5A,+5VSB@3A",6,,,HIVE-1000S,ATX12V / EPS12V,1000 W
+492,Black,,80+ Bronze,,Raidmax,,Semi,,2,,,RX-535AP-R,ATX,535 W
+493,,,80+ Gold,,SeaSonic,,Semi,,2,,,SSR-450FM,ATX,450 W
+494,Black,,80+ Gold,,SeaSonic,,Full,,6,,,SSR-1000FX,ATX,1000 W
+495,,,,,Thermaltake,,False,"+3.3V@23A, +5V@17A, +12V@48A, -12V@0.5A, +5VSB@2.5A",2,,,PS-LTP-0650NPCNUS-F,ATX,650 W
+496,,,80+ Gold,,Cooler Master,V550,Full,,2,,,RS550-AFBAG1-US,ATX,550 W
+497,,> 92%,80+ Platinum,,FSP Group,,Semi,16A @ +3.3V DC<br/>18A @ +5V DC<br/>18A @ +12V1 DC<br/>18A @ +12V2 DC<br/>18A @ +12V3 DC<br/>18A @ +12V4 DC<br/>0.3A @ -12V DC<br/>3.0A @ +5Vsb DC Standby,2,,,PT-650M,ATX12V / EPS12V,650 W
+498,,,80+ Bronze,,Thermaltake,,Semi,,2,,2,SP-650M,ATX12V / EPS12V,650 W
+499,Black / Blue,,80+ Platinum,True,Silverstone,NJ450-SXL,Full,,4,,,SST-NJ450-SXL,SFX12V,450 W
+500,,80% Efficiency,80+,,Thermaltake,,False,"+3.3V@20A, +5V@15A, +12V@35A, -12V@0.5A, +5VSB@2.5A",2,,,PS-SPD-0500NPCWUS-W,ATX12V / EPS12V,500 W
+501,,90% (115VAC) / 92% (220VAC~240VAC) or Higher Typical,80+ Gold,,EVGA,SuperNOVA 850,Full,"+3.3V@25A, +5V@25A, +12V@70A, +5VSB@3A, -12V@0.5A",8,,,220-GS-0850-V1,ATX12V / EPS12V,850 W
+502,,87%~90% at 20%~100% loading,80+ Gold,,Silverstone,,Full,"+3.3V@22A, +5V@20A, +12V@54A, -12V@0.3A, +5VSB@2.5A",2,2,,ST65F-G / SST-ST65F-G,ATX12V / EPS12V,650 W
+503,,,,,Apevia,APEVIA ATX-WR680W 680W ATX12V v2.3 SLI CrossFire Active PFC Power Supply,Semi,"+3.3V@17A, +5V@16A, +12V@51A, -12V@0.3A, +5Vsb@2.5A",2,,,ATX-WR680W,ATX12V,680 W
+504,Black,,80+ Gold,,EVGA,,Full,,4,,,123-GM-0550-Y1,SFX12V,550 W
+505,,"Up to 90% efficiency at 115Vac, 50% load",80+ Gold,,SeaSonic,,False,"+3.3V@20A, +5V@20A, +12V1@37A, +12V2@37A, -12V@0.3A, +5VSB@2.5A",2,,,SSP-450RT,ATX12V,450 W
+506,Black,,80+ Gold,,be quiet!,,Semi,,2,,,BN297 / BN628,ATX,500 W
+507,,,80+ Bronze,,Apevia,,False,"+3.3V@20A, +5V@20A, +12V@74A, -12V@0.3A, +5Vsb@2.5A",4,,,ATX-JP1000W,ATX12V,1000 W
+508,,,80+ Platinum,,SeaSonic,,Full,"+3.3V@20A, +5V@20A, +12V@54A, -12V@0.3A, +5VSB@3.0A",4,,,SSR-650PX,ATX,650 W
+509,,,,,Logisys,,False,"+3.3V@30A, +5V@38A, +12V@25A, -12V@0.8A, +5VSB@2.0A",,,,PS550E12,ATX12V,550 W
+510,Black,,80+ Titanium,,Raidmax,,Semi,,4,,,RX-700AT,ATX,700 W
+511,,85% Efficiency,80+ Bronze,,EVGA,,Full,"+3.3V@20A, +5V@20A, +12V@45.8A, +5Vsb@3A, -12V@0.5A",2,,,220-B3-0550-V1 / 220-B3-0550-V3,ATX,550 W
+512,,85-88%,80+ Silver,,Silverstone,,False,"+3.3V@40A, +5V@40A, +12V1@25A, +12V2@25A, +12V3@25A, +12V4@25A, +12V5@25A, +12V6@25A, +12V7@25A",4,4,,ST1500 / SST-ST1500,ATX12V / EPS12V,1500 W
+513,,90% (115VAC) / 92% (220VAC~240VAC) or Higher Typical,80+ Gold,,EVGA,SuperNOVA 650,Full,"+3.3V@20A, +5V@20A, +12V@54A, +5VSB@2.5A, -12V@0.3A",4,,,220-GS-0650-V1,ATX12V / EPS12V,650 W
+514,,90%,80+ Gold,,Corsair,,Semi,"+3.3V@25A, +5V25A, +12V@60A, -12V@0.8A, +5VSB@3A",4,,,HX750 / CP-9020031-NA / CP-9020031-AU,ATX12V / EPS12V,750 W
+515,,,80+ Gold,,FSP Group,,Full,,4,,,HG750,ATX12V / EPS12V,750 W
+516,,,80+ Gold,,Corsair,RM650i,Full,,4,,,CP-9020081-NA / CP-9020081-UK / CP-9020081-EU,ATX,650 W
+517,White,,80+ Titanium,,SeaSonic,,Full,,4,,,SSR-750TR-SNOWSILENT / PRIME Snow Silent 750,ATX,750 W
+518,White / Black,,80+ Gold,,Corsair,,Full,,6,,,CP-9020188-NA,ATX,850 W
+519,,< 85%,80+ Bronze,,Corsair,CX750,False,"+3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5VSB@3A",4,,,CP-9020015-NA / CP-9020015-UK / CP-9020015-AU / CP-9020015-EU,ATX12V / EPS12V,750 W
+520,,,80+ Gold,,Cougar,,False,,2,,,GX-S550,ATX,550 W
+521,,> 85%,80+ Gold,,Rosewill,,Semi,"+3.3V@25A,+5V@25A,+12V@83A,-12V@0.3A,+5VSB@3.5A",8,,,Capstone G1000,ATX12V / EPS12V,1000 W
+522,Black,,80+ Gold,,Antec,EARTHWATTS GOLD PRO 550,Semi,,2,,,EA550G Pro,ATX,550 W
+523,,,80+ Gold,,SeaSonic,,Full,,4,,,SS-650KM3 / SS-650KM3 F3 / X-650 / X650 Gold (SS-650KM3 Active PFC),ATX,650 W
+524,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@25A,+5V@25A,+12V@100A,-12V@0.3A,+5VSB@4A",8,,,PHOTON-1200,ATX12V / EPS12V,1200 W
+525,,,,,CoolMax,,False,"+3.3V@22A, +5V@25A, +12V@16A, -12V@0.3A, +5VSB@2A",,,,CM-300,Micro ATX,300 W
+526,,87%~90% at 20%~100% loading,80+ Gold,,Silverstone,,Full,"+3.3V@22A, +5V@25A, +12V1@70A, +5VSB@3.5A, -12V@0.3A",4,,,ST75F-GS / SST-ST75F-GS,ATX,750 W
+527,,> 72%,,,Thermaltake,,False,"+3.3V@22A, +5V@18A, +12V1@23A, +12V2@20A, -12V@0.3A, +5VSB@2.5A",1,1,,TR-600,ATX12V,600 W
+528,,< 92%,80+ Gold,,Corsair,,Full,,6,,,RM850 / CP-9020056-UK / CP-9020056-NA / CP-9020056-EU,ATX12V / EPS12V,850 W
+529,,,,,Rosewill,,False,"+3.3V@22A, +5V@16A, +12V1@15A, +12V2@16A, -12V@0.8A, +5VSB@2.5A",,1,,RD500-2SB,ATX12V,500 W
+530,,,,,EVGA,,False,,2,,,100-N1-0750-L1,ATX,750 W
+531,,85% Typical,80+ Bronze,,EVGA,,False,"+3.3V@18A, +5V@18A, +12V@35A, +5Vsb@2.5A, -12V@0.3A",2,,,100-BT-0450-K1,ATX,450 W
+532,,,80+ Gold,,Corsair,RM850x White,Full,"+3.3V@25A, +5V@25A, +12V@70.8A, -12V@0.8A, +5Vsb@3A",6,,,CP-9020156-NA / CP-9020156-UK / CP-9020156-EU / CP-9020156-AU / CP-9020156-CN / CP-9020156-JP / CP-9020156-KR / CP-9020156-WW / CP-9020156-TW,ATX,850 W
+533,Black,,80+ Bronze,,Silverstone,,False,,1,1,,ST45SF-V3,SFX12V,450 W
+534,,82-87%,80+ Bronze,,Rosewill,,Semi,"+3.3V@22A,+5V@22A,+12V@38A,-12V@0.3A,+5VSB@3A",2,,,Hive-550,ATX12V / EPS12V,550 W
+535,Black,,80+ Gold,,be quiet!,,Semi,,4,,,BN299 / BN630,ATX,700 W
+536,Black,,80+ Bronze,,SeaSonic,,False,,2,,,SSR-450GB3,ATX,450 W
+537,,82%~85% at 20%~100% loading,80+ Bronze,,Silverstone,,False,"+3.3V@20A, +5V@20A, +12V@37.5A, +5VSB@2.5A, -12V@0.3A",1,1,,ST50F-ESB,ATX12V,500 W
+538,Black / Silver,,80+ Titanium,,Corsair,,Full,,6,,,CP-9020151-NA / CP-9020151-UK,ATX,850 W
+539,,85%,80+ Bronze,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@54.2A, -12V@0.3A, +5VSB@2.5A",4,,,PS-SPR-0650FPCBUS-R,ATX,650 W
+540,White,,80+ Gold,,SeaSonic,,Full,,2,,,SSR-550GD2-SNOWSILENT / PRIME Snow Silent 550,ATX,550 W
+541,Black,,80+ Gold,,EVGA,,Full,,2,,,123-GM-0450-Y1,SFX12V,450 W
+542,,< 87%,80+ Bronze,,Antec,,Semi,"+5V@24A, +3.3V@24A, +12V@40A, -12V@0.8A, +5VSB@2.5A",2,,,HCG-520M,ATX12V / EPS12V,520 W
+543,,,80+ Titanium,,Silverstone,,Full,,4,,,ST70F-TI / PS-ST70F-TI / SST-ST70F-TI,ATX,700 W
+544,,,80+,,Cooler Master,MasterWatt Lite 500W Full Range,False,,2,,,MPX-5001-ACAAW / MPX-5001-ACAAW-AU / MPX-5001-ACAAW-EU / MPX-5001-ACAAW-JP / MPX-5001-ACAAW-KR / MPX-5001-ACAAW-TW / MPX-5001-ACAAW-US / MPX-5001-ACAAW-WO / MPX-5001-ACAAW-BR / MPX-5001-ACAAW-UK / MPX-5001-ACAAW-BU / MPX-5001-ACAAW-CN,ATX,500 W
+545,Black,,80+ Gold,,be quiet!,,False,,4,,,BN902 / BN627,ATX,600 W
+546,,> 85%,80+ Gold,,Rosewill,,Semi,"+3.3V@20A,+5V@18A,+12V@62A,-12V@0.3A,+5VSB@2.5A",4,,,Capstone G750,ATX12V / EPS12V,750 W
+547,Black,,80+ Bronze,,SeaSonic,,False,,2,,,SSR-500GB3,ATX,500 W
+548,,87-92% efficiency @ 20-100% load,80+ Gold,,Thermaltake,,Semi,,6,,,PS-TPD-1000MPCGUS-1,ATX12V / EPS12V,1000 W
+549,,,80+ Gold,,Antec,,Full,,6,,,HCG850 Extreme,ATX,850 W
+550,,,80+ Platinum,,Corsair,SF750,Full,,4,,,CP-9020186-NA / CP-9020186-EU,SFX12V,750 W
+551,,> 85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@83A,-12V@0.5A,+5VSB@3A",6,,,Glacier 1000M,ATX12V / EPS12V,1000 W
+552,,,,,Apevia,,False,,,,,ATX-VS450W,ATX,450 W
+553,,> 85%,80+ Bronze,,CoolMax,,Semi,"+5V@30A, +3.3A@30A, +12V1@83A, -12V@0.8A, +5VSB@3A",2,2,,ZU-1000B,ATX12V / EPS12V,1000 W
+554,Black,,80+ Platinum,,G.Skill,PS850P,Full,,6,,,GP-PL850A-CWV1,ATX,850 W
+555,,,80+,,EVGA,,False,,1,,,100-W1-0430-KR,ATX12V / EPS12V,430 W
+556,Black,,80+ Gold,,NZXT,E650,Full,,4,,,NP-1PM-E650A,ATX,650 W
+557,,< 88%,80+ Bronze,,Antec,,Semi,"+3.3V@25A, +5V@25A, +12V1@40A, +12V2@40A, -12V@0.5A, +5Vsb@3A",4,,,HCG-850M,ATX12V / EPS12V,850 W
+558,Black,,80+ Gold,,Rosewill,,Semi,,2,,,LEPTON 600,ATX,600 W
+559,,,80+ Gold,,Silverstone,SX650-G,Full,,4,,,SST-SX650-G / SX650-G,SFX12V,650 W
+560,,up to 91.18%,80+ Gold,,Raidmax,,Semi,"+3.3V@25A, +5V@25A, +12V1@60A, +12V2@60A, -12V@0.8A ,5VSB@3A",6,,,RX-1000GH,ATX12V / EPS12V,1000 W
+561,,< 85%,80+ Bronze,,PC Power & Cooling,,Semi,"+3.3V@24A, +5V@24A, +12V@46A, -12V@0.8A, +5VSB@2.5A",2,,,PPCMK3S600,ATX12V,600 W
+562,,,80+ Gold,,EVGA,SuperNOVA 1000,Full,"+3.3@20A, +5V@20A, +12V@83.3A, +5BSB@2.5A, -12V@0.5A",6,,,120-G2-1000-XR,ATX12V / EPS12V,1000 W
+563,,90% (115VAC) / 92% (220VAC~240VAC) or Higher Typical,80+ Gold,,EVGA,SuperNOVA 550,Full,"+3.3V@22A, +5V@22A, +12V@45.8A, +5VSB@3.0A, -12V@0.5A",2,1,,220-G2-0550-Y1 / 220-G2-0550-Y3,ATX,550 W
+564,Black,,80+ Gold,,Antec,,Full,,6,,,HCG850 Gold,ATX,850 W
+565,,,80+ Titanium,,SeaSonic,,Full,,4,,,SSR-650TR,ATX,650 W
+566,,,80+ Bronze,,Corsair,CX750 (2017),False,,4,,,CP-9020123-NA,ATX,750 W
+567,,> 65%,,,Sparkle,,False,"+3.3V@28A, +5V@30A, -5V@0.3A, +12V@15A, -12V@0.8A, +5VSB@2A",,,,FSP300-60ATV,ATX,300 W
+568,,> 85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@37A,-12V@0.3A,+5VSB@2.5A",2,,,Glacier 500M,ATX12V / EPS12V,500 W
+569,,> 80%,80+,,Antec,,False,"+3.3V@25A, +5V@24A, +12V1@22A, +12V2@22A, -12V@0.8A, +5VSB@2.5A",1,1,,EA500D,ATX12V,500 W
+570,Black,> 90%,80+ Gold,,Thermaltake,Toughpower SFX 600W Gold,Full,"+3.3V@20A, +5V@15A, +12V@50A, -12V@0.3A, +5VSB@2.5A",2,,,PS-STP-0600FPCGUS-G / PS-STP-0600FPCGEU-G / PS-STP-0600FPCGAU-G,SFX12V,600 W
+571,Black / Red,,80+ Platinum,,Asus,ROG Thor 850,Full,,4,,,ROG-THOR-850P,ATX,850 W
+572,,87-92%,80+ Gold,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@37A,-12V@0.5A,+5VSB@3A",2,,,CAPSTONE-450-M,ATX12V / EPS12V,450 W
+573,,85%,80+ Bronze,,Thermaltake,,Full,"+3.3V@22A, +5V@22A, +12V@70.5A, -12V@0.5A, +5VSB@3A",4,,,PS-SPR-0850FPCBUS-R,ATX,850 W
+574,,> 85%,80+ Bronze,,Rosewill,,Semi,"+3.3V@20A,+5V@20A,+12V@45A,-12V@0.3A,+5VSB@2.5A",2,,,Glacier 600M,ATX12V / EPS12V,600 W
+575,,,80+ Bronze,,Corsair,CX450 (2017),False,,1,,,CP-9020120-NA,ATX,450 W
+576,,85% @ Typical Load,80+ Bronze,,Cooler Master,,Semi,"+3.3V@22A, +5V@22A, +12@54.1A, -12V@0.3A, +5VSB@3A",4,,,MPX-6501-AMAAB-US,ATX12V,650 W
+577,,,,,Solid Gear,,False,,2,2,,SDGR-900E,ATX,900 W
+578,,,80+ Bronze,,Fractal Design,,Semi,,2,,,FD-PSU-IN3B-550W,ATX,550 W
+579,,,80+ Gold,,Corsair,SF450,Full,,2,,,CP-9020104-NA / CP-9020104-AU / SF450 / CP-9020104-UK / CP-9020104-EU,SFX12V,450 W
+580,,,80+ Bronze,,Fractal Design,,Semi,,2,,,FD-PSU-IN3B-650W,ATX,650 W
+581,,87-92%,80+ Gold,,Rosewill,,False,"+3.3V@22A,+5V@22A,+12V@45.5A,-12V@0.5A,+5VSB@3A",3,,,CAPSTONE-550,ATX12V / EPS12V,550 W
+582,,,80+ Bronze,,Silverstone,,False,,,1,,ST70F-ESB / SST-ST70F-ESB,ATX12V / EPS12V,700 W
+583,,,80+ Platinum,,Corsair,HX1000 Platinum,Full,"+3.3V@25A, +5V@25A, +12V@83.3A, -12V@0.8A, +5HXB@3A",8,,,CP-9020139-NA / CP-9020139-WW / CP-9020139-UK / CP-9020139-EU / CP-9020139-AU / CP-9020139-CN / CP-9020139-JP / CP-9020139-KR,ATX,1000 W
+584,,,80+ Titanium,,SeaSonic,,Full,,4,,,SSR-750TR,ATX,750 W
+585,,,80+ Silver,,Athena Power,,False,+3.3V@18A    <br/>+5V@18A      <br/>+12V1@20A       <br/>+12V2@20A       <br/>-5V@0.5A        <br/>-12V@0.5A    <br/>+5V-SB@3.0A,2,,,AP-MFATX50P8,Flex ATX,500 W
+586,,> 87% (Up to 92%),80+ Gold,,Rosewill,,Semi,"+3.3V@24A,+5V@24A,+12V@82A,-12V@0.5A,+5VSB@3A",6,,,CAPSTONE-1000-M,ATX12V / EPS12V,1000 W
+587,,Up to 92%,80+ Gold,,Rosewill,,Full,"+3.3V@25A,+5V@25A,+12V@70.5A,-12V@0.3A,+5VSB@4A",6,,,PHOTON-850,ATX12V / EPS12V,850 W
+588,,,80+ Silver,,be quiet!,,Semi,,4,,,BN278 / BN678,ATX,600 W
+589,,,80+ Gold,,SeaSonic,,Semi,,2,,,SSR-650FM,ATX,650 W
+590,,,,,Corsair,VS550,False,,2,,,CP-9020050-WW / CMPSU-VS550,ATX12V / EPS12V,550 W
+591,,> 90%,80+ Gold,,Cooler Master,,Full,"+3.3V@25A, +5V@25A, +12V@70A, -12V@0.5A, +5Vsb@3A",6,,,RS850-AFBAG1-US / RS850-AFBAG1-AU,ATX12V / EPS12V,850 W
