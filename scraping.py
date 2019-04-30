@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import os, time, requests, re, random
 
 from bs4 import BeautifulSoup
@@ -208,9 +210,9 @@ def download_parts(part_type: str) -> None:
 
 
 if __name__ == "__main__":
-    #download_parts('cpu')
-    #download_parts('cpu-cooler')
-    #download_parts('motherboard')
+    download_parts('cpu')
+    download_parts('cpu-cooler')
+    download_parts('motherboard')
     download_parts('memory')
     download_parts('internal-hard-drive')
     download_parts('video-card')
